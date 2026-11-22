@@ -1,3 +1,2 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="BonumTV.hu" tvg-logo="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" group-title="Разное" tvg-name="EWTN TV",EWTN TV
 https://hls.iptvservice.eu/hls/ewtn-hd.m3u8

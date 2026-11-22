@@ -1,3 +1,2 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="tv-prato" tvg-logo="https://i.imgur.com/zDeVpZd.png" group-title="Разное" tvg-name="Tv Prato",Tv Prato
 https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8

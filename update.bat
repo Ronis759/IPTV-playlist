@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 chcp 65001 >nul
 cd /d "%~dp0"
 echo ============================================
@@ -12,11 +12,11 @@ if errorlevel 1 (
   exit /b 1
 )
 
-echo Проверяю каналы и заменяю отвалившиеся (5-10 минут)...
+echo Проверяю каналы и заменяю отвалившиеся...
 node scripts\refresh.mjs
 if errorlevel 1 (
   echo.
-  echo Ошибка при обновлении. Подробности в data\update-report.json
+  echo Ошибка при обновлении. Файл data\update-report.json может содержать подробности.
   pause
   exit /b 1
 )
@@ -25,16 +25,4 @@ echo.
 echo Проверяю формат файлов...
 node scripts\validate.mjs
 echo.
-echo Готово. Отправляю изменения на GitHub...
-git add -A
-git diff --cached --quiet
-if not errorlevel 1 (
-  echo Изменений нет.
-  pause
-  exit /b 0
-)
-git commit -m "Обновление плейлиста"
-git push
-echo.
-echo Готово! Сайт обновится через 1-2 минуты.
 pause

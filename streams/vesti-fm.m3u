@@ -1,3 +1,2 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="vesti-fm" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/371/033/8.png" group-title="Разное" tvg-name="Вести ФМ",Вести ФМ
 https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417

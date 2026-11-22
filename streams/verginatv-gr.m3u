@@ -1,3 +1,2 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="verginatv.gr" tvg-logo="https://i.imgur.com/cpF6wvR.png" group-title="Разное" tvg-name="Vergina",Vergina
 https://verginanews.gr:8443/hls_live/stream1.m3u8

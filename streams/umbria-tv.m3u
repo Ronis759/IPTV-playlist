@@ -1,3 +1,2 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="umbria-tv" tvg-logo="https://i.imgur.com/XKCVEmK.png" group-title="Разное" tvg-name="Umbria Tv",Umbria Tv
 https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
