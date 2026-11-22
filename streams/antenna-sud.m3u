@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="antenna-sud" tvg-logo="https://i.imgur.com/b8y6ImZ.png" group-title="Разное" tvg-name="Antenna Sud",Antenna Sud
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8

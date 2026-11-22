@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="klasik" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" group-title="Разное" tvg-name="Klasik",Klasik
+https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8

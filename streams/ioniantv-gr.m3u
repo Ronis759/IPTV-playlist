@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ioniantv.gr" tvg-logo="https://i.imgur.com/ADVYeQd.png" group-title="Разное" tvg-name="Ionian Channel",Ionian Channel
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8

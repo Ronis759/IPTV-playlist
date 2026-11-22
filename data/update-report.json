@@ -1,0 +1,70 @@
+{
+  "updatedAt": "2026-11-22T16:54:09.924Z",
+  "checked": 349,
+  "quickAlive": 349,
+  "playingFast": 347,
+  "playingSlow": 0,
+  "broken": 2,
+  "replaced": 0,
+  "added": 5,
+  "removed": 2,
+  "removedList": [
+    {
+      "name": "Sláger FM",
+      "url": "https://budapest-cache-1.antik.sk/live/slager/index.m3u8",
+      "why": "нет рабочего потока"
+    },
+    {
+      "name": "Antenna Sud Extra",
+      "url": "https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8",
+      "why": "нет рабочего потока"
+    }
+  ],
+  "replacedList": [
+    {
+      "name": "Belarus-5 (1080p)",
+      "newUrl": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+      "replacedUrl": "добор для баланса категорий",
+      "source": "Беларусь",
+      "ms": 218
+    },
+    {
+      "name": "Belarus-24 HD (1080p)",
+      "newUrl": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
+      "replacedUrl": "добор для баланса категорий",
+      "source": "Беларусь",
+      "ms": 230
+    },
+    {
+      "name": "Radio Mir (720p)",
+      "newUrl": "https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8",
+      "replacedUrl": "добор для баланса категорий",
+      "source": "Беларусь",
+      "ms": 382
+    },
+    {
+      "name": "TNT4 International (576p)",
+      "newUrl": "https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv",
+      "replacedUrl": "добор для баланса категорий",
+      "source": "Беларусь",
+      "ms": 341
+    },
+    {
+      "name": "Vitebsk (720p)",
+      "newUrl": "https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8",
+      "replacedUrl": "добор для баланса категорий",
+      "source": "Беларусь",
+      "ms": 228
+    }
+  ],
+  "slowList": [],
+  "brokenList": [
+    {
+      "name": "Sláger FM"
+    },
+    {
+      "name": "Antenna Sud Extra"
+    }
+  ],
+  "durationSec": 268
+}

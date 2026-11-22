@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="pellatv.gr" tvg-logo="https://i.imgur.com/pwUkkGL.jpeg" group-title="Разное" tvg-name="Pella",Pella
+https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8

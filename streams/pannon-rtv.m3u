@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="pannon-rtv" tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="Разное" tvg-name="Pannon RTV",Pannon RTV
+https://stream2.nmih.hu:4102/live.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="easy-tv-canale-190" tvg-logo="https://i.imgur.com/LKrVuRR.jpg" group-title="Разное" tvg-name="Easy Tv Canale 190",Easy Tv Canale 190
+https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8

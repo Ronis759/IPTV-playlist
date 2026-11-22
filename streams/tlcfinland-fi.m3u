@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TLCFinland.fi" tvg-logo="https://i.imgur.com/0d5hP3A.png" group-title="Разное" tvg-name="TLC Finland",TLC Finland
+https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv

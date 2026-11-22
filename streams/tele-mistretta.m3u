@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tele-mistretta" tvg-logo="https://i.imgur.com/OJ3zUS0.png" group-title="Разное" tvg-name="Tele Mistretta",Tele Mistretta
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="hightv.gr" tvg-logo="https://i.imgur.com/wHzCGry.png" group-title="Разное" tvg-name="High TV",High TV
+https://live.streams.ovh/hightv/hightv/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NasaTV.mk" tvg-logo="https://i.imgur.com/EOLrXvB.png" group-title="Базовые" tvg-name="Наша ТВ",Наша ТВ
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8

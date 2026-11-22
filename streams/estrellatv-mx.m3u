@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EstrellaTV.mx" tvg-logo="https://graph.facebook.com/EstrellaTV/picture?width=200&height=200" group-title="Разное" tvg-name="Estrella TV",Estrella TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8

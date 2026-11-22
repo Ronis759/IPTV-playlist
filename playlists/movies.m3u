@@ -1,0 +1,6 @@
+#EXTM3U
+# Кино В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 2
+#EXTINF:-1 tvg-id="smotrim-chestnyy-detektiv" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/444/241/8.png" group-title="Кино" tvg-name="Смотрим: Честный Детектив",Смотрим: Честный Детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="action-hollywood-movies" tvg-logo="" group-title="Кино" tvg-name="Action Hollywood Movies",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8

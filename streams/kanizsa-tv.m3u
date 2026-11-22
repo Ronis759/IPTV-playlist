@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="kanizsa-tv" tvg-logo="" group-title="Разное" tvg-name="Kanizsa TV",Kanizsa TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8

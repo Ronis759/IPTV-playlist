@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IPTV-playlist — рабочие русскоязычные каналы</title>
+  <meta name="description" content="Проверенный IPTV-плейлист на русском языке: Базовые, Развлекательные, Познавательные, Кино, Музыка, Детские, Спорт, Беларусь. Каналы проверяются автоматически.">
+  <meta name="theme-color" content="#0b0d12">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+  <header class="hero">
+    <div class="wrap">
+      <div class="badge">Обновляется автоматически</div>
+      <h1>IPTV-playlist</h1>
+      <p class="lead">
+        Рабочие русскоязычные каналы, разложенные по категориям. Каждый канал проверяется вживую:
+        поток отвечает, видео реально отдаётся, отклик быстрый. Сломанные каналы заменяются автоматически.
+      </p>
+
+      <div class="stats" id="stats">
+        <div class="stat"><b id="statTotal">—</b><span>каналов</span></div>
+        <div class="stat"><b id="statArchive">—</b><span>с архивом</span></div>
+        <div class="stat"><b id="statGroups">—</b><span>категорий</span></div>
+        <div class="stat"><b id="statDate">—</b><span>обновлён</span></div>
+      </div>
+
+      <div class="actions">
+        <button class="btn primary" id="copyBtn" type="button">Скопировать ссылку на плейлист</button>
+        <a class="btn" href="IPTV-playlist.m3u" download>Скачать .m3u</a>
+        <a class="btn ghost" href="https://ronis759.github.io/IPTV-online/" target="_blank" rel="noopener">Открыть в плеере</a>
+      </div>
+
+      <div class="link-box">
+        <code>https://ronis759.github.io/IPTV-playlist/IPTV-playlist.m3u</code>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <nav class="tabs" id="tabs" aria-label="Категории"></nav>
+    <div class="search-row">
+      <input id="search" type="search" placeholder="Поиск канала…" autocomplete="off" spellcheck="false">
+      <span class="counter" id="counter"></span>
+    </div>
+    <ul class="grid" id="grid"></ul>
+    <div class="empty" id="empty" hidden>Ничего не найдено.</div>
+
+    <section class="info">
+      <h2>Как пользоваться</h2>
+      <ol>
+        <li>Скопируйте ссылку на плейлист и вставьте в приложение IPTV (VLC, OTT Navigator, IPTV Smarters, Noxis-IPTV).</li>
+        <li>Или откройте в браузерном плеере: <a href="https://ronis759.github.io/IPTV-online/" target="_blank" rel="noopener">IPTV Online</a> → «Плейлисты» → вставьте ссылку.</li>
+        <li>Нужна только одна категория — берите отдельный файл в разделе ниже.</li>
+      </ol>
+
+      <h2>Файлы по категориям</h2>
+      <ul class="files" id="files"></ul>
+
+      <h2>Как это обновляется</h2>
+      <p>
+        Раз в сутки GitHub Actions запускает проверку: каждый канал проверяется на доступность, CORS и скорость.
+        Отвалившиеся или слишком медленные каналы заменяются другими потоками того же канала либо аналогичным каналом
+        из той же категории. История замен — в <a href="data/update-report.json">отчёте об обновлении</a>.
+      </p>
+
+      <h2>Что внутри</h2>
+      <ul>
+        <li>Только русскоязычные каналы (Россия, Беларусь, Казахстан, вещание на русском).</li>
+        <li>Только потоки по <code>https</code> — работают в браузере и на телефоне без предупреждений.</li>
+        <li>Каналы с поддержкой архива отмечены значком <b>архив</b> и стоят в начале списка.</li>
+        <li>Никакой воды: мёртвые ссылки, гео-«заглушки» и медленные потоки отфильтрованы.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="wrap footer">
+    <span>IPTV-playlist · открытые источники (iptv-org, Free-TV) · проверка автоматическая</span>
+  </footer>
+
+  <div class="toast" id="toast" hidden></div>
+  <script type="module" src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4-you-tv" tvg-logo="https://i.imgur.com/NN0cSbz.png" group-title="Разное" tvg-name="4 You Tv",4 You Tv
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8

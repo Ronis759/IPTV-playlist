@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KIKA.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title="Разное" tvg-name="KiKa Ⓖ",KiKa Ⓖ
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8

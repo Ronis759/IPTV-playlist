@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24h.es" tvg-logo="https://i.imgur.com/ZKR2jKr.png" group-title="Разное" tvg-name="24h",24h
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8

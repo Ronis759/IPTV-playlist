@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="feh-rv-rtv" tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" group-title="Разное" tvg-name="FehérvárTV",FehérvárTV
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8

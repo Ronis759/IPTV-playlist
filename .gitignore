@@ -1,0 +1,5 @@
+# Служебные файлы: локальные логи сборки
+build-log.txt
+refresh-log.txt
+candidates.txt
+node_modules/
