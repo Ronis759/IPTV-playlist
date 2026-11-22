@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-22T17:24:40.399Z",
-  "total": 376,
+  "updatedAt": "2026-11-22T18:03:08.338Z",
+  "total": 387,
   "withArchive": 0,
   "categories": [
     {
       "id": "basic",
       "title": "Базовые",
-      "count": 29
+      "count": 32
     },
     {
       "id": "by",
       "title": "Беларусь",
-      "count": 5
+      "count": 4
     },
     {
       "id": "entertainment",
@@ -46,7 +46,7 @@
     {
       "id": "other",
       "title": "Разное",
-      "count": 280
+      "count": 289
     }
   ]
 }

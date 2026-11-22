@@ -41,8 +41,8 @@ const SOURCES = [
   { id: 'ru', name: 'Р РѕСЃСЃРёСЏ', url: 'https://iptv-org.github.io/iptv/countries/ru.m3u' },
   { id: 'by', name: 'Р‘РµР»Р°СЂСѓСЃСЊ', url: 'https://iptv-org.github.io/iptv/countries/by.m3u' },
   { id: 'kz', name: 'РљР°Р·Р°С…СЃС‚Р°РЅ', url: 'https://iptv-org.github.io/iptv/countries/kz.m3u' },
-  { id: 'rus', name: 'Р СѓСЃСЃРєРѕСЏР·С‹С‡РЅС‹Рµ', url: 'https://iptv-org.github.io/iptv/languages/rus.m3u' },
-  { id: 'free-tv', name: 'Free-TV', url: 'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8' },
+  { id: 'ua', name: 'Украина', url: 'https://iptv-org.github.io/iptv/countries/ua.m3u' },{ id: 'rus', name: 'Р СѓСЃСЃРєРѕСЏР·С‹С‡РЅС‹Рµ', url: 'https://iptv-org.github.io/iptv/languages/rus.m3u' },
+  { id: 'ee', name: 'Эстония', url: 'https://iptv-org.github.io/iptv/countries/ee.m3u' },{ id: 'lv', name: 'Латвия', url: 'https://iptv-org.github.io/iptv/countries/lv.m3u' },{ id: 'lt', name: 'Литва', url: 'https://iptv-org.github.io/iptv/countries/lt.m3u' },{ id: 'free-tv', name: 'Free-TV', url: 'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8' },
 ];
 
 const CYRILLIC = /[Р°-СЏС‘]/i;
@@ -346,6 +346,8 @@ main().catch((error) => {
   console.error(error);
   process.exit(1);
 });
+
+
 
 
 

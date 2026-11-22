@@ -1,0 +1,1 @@
+const fs=require("fs");let c=fs.readFileSync("E:/OpenCode/IPTV-playlist/scripts/build.mjs","utf8");c=c.replace("{ id: \"rus\"","{ id: \"ua\", name: \"\\u0423\\u043a\\u0440\\u0430\\u0438\\u043d\\u0430\", url: \"https://iptv-org.github.io/iptv/countries/ua.m3u\" },\\n{ id: \"rus\"");fs.writeFileSync("E:/OpenCode/IPTV-playlist/scripts/build.mjs",c);console.log("ok");

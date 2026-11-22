@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-22T17:24:40.397Z",
-  "total": 376,
+  "updatedAt": "2026-11-22T18:03:08.336Z",
+  "total": 387,
   "stats": {
     "tasks": 951,
     "checked": 951,
-    "alive": 381
+    "alive": 392
   },
   "channels": [
     {
@@ -15,7 +15,7 @@
       "g": "Разное",
       "a": false,
       "s": "masperfil-ar",
-      "ms": 1387,
+      "ms": 1346,
       "src": [
         "Free-TV"
       ]
@@ -28,7 +28,7 @@
       "g": "Разное",
       "a": false,
       "s": "111-tv",
-      "ms": 411,
+      "ms": 373,
       "src": [
         "Free-TV"
       ]
@@ -41,7 +41,7 @@
       "g": "Разное",
       "a": false,
       "s": "16tv",
-      "ms": 805,
+      "ms": 775,
       "src": [
         "Free-TV"
       ]
@@ -54,20 +54,33 @@
       "g": "Разное",
       "a": false,
       "s": "24h-es",
-      "ms": 528,
+      "ms": 409,
+      "src": [
+        "Free-TV"
+      ]
+    },
+    {
+      "n": "3/24",
+      "u": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+      "l": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/3-24-es.png",
+      "c": "other",
+      "g": "Разное",
+      "a": false,
+      "s": "324-es",
+      "ms": 6455,
       "src": [
         "Free-TV"
       ]
     },
     {
       "n": "360° (1080p)",
-      "u": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
+      "u": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8",
       "l": "https://i.imgur.com/VTJqdoX.png",
       "c": "basic",
       "g": "Базовые",
       "a": false,
       "s": "360-ru",
-      "ms": 752,
+      "ms": 725,
       "src": [
         "iptv-org",
         "Р РѕСЃСЃРёСЏ",
@@ -82,7 +95,7 @@
       "g": "Базовые",
       "a": false,
       "s": "360news-ru",
-      "ms": 691,
+      "ms": 512,
       "src": [
         "iptv-org",
         "Р РѕСЃСЃРёСЏ",
@@ -98,7 +111,7 @@
       "g": "Разное",
       "a": false,
       "s": "4-you-tv",
-      "ms": 513,
+      "ms": 559,
       "src": [
         "Free-TV"
       ]
@@ -111,7 +124,7 @@
       "g": "Музыка",
       "a": false,
       "s": "90-9-jazzy-fm",
-      "ms": 211,
+      "ms": 256,
       "src": [
         "Free-TV"
       ]
@@ -124,7 +137,7 @@
       "g": "Разное",
       "a": false,
       "s": "arkhyz24-ru",
-      "ms": 11037,
+      "ms": 5417,
       "src": [
         "Free-TV"
       ]
@@ -137,7 +150,7 @@
       "g": "Разное",
       "a": false,
       "s": "astrakhan24-ru",
-      "ms": 10512,
+      "ms": 5935,
       "src": [
         "Free-TV"
       ]
@@ -150,7 +163,7 @@
       "g": "Беларусь",
       "a": false,
       "s": "belarus1-by",
-      "ms": 351,
+      "ms": 342,
       "src": [
         "Free-TV"
       ]
@@ -163,7 +176,7 @@
       "g": "Беларусь",
       "a": false,
       "s": "belarus24-by",
-      "ms": 154,
+      "ms": 137,
       "src": [
         "Free-TV"
       ]
@@ -176,20 +189,7 @@
       "g": "Беларусь",
       "a": false,
       "s": "belarus3-by",
-      "ms": 388,
-      "src": [
-        "Free-TV"
-      ]
-    },
-    {
-      "n": "Беларусь 5",
-      "u": "https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
-      "l": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/960px-Belarus_5_logo.svg.png",
-      "c": "by",
-      "g": "Беларусь",
-      "a": false,
-      "s": "belarus5-by",
-      "ms": 160,
+      "ms": 421,
       "src": [
         "Free-TV"
       ]
@@ -202,7 +202,7 @@
       "g": "Разное",
       "a": false,
       "s": "vesti-fm",
-      "ms": 3740,
+      "ms": 279,
       "src": [
         "Free-TV"
       ]
@@ -215,7 +215,7 @@
       "g": "Разное",
       "a": false,
       "s": "vistel",
-      "ms": 254,
+      "ms": 338,
       "src": [
         "Free-TV"
       ]
@@ -228,7 +228,7 @@
       "g": "Базовые",
       "a": false,
       "s": "dim-ua",
-      "ms": 5084,
+      "ms": 270,
       "src": [
         "Free-TV"
       ]
@@ -241,7 +241,7 @@
       "g": "Базовые",
       "a": false,
       "s": "telekanalzvezda-ru",
-      "ms": 4360,
+      "ms": 351,
       "src": [
         "Free-TV"
       ]
@@ -254,7 +254,7 @@
       "g": "Разное",
       "a": false,
       "s": "tv-minidey-ru",
-      "ms": 2184,
+      "ms": 446,
       "src": [
         "Free-TV"
       ]
@@ -267,7 +267,7 @@
       "g": "Базовые",
       "a": false,
       "s": "moskva24-ru",
-      "ms": 10173,
+      "ms": 10774,
       "src": [
         "Free-TV"
       ]
@@ -280,7 +280,20 @@
       "g": "Базовые",
       "a": false,
       "s": "nasatv-mk",
-      "ms": 289,
+      "ms": 365,
+      "src": [
+        "Free-TV"
+      ]
+    },
+    {
+      "n": "Нижний Новгород 24",
+      "u": "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8",
+      "l": "https://i.imgur.com/ZWgPVIC.png",
+      "c": "basic",
+      "g": "Базовые",
+      "a": false,
+      "s": "nizhniynovgorod24-ru",
+      "ms": 10912,
       "src": [
         "Free-TV"
       ]
@@ -293,7 +306,7 @@
       "g": "Базовые",
       "a": false,
       "s": "pervyy-informatsyynnyy",
-      "ms": 549,
+      "ms": 440,
       "src": [
         "Free-TV"
       ]
@@ -306,7 +319,7 @@
       "g": "Детские",
       "a": false,
       "s": "pixeltv-ua",
-      "ms": 5468,
+      "ms": 583,
       "src": [
         "Free-TV"
       ]
@@ -319,7 +332,7 @@
       "g": "Кино",
       "a": false,
       "s": "smotrim-chestnyy-detektiv",
-      "ms": 595,
+      "ms": 352,
       "src": [
         "Free-TV"
       ]
@@ -332,7 +345,7 @@
       "g": "Разное",
       "a": false,
       "s": "solovyovlive-ru",
-      "ms": 463,
+      "ms": 266,
       "src": [
         "Free-TV"
       ]
@@ -345,7 +358,7 @@
       "g": "Базовые",
       "a": false,
       "s": "stv-by",
-      "ms": 452,
+      "ms": 340,
       "src": [
         "Free-TV"
       ]
@@ -358,7 +371,7 @@
       "g": "Разное",
       "a": false,
       "s": "yakutiya24-ru",
-      "ms": 5288,
+      "ms": 1211,
       "src": [
         "Free-TV"
       ]
@@ -371,7 +384,7 @@
       "g": "Разное",
       "a": false,
       "s": "abcme-au",
-      "ms": 1195,
+      "ms": 2623,
       "src": [
         "Free-TV"
       ]
@@ -384,7 +397,7 @@
       "g": "Разное",
       "a": false,
       "s": "abp-ananda-https-bengali-abplive-com",
-      "ms": 3004,
+      "ms": 4209,
       "src": [
         "Free-TV"
       ]
@@ -397,7 +410,7 @@
       "g": "Базовые",
       "a": false,
       "s": "abp-news-https-abplive-com",
-      "ms": 3407,
+      "ms": 4960,
       "src": [
         "Free-TV"
       ]
@@ -410,7 +423,7 @@
       "g": "Разное",
       "a": false,
       "s": "acheloostv-gr",
-      "ms": 219,
+      "ms": 240,
       "src": [
         "Free-TV"
       ]
@@ -423,7 +436,7 @@
       "g": "Кино",
       "a": false,
       "s": "action-hollywood-movies",
-      "ms": 1648,
+      "ms": 1594,
       "src": [
         "Free-TV"
       ]
@@ -436,7 +449,7 @@
       "g": "Разное",
       "a": false,
       "s": "action24tv-gr",
-      "ms": 552,
+      "ms": 528,
       "src": [
         "Free-TV"
       ]
@@ -449,7 +462,7 @@
       "g": "Разное",
       "a": false,
       "s": "adtv",
-      "ms": 689,
+      "ms": 658,
       "src": [
         "Free-TV"
       ]
@@ -462,7 +475,7 @@
       "g": "Разное",
       "a": false,
       "s": "air-connect-tv",
-      "ms": 12137,
+      "ms": 12205,
       "src": [
         "Free-TV"
       ]
@@ -475,7 +488,7 @@
       "g": "Разное",
       "a": false,
       "s": "aistglobaltv-mn",
-      "ms": 701,
+      "ms": 723,
       "src": [
         "Free-TV"
       ]
@@ -488,7 +501,7 @@
       "g": "Разное",
       "a": false,
       "s": "alarabiya-ae",
-      "ms": 317,
+      "ms": 275,
       "src": [
         "Free-TV"
       ]
@@ -501,7 +514,7 @@
       "g": "Разное",
       "a": false,
       "s": "aljazeeraenglish-qa",
-      "ms": 671,
+      "ms": 357,
       "src": [
         "Free-TV"
       ]
@@ -514,7 +527,7 @@
       "g": "Разное",
       "a": false,
       "s": "aljazeerachannel2-qa",
-      "ms": 174,
+      "ms": 1750,
       "src": [
         "Free-TV"
       ]
@@ -527,7 +540,7 @@
       "g": "Разное",
       "a": false,
       "s": "aljazeerachannel-qa",
-      "ms": 441,
+      "ms": 177,
       "src": [
         "Free-TV"
       ]
@@ -540,7 +553,7 @@
       "g": "Разное",
       "a": false,
       "s": "alpauno",
-      "ms": 341,
+      "ms": 350,
       "src": [
         "Free-TV"
       ]
@@ -553,7 +566,7 @@
       "g": "Разное",
       "a": false,
       "s": "antenna-2-bergamo",
-      "ms": 268,
+      "ms": 274,
       "src": [
         "Free-TV"
       ]
@@ -566,7 +579,7 @@
       "g": "Разное",
       "a": false,
       "s": "antenna-sicilia",
-      "ms": 315,
+      "ms": 302,
       "src": [
         "Free-TV"
       ]
@@ -579,7 +592,7 @@
       "g": "Разное",
       "a": false,
       "s": "antenna-sud",
-      "ms": 418,
+      "ms": 396,
       "src": [
         "Free-TV"
       ]
@@ -592,7 +605,7 @@
       "g": "Разное",
       "a": false,
       "s": "antenna-sud-extra",
-      "ms": 181,
+      "ms": 195,
       "src": [
         "Free-TV"
       ]
@@ -605,7 +618,7 @@
       "g": "Разное",
       "a": false,
       "s": "arte-network-orler",
-      "ms": 381,
+      "ms": 294,
       "src": [
         "Free-TV"
       ]
@@ -618,7 +631,7 @@
       "g": "Разное",
       "a": false,
       "s": "astratv-gr",
-      "ms": 223,
+      "ms": 231,
       "src": [
         "Free-TV"
       ]
@@ -631,7 +644,7 @@
       "g": "Разное",
       "a": false,
       "s": "auto-tv-720p",
-      "ms": 429,
+      "ms": 1053,
       "src": [
         "Free-TV"
       ]
@@ -644,7 +657,20 @@
       "g": "Разное",
       "a": false,
       "s": "bantan",
-      "ms": 710,
+      "ms": 437,
+      "src": [
+        "Free-TV"
+      ]
+    },
+    {
+      "n": "Bartók Rádió",
+      "u": "https://budapest-cache-1.antik.sk/live/bartok_radio/index.m3u8",
+      "l": "https://upload.wikimedia.org/wikipedia/hu/c/ce/MR3-BARTOK.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original",
+      "c": "other",
+      "g": "Разное",
+      "a": false,
+      "s": "bartokradio-hu",
+      "ms": 282,
       "src": [
         "Free-TV"
       ]
@@ -657,7 +683,7 @@
       "g": "Детские",
       "a": false,
       "s": "bejoykids-it",
-      "ms": 258,
+      "ms": 263,
       "src": [
         "Free-TV"
       ]
@@ -670,7 +696,7 @@
       "g": "Беларусь",
       "a": false,
       "s": "belarus4vitebsk-by",
-      "ms": 259,
+      "ms": 148,
       "src": [
         "Free-TV"
       ]
@@ -683,7 +709,7 @@
       "g": "Разное",
       "a": false,
       "s": "bella-e-monella-tv",
-      "ms": 280,
+      "ms": 233,
       "src": [
         "Free-TV"
       ]
@@ -696,7 +722,7 @@
       "g": "Разное",
       "a": false,
       "s": "bergamo-tv",
-      "ms": 622,
+      "ms": 826,
       "src": [
         "Free-TV"
       ]
@@ -709,7 +735,7 @@
       "g": "Разное",
       "a": false,
       "s": "besttv-gr",
-      "ms": 534,
+      "ms": 435,
       "src": [
         "Free-TV"
       ]
@@ -722,7 +748,33 @@
       "g": "Разное",
       "a": false,
       "s": "biobiochile-cl",
-      "ms": 1244,
+      "ms": 875,
+      "src": [
+        "Free-TV"
+      ]
+    },
+    {
+      "n": "Bloomberg",
+      "u": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+      "l": "https://i.imgur.com/VnCcH73.png",
+      "c": "other",
+      "g": "Разное",
+      "a": false,
+      "s": "bloombergtelevision-us",
+      "ms": 10118,
+      "src": [
+        "Free-TV"
+      ]
+    },
+    {
+      "n": "Bloomberg TV",
+      "u": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+      "l": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png",
+      "c": "other",
+      "g": "Разное",
+      "a": false,
+      "s": "bloombergtveurope-uk",
+      "ms": 10775,
       "src": [
         "Free-TV"
       ]
@@ -735,7 +787,7 @@
       "g": "Музыка",
       "a": false,
       "s": "botflix-radioo",
-      "ms": 359,
+      "ms": 2191,
       "src": [
         "Free-TV"
       ]
@@ -748,7 +800,7 @@
       "g": "Разное",
       "a": false,
       "s": "botflix-tv",
-      "ms": 1530,
+      "ms": 2160,
       "src": [
         "Free-TV"
       ]
@@ -761,7 +813,7 @@
       "g": "Разное",
       "a": false,
       "s": "brfernsehennord-de",
-      "ms": 5120,
+      "ms": 3405,
       "src": [
         "Free-TV"
       ]
@@ -774,7 +826,7 @@
       "g": "Разное",
       "a": false,
       "s": "brfernsehensud-de",
-      "ms": 5037,
+      "ms": 3399,
       "src": [
         "Free-TV"
       ]
@@ -787,7 +839,7 @@
       "g": "Разное",
       "a": false,
       "s": "budapest-eur-pa-tv",
-      "ms": 472,
+      "ms": 464,
       "src": [
         "Free-TV"
       ]
@@ -800,7 +852,7 @@
       "g": "Разное",
       "a": false,
       "s": "cafe-tv-24",
-      "ms": 346,
+      "ms": 287,
       "src": [
         "Free-TV"
       ]
@@ -813,7 +865,7 @@
       "g": "Разное",
       "a": false,
       "s": "calabria-tv",
-      "ms": 346,
+      "ms": 373,
       "src": [
         "Free-TV"
       ]
@@ -826,7 +878,7 @@
       "g": "Разное",
       "a": false,
       "s": "canal6multimedios-mx",
-      "ms": 876,
+      "ms": 880,
       "src": [
         "Free-TV"
       ]
@@ -839,7 +891,7 @@
       "g": "Разное",
       "a": false,
       "s": "canale-10",
-      "ms": 380,
+      "ms": 4678,
       "src": [
         "Free-TV"
       ]
@@ -852,7 +904,7 @@
       "g": "Разное",
       "a": false,
       "s": "canale-2",
-      "ms": 162,
+      "ms": 139,
       "src": [
         "Free-TV"
       ]
@@ -865,7 +917,7 @@
       "g": "Разное",
       "a": false,
       "s": "canale-8-campania",
-      "ms": 153,
+      "ms": 135,
       "src": [
         "Free-TV"
       ]
@@ -878,7 +930,7 @@
       "g": "Разное",
       "a": false,
       "s": "casa-sanremo-tv",
-      "ms": 683,
+      "ms": 652,
       "src": [
         "Free-TV"
       ]
@@ -891,7 +943,7 @@
       "g": "Базовые",
       "a": false,
       "s": "cbsnews-us",
-      "ms": 7047,
+      "ms": 3045,
       "src": [
         "Free-TV"
       ]
@@ -904,7 +956,7 @@
       "g": "Разное",
       "a": false,
       "s": "cheddar-us",
-      "ms": 2664,
+      "ms": 3239,
       "src": [
         "Free-TV"
       ]
@@ -917,7 +969,7 @@
       "g": "Разное",
       "a": false,
       "s": "cittaceleste-tv",
-      "ms": 333,
+      "ms": 340,
       "src": [
         "Free-TV"
       ]
@@ -930,7 +982,7 @@
       "g": "Разное",
       "a": false,
       "s": "city-bg",
-      "ms": 2301,
+      "ms": 2692,
       "src": [
         "Free-TV"
       ]
@@ -943,7 +995,7 @@
       "g": "Разное",
       "a": false,
       "s": "cnbc-mgl",
-      "ms": 715,
+      "ms": 728,
       "src": [
         "Free-TV"
       ]
@@ -956,7 +1008,20 @@
       "g": "Разное",
       "a": false,
       "s": "company-tv",
-      "ms": 233,
+      "ms": 314,
+      "src": [
+        "Free-TV"
+      ]
+    },
+    {
+      "n": "Cosmos TV",
+      "u": "https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8",
+      "l": "https://pbs.twimg.com/profile_images/1904206504753811457/66CbqvH1_200x200.jpg",
+      "c": "other",
+      "g": "Разное",
+      "a": false,
+      "s": "cosmostv-pe",
+      "ms": 2398,
       "src": [
         "Free-TV"
       ]
@@ -969,7 +1034,7 @@
       "g": "Разное",
       "a": false,
       "s": "cremona-1",
-      "ms": 292,
+      "ms": 281,
       "src": [
         "Free-TV"
       ]
@@ -982,7 +1047,7 @@
       "g": "Разное",
       "a": false,
       "s": "cusano-italia-tv",
-      "ms": 762,
+      "ms": 759,
       "src": [
         "Free-TV"
       ]
@@ -1008,7 +1073,7 @@
       "g": "Разное",
       "a": false,
       "s": "deluxe-139",
-      "ms": 164,
+      "ms": 156,
       "src": [
         "Free-TV"
       ]
@@ -1021,7 +1086,7 @@
       "g": "Музыка",
       "a": false,
       "s": "deluxemusicdancebykontor-de",
-      "ms": 5531,
+      "ms": 8682,
       "src": [
         "Free-TV"
       ]
@@ -1034,7 +1099,7 @@
       "g": "Музыка",
       "a": false,
       "s": "deluxemusicrap-de",
-      "ms": 1950,
+      "ms": 8707,
       "src": [
         "Free-TV"
       ]
@@ -1047,7 +1112,7 @@
       "g": "Разное",
       "a": false,
       "s": "di-tv-80",
-      "ms": 347,
+      "ms": 339,
       "src": [
         "Free-TV"
       ]
@@ -1060,7 +1125,7 @@
       "g": "Познавательные",
       "a": false,
       "s": "discovery-channel-it",
-      "ms": 233,
+      "ms": 277,
       "src": [
         "Free-TV"
       ]
@@ -1073,7 +1138,7 @@
       "g": "Развлекательные",
       "a": false,
       "s": "drybarcomedy-us",
-      "ms": 2331,
+      "ms": 3130,
       "src": [
         "Free-TV"
       ]
@@ -1086,7 +1151,20 @@
       "g": "Разное",
       "a": false,
       "s": "dwenglish-de",
-      "ms": 403,
+      "ms": 367,
+      "src": [
+        "Free-TV"
+      ]
+    },
+    {
+      "n": "DW Español Ⓢ",
+      "u": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8",
+      "l": "https://i.imgur.com/A1xzjOI.png",
+      "c": "basic",
+      "g": "Базовые",
+      "a": false,
+      "s": "dwespanol-de",
+      "ms": 8365,
       "src": [
         "Free-TV"
       ]
@@ -1099,7 +1177,7 @@
       "g": "Базовые",
       "a": false,
       "s": "dwarabic-de",
-      "ms": 358,
+      "ms": 438,
       "src": [
         "Free-TV"
       ]
@@ -1112,7 +1190,7 @@
       "g": "Разное",
       "a": false,
       "s": "e-live-brescia-tv",
-      "ms": 159,
+      "ms": 151,
       "src": [
         "Free-TV"
       ]
@@ -1125,20 +1203,7 @@
       "g": "Разное",
       "a": false,
       "s": "easy-tv-canale-190",
-      "ms": 201,
-      "src": [
-        "Free-TV"
-      ]
-    },
-    {
-      "n": "Egnatia",
-      "u": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u",
-      "l": "https://i.imgur.com/zuyYIca.png",
-      "c": "other",
-      "g": "Разное",
-      "a": false,
-      "s": "egnatiatv-gr",
-      "ms": 1291,
+      "ms": 208,
       "src": [
         "Free-TV"
       ]
@@ -1151,7 +1216,7 @@
       "g": "Разное",
       "a": false,
       "s": "elpaistv-es",
-      "ms": 409,
+      "ms": 634,
       "src": [
         "Free-TV"
       ]
@@ -1164,7 +1229,7 @@
       "g": "Базовые",
       "a": false,
       "s": "elpinguinotv-cl",
-      "ms": 1178,
+      "ms": 1839,
       "src": [
         "Free-TV"
       ]
@@ -1177,7 +1242,7 @@
       "g": "Разное",
       "a": false,
       "s": "enjoy-television",
-      "ms": 296,
+      "ms": 297,
       "src": [
         "Free-TV"
       ]
@@ -1190,7 +1255,7 @@
       "g": "Разное",
       "a": false,
       "s": "entella-tv",
-      "ms": 153,
+      "ms": 161,
       "src": [
         "Free-TV"
       ]
@@ -1203,7 +1268,7 @@
       "g": "Разное",
       "a": false,
       "s": "epsilon-gr",
-      "ms": 412,
+      "ms": 415,
       "src": [
         "Free-TV"
       ]
@@ -1216,7 +1281,7 @@
       "g": "Разное",
       "a": false,
       "s": "esperia-tv",
-      "ms": 139,
+      "ms": 148,
       "src": [
         "Free-TV"
       ]
@@ -1229,7 +1294,7 @@
       "g": "Разное",
       "a": false,
       "s": "estrellatv-mx",
-      "ms": 1337,
+      "ms": 1870,
       "src": [
         "Free-TV"
       ]
@@ -1242,7 +1307,7 @@
       "g": "Разное",
       "a": false,
       "s": "etna-espresso-channel",
-      "ms": 7473,
+      "ms": 6411,
       "src": [
         "Free-TV"
       ]
@@ -1255,7 +1320,7 @@
       "g": "Разное",
       "a": false,
       "s": "euro-tv",
-      "ms": 134,
+      "ms": 126,
       "src": [
         "Free-TV"
       ]
@@ -1268,7 +1333,7 @@
       "g": "Базовые",
       "a": false,
       "s": "euronews-es",
-      "ms": 502,
+      "ms": 467,
       "src": [
         "Free-TV"
       ]
@@ -1281,7 +1346,7 @@
       "g": "Разное",
       "a": false,
       "s": "bonumtv-hu",
-      "ms": 199,
+      "ms": 309,
       "src": [
         "Free-TV"
       ]
@@ -1294,7 +1359,7 @@
       "g": "Разное",
       "a": false,
       "s": "extra-tv",
-      "ms": 6231,
+      "ms": 3672,
       "src": [
         "Free-TV"
       ]
@@ -1307,7 +1372,7 @@
       "g": "Разное",
       "a": false,
       "s": "fano-tv",
-      "ms": 91,
+      "ms": 1660,
       "src": [
         "Free-TV"
       ]
@@ -1320,7 +1385,7 @@
       "g": "Разное",
       "a": false,
       "s": "fascino-tv",
-      "ms": 3790,
+      "ms": 307,
       "src": [
         "Free-TV"
       ]
@@ -1333,7 +1398,7 @@
       "g": "Разное",
       "a": false,
       "s": "feh-rv-rtv",
-      "ms": 950,
+      "ms": 785,
       "src": [
         "Free-TV"
       ]
@@ -1346,7 +1411,20 @@
       "g": "Разное",
       "a": false,
       "s": "food-network-it",
-      "ms": 273,
+      "ms": 296,
+      "src": [
+        "Free-TV"
+      ]
+    },
+    {
+      "n": "France 24 Español",
+      "u": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
+      "l": "https://i.imgur.com/61MSiq9.png",
+      "c": "basic",
+      "g": "Базовые",
+      "a": false,
+      "s": "france24espanol-fr",
+      "ms": 8449,
       "src": [
         "Free-TV"
       ]
@@ -1359,7 +1437,7 @@
       "g": "Разное",
       "a": false,
       "s": "gamberorosso-it",
-      "ms": 344,
+      "ms": 346,
       "src": [
         "Free-TV"
       ]
@@ -1372,7 +1450,7 @@
       "g": "Разное",
       "a": false,
       "s": "giallo-tv-it",
-      "ms": 233,
+      "ms": 248,
       "src": [
         "Free-TV"
       ]
@@ -1385,7 +1463,7 @@
       "g": "Музыка",
       "a": false,
       "s": "giornale-radio-tv",
-      "ms": 316,
+      "ms": 265,
       "src": [
         "Free-TV"
       ]
@@ -1398,7 +1476,7 @@
       "g": "Разное",
       "a": false,
       "s": "globo-tv",
-      "ms": 325,
+      "ms": 305,
       "src": [
         "Free-TV"
       ]
@@ -1411,7 +1489,7 @@
       "g": "Разное",
       "a": false,
       "s": "gnomitv-gr",
-      "ms": 359,
+      "ms": 313,
       "src": [
         "Free-TV"
       ]
@@ -1424,7 +1502,7 @@
       "g": "Разное",
       "a": false,
       "s": "grp-televisione",
-      "ms": 2269,
+      "ms": 260,
       "src": [
         "Free-TV"
       ]
@@ -1437,7 +1515,7 @@
       "g": "Разное",
       "a": false,
       "s": "gyongyositv-hu",
-      "ms": 928,
+      "ms": 798,
       "src": [
         "Free-TV"
       ]
@@ -1450,7 +1528,7 @@
       "g": "Разное",
       "a": false,
       "s": "handicaptv-fr",
-      "ms": 7448,
+      "ms": 9166,
       "src": [
         "Free-TV"
       ]
@@ -1463,7 +1541,7 @@
       "g": "Разное",
       "a": false,
       "s": "h-viz-tv",
-      "ms": 817,
+      "ms": 764,
       "src": [
         "Free-TV"
       ]
@@ -1476,7 +1554,7 @@
       "g": "Разное",
       "a": false,
       "s": "hightv-gr",
-      "ms": 524,
+      "ms": 459,
       "src": [
         "Free-TV"
       ]
@@ -1489,7 +1567,7 @@
       "g": "Музыка",
       "a": false,
       "s": "h-r-fm",
-      "ms": 144,
+      "ms": 318,
       "src": [
         "Free-TV"
       ]
@@ -1502,7 +1580,7 @@
       "g": "Разное",
       "a": false,
       "s": "hirtv-hu",
-      "ms": 504,
+      "ms": 500,
       "src": [
         "Free-TV"
       ]
@@ -1515,7 +1593,7 @@
       "g": "Разное",
       "a": false,
       "s": "hirshabelle-tv",
-      "ms": 734,
+      "ms": 738,
       "src": [
         "Free-TV"
       ]
@@ -1528,7 +1606,7 @@
       "g": "Разное",
       "a": false,
       "s": "hrfernsehen-de",
-      "ms": 2617,
+      "ms": 3640,
       "src": [
         "Free-TV"
       ]
@@ -1541,7 +1619,7 @@
       "g": "Разное",
       "a": false,
       "s": "icaro-tv-rimini",
-      "ms": 307,
+      "ms": 263,
       "src": [
         "Free-TV"
       ]
@@ -1554,7 +1632,7 @@
       "g": "Разное",
       "a": false,
       "s": "cbftdt-ca",
-      "ms": 497,
+      "ms": 1308,
       "src": [
         "Free-TV"
       ]
@@ -1567,7 +1645,7 @@
       "g": "Разное",
       "a": false,
       "s": "ici-t-l-hd",
-      "ms": 658,
+      "ms": 1528,
       "src": [
         "Free-TV"
       ]
@@ -1580,7 +1658,7 @@
       "g": "Разное",
       "a": false,
       "s": "il61",
-      "ms": 376,
+      "ms": 332,
       "src": [
         "Free-TV"
       ]
@@ -1593,7 +1671,7 @@
       "g": "Разное",
       "a": false,
       "s": "intertv-ve",
-      "ms": 1016,
+      "ms": 922,
       "src": [
         "Free-TV"
       ]
@@ -1606,7 +1684,7 @@
       "g": "Разное",
       "a": false,
       "s": "ioniantv-gr",
-      "ms": 1077,
+      "ms": 992,
       "src": [
         "Free-TV"
       ]
@@ -1619,7 +1697,7 @@
       "g": "Музыка",
       "a": false,
       "s": "jrtvjarviradio-fi",
-      "ms": 462,
+      "ms": 484,
       "src": [
         "Free-TV"
       ]
@@ -1632,7 +1710,7 @@
       "g": "Разное",
       "a": false,
       "s": "juventus-r-di",
-      "ms": 98,
+      "ms": 283,
       "src": [
         "Free-TV"
       ]
@@ -1645,7 +1723,7 @@
       "g": "Разное",
       "a": false,
       "s": "kanizsa-tv",
-      "ms": 664,
+      "ms": 1472,
       "src": [
         "Free-TV"
       ]
@@ -1658,7 +1736,7 @@
       "g": "Разное",
       "a": false,
       "s": "kbctv-kr",
-      "ms": 7448,
+      "ms": 9560,
       "src": [
         "Free-TV"
       ]
@@ -1671,7 +1749,7 @@
       "g": "Разное",
       "a": false,
       "s": "kika-de",
-      "ms": 5582,
+      "ms": 10741,
       "src": [
         "Free-TV"
       ]
@@ -1684,7 +1762,7 @@
       "g": "Разное",
       "a": false,
       "s": "klasik",
-      "ms": 350,
+      "ms": 316,
       "src": [
         "Free-TV"
       ]
@@ -1697,7 +1775,20 @@
       "g": "Базовые",
       "a": false,
       "s": "komaromitelevizio-hu",
-      "ms": 772,
+      "ms": 364,
+      "src": [
+        "Free-TV"
+      ]
+    },
+    {
+      "n": "Kossuth Rádió",
+      "u": "https://budapest-cache-1.antik.sk/live/kossuth_radio/index.m3u8",
+      "l": "https://upload.wikimedia.org/wikipedia/hu/6/69/Mr1.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original",
+      "c": "other",
+      "g": "Разное",
+      "a": false,
+      "s": "kossuthradio-hu",
+      "ms": 219,
       "src": [
         "Free-TV"
       ]
@@ -1710,7 +1801,7 @@
       "g": "Разное",
       "a": false,
       "s": "kriti1tv-gr",
-      "ms": 401,
+      "ms": 400,
       "src": [
         "Free-TV"
       ]
@@ -1723,7 +1814,7 @@
       "g": "Разное",
       "a": false,
       "s": "krititv-gr",
-      "ms": 460,
+      "ms": 484,
       "src": [
         "Free-TV"
       ]
@@ -1736,7 +1827,7 @@
       "g": "Разное",
       "a": false,
       "s": "kvfsjonvarp-fo",
-      "ms": 364,
+      "ms": 383,
       "src": [
         "Free-TV"
       ]
@@ -1749,7 +1840,7 @@
       "g": "Базовые",
       "a": false,
       "s": "la8mediterraneo-es",
-      "ms": 7058,
+      "ms": 6151,
       "src": [
         "Free-TV"
       ]
@@ -1762,7 +1853,7 @@
       "g": "Разное",
       "a": false,
       "s": "la-tenda-tv",
-      "ms": 252,
+      "ms": 226,
       "src": [
         "Free-TV"
       ]
@@ -1775,7 +1866,7 @@
       "g": "Разное",
       "a": false,
       "s": "la-tr3-marsala",
-      "ms": 328,
+      "ms": 344,
       "src": [
         "Free-TV"
       ]
@@ -1788,7 +1879,7 @@
       "g": "Разное",
       "a": false,
       "s": "la7-hd-it",
-      "ms": 434,
+      "ms": 509,
       "src": [
         "Free-TV"
       ]
@@ -1801,7 +1892,7 @@
       "g": "Разное",
       "a": false,
       "s": "lab-tv",
-      "ms": 493,
+      "ms": 872,
       "src": [
         "Free-TV"
       ]
@@ -1814,7 +1905,7 @@
       "g": "Базовые",
       "a": false,
       "s": "lac-news-24",
-      "ms": 443,
+      "ms": 439,
       "src": [
         "Free-TV"
       ]
@@ -1827,7 +1918,7 @@
       "g": "Разное",
       "a": false,
       "s": "lac-tv-calabria",
-      "ms": 576,
+      "ms": 497,
       "src": [
         "Free-TV"
       ]
@@ -1840,7 +1931,7 @@
       "g": "Разное",
       "a": false,
       "s": "lasestrellas-tv",
-      "ms": 819,
+      "ms": 716,
       "src": [
         "Free-TV"
       ]
@@ -1853,7 +1944,7 @@
       "g": "Разное",
       "a": false,
       "s": "lazio-tv",
-      "ms": 218,
+      "ms": 11842,
       "src": [
         "Free-TV"
       ]
@@ -1866,7 +1957,7 @@
       "g": "Разное",
       "a": false,
       "s": "lepantortv-gr",
-      "ms": 402,
+      "ms": 424,
       "src": [
         "Free-TV"
       ]
@@ -1879,7 +1970,7 @@
       "g": "Разное",
       "a": false,
       "s": "lifetveurope-ee",
-      "ms": 683,
+      "ms": 630,
       "src": [
         "Free-TV"
       ]
@@ -1892,7 +1983,7 @@
       "g": "Разное",
       "a": false,
       "s": "lira-tv",
-      "ms": 428,
+      "ms": 484,
       "src": [
         "Free-TV"
       ]
@@ -1905,7 +1996,20 @@
       "g": "Разное",
       "a": false,
       "s": "lombardia-tv",
-      "ms": 147,
+      "ms": 145,
+      "src": [
+        "Free-TV"
+      ]
+    },
+    {
+      "n": "Lychnos",
+      "u": "https://thor.mental-media.gr:19360/imp/imp.m3u8",
+      "l": "hhttps://i.imgur.com/JYSlBfY.png",
+      "c": "other",
+      "g": "Разное",
+      "a": false,
+      "s": "lychnostv-gr",
+      "ms": 586,
       "src": [
         "Free-TV"
       ]
@@ -1918,7 +2022,7 @@
       "g": "Разное",
       "a": false,
       "s": "made-in-bo",
-      "ms": 346,
+      "ms": 317,
       "src": [
         "Free-TV"
       ]
@@ -1931,7 +2035,7 @@
       "g": "Разное",
       "a": false,
       "s": "manga-it",
-      "ms": 474,
+      "ms": 758,
       "src": [
         "Free-TV"
       ]
@@ -1944,7 +2048,7 @@
       "g": "Разное",
       "a": false,
       "s": "maria-vision",
-      "ms": 621,
+      "ms": 640,
       "src": [
         "Free-TV"
       ]
@@ -1957,7 +2061,7 @@
       "g": "Разное",
       "a": false,
       "s": "markiza-sk",
-      "ms": 242,
+      "ms": 231,
       "src": [
         "Free-TV"
       ]
@@ -1970,7 +2074,7 @@
       "g": "Разное",
       "a": false,
       "s": "mbcmasr1-eg",
-      "ms": 394,
+      "ms": 358,
       "src": [
         "Free-TV"
       ]
@@ -1983,7 +2087,7 @@
       "g": "Разное",
       "a": false,
       "s": "rch-115",
-      "ms": 5205,
+      "ms": 7179,
       "src": [
         "Free-TV"
       ]
@@ -1996,7 +2100,7 @@
       "g": "Разное",
       "a": false,
       "s": "mediaset-italia-america-it",
-      "ms": 235,
+      "ms": 239,
       "src": [
         "Free-TV"
       ]
@@ -2009,7 +2113,7 @@
       "g": "Разное",
       "a": false,
       "s": "mediaset-italia-australia-e-asia-it",
-      "ms": 191,
+      "ms": 167,
       "src": [
         "Free-TV"
       ]
@@ -2022,7 +2126,7 @@
       "g": "Разное",
       "a": false,
       "s": "mediaset-italia-europa-e-africa-it",
-      "ms": 194,
+      "ms": 318,
       "src": [
         "Free-TV"
       ]
@@ -2035,7 +2139,7 @@
       "g": "Разное",
       "a": false,
       "s": "medjugorje-italia-tv",
-      "ms": 309,
+      "ms": 147,
       "src": [
         "Free-TV"
       ]
@@ -2048,7 +2152,7 @@
       "g": "Познавательные",
       "a": false,
       "s": "mexicotraveltv-mx",
-      "ms": 915,
+      "ms": 920,
       "src": [
         "Free-TV"
       ]
@@ -2061,7 +2165,7 @@
       "g": "Разное",
       "a": false,
       "s": "minformo-tv",
-      "ms": 152,
+      "ms": 151,
       "src": [
         "Free-TV"
       ]
@@ -2074,7 +2178,7 @@
       "g": "Разное",
       "a": false,
       "s": "mnb-ger-b-l",
-      "ms": 984,
+      "ms": 1012,
       "src": [
         "Free-TV"
       ]
@@ -2087,7 +2191,7 @@
       "g": "Разное",
       "a": false,
       "s": "mnbmongoliinmedee-mn",
-      "ms": 745,
+      "ms": 737,
       "src": [
         "Free-TV"
       ]
@@ -2100,7 +2204,7 @@
       "g": "Музыка",
       "a": false,
       "s": "mongolia-music",
-      "ms": 1023,
+      "ms": 433,
       "src": [
         "Free-TV"
       ]
@@ -2113,7 +2217,7 @@
       "g": "Базовые",
       "a": false,
       "s": "volplus-mn",
-      "ms": 450,
+      "ms": 440,
       "src": [
         "Free-TV"
       ]
@@ -2126,7 +2230,7 @@
       "g": "Разное",
       "a": false,
       "s": "motori-tv",
-      "ms": 124,
+      "ms": 120,
       "src": [
         "Free-TV"
       ]
@@ -2139,7 +2243,7 @@
       "g": "Музыка",
       "a": false,
       "s": "mtv-lb",
-      "ms": 987,
+      "ms": 5898,
       "src": [
         "Free-TV"
       ]
@@ -2152,7 +2256,7 @@
       "g": "Разное",
       "a": false,
       "s": "nartv-fi",
-      "ms": 696,
+      "ms": 727,
       "src": [
         "Free-TV"
       ]
@@ -2165,7 +2269,7 @@
       "g": "Базовые",
       "a": false,
       "s": "nbcnewsnow-us",
-      "ms": 7336,
+      "ms": 3485,
       "src": [
         "Free-TV"
       ]
@@ -2178,7 +2282,7 @@
       "g": "Разное",
       "a": false,
       "s": "ndrfernsehenhamburg-de",
-      "ms": 684,
+      "ms": 772,
       "src": [
         "Free-TV"
       ]
@@ -2191,7 +2295,7 @@
       "g": "Разное",
       "a": false,
       "s": "ndrfernsehenmecklenburgvorpommern-de",
-      "ms": 653,
+      "ms": 753,
       "src": [
         "Free-TV"
       ]
@@ -2204,7 +2308,7 @@
       "g": "Разное",
       "a": false,
       "s": "ndrfernsehenniedersachsen-de",
-      "ms": 640,
+      "ms": 752,
       "src": [
         "Free-TV"
       ]
@@ -2217,7 +2321,7 @@
       "g": "Разное",
       "a": false,
       "s": "ndrfernsehenschleswigholstein-de",
-      "ms": 616,
+      "ms": 626,
       "src": [
         "Free-TV"
       ]
@@ -2230,7 +2334,7 @@
       "g": "Разное",
       "a": false,
       "s": "ndtvprofit-com",
-      "ms": 3091,
+      "ms": 2231,
       "src": [
         "Free-TV"
       ]
@@ -2243,7 +2347,7 @@
       "g": "Разное",
       "a": false,
       "s": "newsmax-us",
-      "ms": 2067,
+      "ms": 2659,
       "src": [
         "Free-TV"
       ]
@@ -2256,7 +2360,7 @@
       "g": "Разное",
       "a": false,
       "s": "nr-sr",
-      "ms": 937,
+      "ms": 258,
       "src": [
         "Free-TV"
       ]
@@ -2269,7 +2373,7 @@
       "g": "Разное",
       "a": false,
       "s": "nti-canale-271",
-      "ms": 367,
+      "ms": 370,
       "src": [
         "Free-TV"
       ]
@@ -2282,7 +2386,7 @@
       "g": "Разное",
       "a": false,
       "s": "nuova-tv-1",
-      "ms": 3417,
+      "ms": 4049,
       "src": [
         "Free-TV"
       ]
@@ -2295,7 +2399,7 @@
       "g": "Разное",
       "a": false,
       "s": "nuova-tv-nazionale",
-      "ms": 3716,
+      "ms": 4619,
       "src": [
         "Free-TV"
       ]
@@ -2308,7 +2412,7 @@
       "g": "Разное",
       "a": false,
       "s": "nuvola-tv",
-      "ms": 3264,
+      "ms": 2982,
       "src": [
         "Free-TV"
       ]
@@ -2321,7 +2425,7 @@
       "g": "Разное",
       "a": false,
       "s": "ockoexpres-cz",
-      "ms": 114,
+      "ms": 292,
       "src": [
         "Free-TV"
       ]
@@ -2334,7 +2438,7 @@
       "g": "Разное",
       "a": false,
       "s": "ocko-cz",
-      "ms": 196,
+      "ms": 313,
       "src": [
         "Free-TV"
       ]
@@ -2347,7 +2451,7 @@
       "g": "Разное",
       "a": false,
       "s": "ockostar-cz",
-      "ms": 132,
+      "ms": 307,
       "src": [
         "Free-TV"
       ]
@@ -2360,7 +2464,7 @@
       "g": "Разное",
       "a": false,
       "s": "oe24tv-at",
-      "ms": 436,
+      "ms": 448,
       "src": [
         "Free-TV"
       ]
@@ -2373,7 +2477,7 @@
       "g": "Разное",
       "a": false,
       "s": "omroepflevolandtv-nl",
-      "ms": 333,
+      "ms": 625,
       "src": [
         "Free-TV"
       ]
@@ -2386,7 +2490,7 @@
       "g": "Разное",
       "a": false,
       "s": "omroepgelderlandtv-nl",
-      "ms": 276,
+      "ms": 626,
       "src": [
         "Free-TV"
       ]
@@ -2399,7 +2503,7 @@
       "g": "Разное",
       "a": false,
       "s": "omroepwesttv-nl",
-      "ms": 248,
+      "ms": 299,
       "src": [
         "Free-TV"
       ]
@@ -2412,7 +2516,7 @@
       "g": "Разное",
       "a": false,
       "s": "omropfryslantv-nl",
-      "ms": 271,
+      "ms": 316,
       "src": [
         "Free-TV"
       ]
@@ -2425,7 +2529,7 @@
       "g": "Разное",
       "a": false,
       "s": "onda-novara-tv",
-      "ms": 357,
+      "ms": 360,
       "src": [
         "Free-TV"
       ]
@@ -2438,7 +2542,7 @@
       "g": "Разное",
       "a": false,
       "s": "onda-tv-sicilia",
-      "ms": 340,
+      "ms": 364,
       "src": [
         "Free-TV"
       ]
@@ -2451,7 +2555,7 @@
       "g": "Разное",
       "a": false,
       "s": "orler-tv",
-      "ms": 306,
+      "ms": 311,
       "src": [
         "Free-TV"
       ]
@@ -2464,7 +2568,7 @@
       "g": "Базовые",
       "a": false,
       "s": "oroszlanyivarositelevizio-hu",
-      "ms": 868,
+      "ms": 977,
       "src": [
         "Free-TV"
       ]
@@ -2477,7 +2581,7 @@
       "g": "Музыка",
       "a": false,
       "s": "oxygen-music",
-      "ms": 472,
+      "ms": 448,
       "src": [
         "Free-TV"
       ]
@@ -2490,7 +2594,7 @@
       "g": "Разное",
       "a": false,
       "s": "padre-pio-tv",
-      "ms": 284,
+      "ms": 262,
       "src": [
         "Free-TV"
       ]
@@ -2503,7 +2607,7 @@
       "g": "Разное",
       "a": false,
       "s": "pannon-rtv",
-      "ms": 345,
+      "ms": 308,
       "src": [
         "Free-TV"
       ]
@@ -2516,7 +2620,7 @@
       "g": "Разное",
       "a": false,
       "s": "parole-di-vita",
-      "ms": 279,
+      "ms": 238,
       "src": [
         "Free-TV"
       ]
@@ -2529,7 +2633,7 @@
       "g": "Разное",
       "a": false,
       "s": "partenope-tv",
-      "ms": 114,
+      "ms": 196,
       "src": [
         "Free-TV"
       ]
@@ -2542,7 +2646,7 @@
       "g": "Разное",
       "a": false,
       "s": "peertv-it",
-      "ms": 502,
+      "ms": 566,
       "src": [
         "Free-TV"
       ]
@@ -2555,7 +2659,7 @@
       "g": "Разное",
       "a": false,
       "s": "pellatv-gr",
-      "ms": 1049,
+      "ms": 404,
       "src": [
         "Free-TV"
       ]
@@ -2568,7 +2672,7 @@
       "g": "Разное",
       "a": false,
       "s": "petofiradio-hu",
-      "ms": 179,
+      "ms": 265,
       "src": [
         "Free-TV"
       ]
@@ -2581,7 +2685,7 @@
       "g": "Базовые",
       "a": false,
       "s": "prima-tv-napoli",
-      "ms": 268,
+      "ms": 258,
       "src": [
         "Free-TV"
       ]
@@ -2594,7 +2698,7 @@
       "g": "Базовые",
       "a": false,
       "s": "prima-tv-sicilia",
-      "ms": 156,
+      "ms": 177,
       "src": [
         "Free-TV"
       ]
@@ -2607,7 +2711,7 @@
       "g": "Базовые",
       "a": false,
       "s": "primafree",
-      "ms": 289,
+      "ms": 328,
       "src": [
         "Free-TV"
       ]
@@ -2620,7 +2724,7 @@
       "g": "Разное",
       "a": false,
       "s": "primocanale",
-      "ms": 247,
+      "ms": 270,
       "src": [
         "Free-TV"
       ]
@@ -2633,7 +2737,7 @@
       "g": "Разное",
       "a": false,
       "s": "protv-ro",
-      "ms": 261,
+      "ms": 1614,
       "src": [
         "Free-TV"
       ]
@@ -2646,7 +2750,7 @@
       "g": "Разное",
       "a": false,
       "s": "qatartelevisiontheholyquran-qa",
-      "ms": 300,
+      "ms": 557,
       "src": [
         "Free-TV"
       ]
@@ -2659,7 +2763,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-3m-inblu",
-      "ms": 524,
+      "ms": 306,
       "src": [
         "Free-TV"
       ]
@@ -2672,7 +2776,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-51-tv",
-      "ms": 265,
+      "ms": 257,
       "src": [
         "Free-TV"
       ]
@@ -2685,7 +2789,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-arancia-tv",
-      "ms": 662,
+      "ms": 749,
       "src": [
         "Free-TV"
       ]
@@ -2698,7 +2802,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-bianconera-tv",
-      "ms": 512,
+      "ms": 659,
       "src": [
         "Free-TV"
       ]
@@ -2711,7 +2815,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-birikina-tv",
-      "ms": 265,
+      "ms": 240,
       "src": [
         "Free-TV"
       ]
@@ -2724,7 +2828,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-bruno-tv",
-      "ms": 710,
+      "ms": 440,
       "src": [
         "Free-TV"
       ]
@@ -2737,7 +2841,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-delta-1-tv",
-      "ms": 629,
+      "ms": 613,
       "src": [
         "Free-TV"
       ]
@@ -2750,7 +2854,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-digiesse-tv",
-      "ms": 164,
+      "ms": 149,
       "src": [
         "Free-TV"
       ]
@@ -2763,7 +2867,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-ibiza",
-      "ms": 279,
+      "ms": 281,
       "src": [
         "Free-TV"
       ]
@@ -2776,7 +2880,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-iglesias-visual-radio",
-      "ms": 150,
+      "ms": 183,
       "src": [
         "Free-TV"
       ]
@@ -2789,7 +2893,7 @@
       "g": "Спорт",
       "a": false,
       "s": "radio-immagine-tv",
-      "ms": 437,
+      "ms": 444,
       "src": [
         "Free-TV"
       ]
@@ -2802,7 +2906,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-italia-cina-tv",
-      "ms": 142,
+      "ms": 122,
       "src": [
         "Free-TV"
       ]
@@ -2815,7 +2919,7 @@
       "g": "Спорт",
       "a": false,
       "s": "radio-juke-box-tv",
-      "ms": 133,
+      "ms": 122,
       "src": [
         "Free-TV"
       ]
@@ -2828,7 +2932,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-kiss-kiss-italia-tv",
-      "ms": 278,
+      "ms": 298,
       "src": [
         "Free-TV"
       ]
@@ -2841,7 +2945,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-kiss-kiss-napoli-tv",
-      "ms": 289,
+      "ms": 384,
       "src": [
         "Free-TV"
       ]
@@ -2854,7 +2958,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-libert",
-      "ms": 620,
+      "ms": 719,
       "src": [
         "Free-TV"
       ]
@@ -2867,7 +2971,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-monte-kronio-tv-r-m-k",
-      "ms": 292,
+      "ms": 294,
       "src": [
         "Free-TV"
       ]
@@ -2880,7 +2984,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radionorbatv-it",
-      "ms": 715,
+      "ms": 394,
       "src": [
         "Free-TV"
       ]
@@ -2893,7 +2997,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-number-one-tv",
-      "ms": 246,
+      "ms": 281,
       "src": [
         "Free-TV"
       ]
@@ -2906,7 +3010,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-padova-tv",
-      "ms": 286,
+      "ms": 261,
       "src": [
         "Free-TV"
       ]
@@ -2919,7 +3023,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-piter-pan-tv",
-      "ms": 215,
+      "ms": 229,
       "src": [
         "Free-TV"
       ]
@@ -2932,7 +3036,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-punto-zero-tv",
-      "ms": 246,
+      "ms": 248,
       "src": [
         "Free-TV"
       ]
@@ -2945,7 +3049,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-radiosa-tv",
-      "ms": 462,
+      "ms": 457,
       "src": [
         "Free-TV"
       ]
@@ -2958,7 +3062,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-ritmo-80-tv",
-      "ms": 265,
+      "ms": 257,
       "src": [
         "Free-TV"
       ]
@@ -2971,7 +3075,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-studio-tv",
-      "ms": 511,
+      "ms": 553,
       "src": [
         "Free-TV"
       ]
@@ -2984,7 +3088,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-taormina-tv",
-      "ms": 609,
+      "ms": 711,
       "src": [
         "Free-TV"
       ]
@@ -2997,7 +3101,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-televisione-sarda",
-      "ms": 341,
+      "ms": 315,
       "src": [
         "Free-TV"
       ]
@@ -3010,7 +3114,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-tiv-azzurra",
-      "ms": 469,
+      "ms": 462,
       "src": [
         "Free-TV"
       ]
@@ -3023,7 +3127,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radiozetatv-it",
-      "ms": 325,
+      "ms": 374,
       "src": [
         "Free-TV"
       ]
@@ -3036,7 +3140,7 @@
       "g": "Разное",
       "a": false,
       "s": "r-di-1",
-      "ms": 235,
+      "ms": 241,
       "src": [
         "Free-TV"
       ]
@@ -3049,7 +3153,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio24tv-it",
-      "ms": 502,
+      "ms": 389,
       "src": [
         "Free-TV"
       ]
@@ -3062,7 +3166,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radiofrecciatv-it",
-      "ms": 297,
+      "ms": 292,
       "src": [
         "Free-TV"
       ]
@@ -3075,7 +3179,7 @@
       "g": "Разное",
       "a": false,
       "s": "rai-italia-asia-e-australia",
-      "ms": 192,
+      "ms": 243,
       "src": [
         "Free-TV"
       ]
@@ -3088,7 +3192,7 @@
       "g": "Разное",
       "a": false,
       "s": "rai-italia-europa-e-africa",
-      "ms": 233,
+      "ms": 267,
       "src": [
         "Free-TV"
       ]
@@ -3101,7 +3205,7 @@
       "g": "Разное",
       "a": false,
       "s": "raiitaliaamerica-it",
-      "ms": 207,
+      "ms": 269,
       "src": [
         "Free-TV"
       ]
@@ -3114,7 +3218,7 @@
       "g": "Разное",
       "a": false,
       "s": "rai-italia-sud-america",
-      "ms": 152,
+      "ms": 216,
       "src": [
         "Free-TV"
       ]
@@ -3127,7 +3231,7 @@
       "g": "Разное",
       "a": false,
       "s": "rai-world-premium",
-      "ms": 231,
+      "ms": 171,
       "src": [
         "Free-TV"
       ]
@@ -3140,7 +3244,7 @@
       "g": "Разное",
       "a": false,
       "s": "ran-friul",
-      "ms": 6258,
+      "ms": 673,
       "src": [
         "Free-TV"
       ]
@@ -3153,7 +3257,7 @@
       "g": "Разное",
       "a": false,
       "s": "real-time-it",
-      "ms": 309,
+      "ms": 288,
       "src": [
         "Free-TV"
       ]
@@ -3166,7 +3270,7 @@
       "g": "Разное",
       "a": false,
       "s": "reggio-tv",
-      "ms": 265,
+      "ms": 169,
       "src": [
         "Free-TV"
       ]
@@ -3179,20 +3283,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-55",
-      "ms": 484,
-      "src": [
-        "Free-TV"
-      ]
-    },
-    {
-      "n": "Rete 7 Tv",
-      "u": "https://stream.ets-sistemi.it:2020/hls/rete7-live/rete7-live.m3u8",
-      "l": "https://i.imgur.com/lUTxfoh.png",
-      "c": "other",
-      "g": "Разное",
-      "a": false,
-      "s": "rete-7-tv",
-      "ms": 499,
+      "ms": 473,
       "src": [
         "Free-TV"
       ]
@@ -3205,7 +3296,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-8",
-      "ms": 425,
+      "ms": 400,
       "src": [
         "Free-TV"
       ]
@@ -3218,7 +3309,7 @@
       "g": "Спорт",
       "a": false,
       "s": "rete-8-sport",
-      "ms": 404,
+      "ms": 331,
       "src": [
         "Free-TV"
       ]
@@ -3231,7 +3322,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-8-vga",
-      "ms": 278,
+      "ms": 319,
       "src": [
         "Free-TV"
       ]
@@ -3244,7 +3335,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-biella-tv",
-      "ms": 309,
+      "ms": 347,
       "src": [
         "Free-TV"
       ]
@@ -3257,7 +3348,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-mia",
-      "ms": 153,
+      "ms": 141,
       "src": [
         "Free-TV"
       ]
@@ -3270,7 +3361,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-oro-tv",
-      "ms": 143,
+      "ms": 139,
       "src": [
         "Free-TV"
       ]
@@ -3283,7 +3374,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-sole",
-      "ms": 318,
+      "ms": 369,
       "src": [
         "Free-TV"
       ]
@@ -3296,7 +3387,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-tv-italia",
-      "ms": 179,
+      "ms": 166,
       "src": [
         "Free-TV"
       ]
@@ -3309,7 +3400,7 @@
       "g": "Разное",
       "a": false,
       "s": "retr-r-di",
-      "ms": 207,
+      "ms": 296,
       "src": [
         "Free-TV"
       ]
@@ -3322,7 +3413,7 @@
       "g": "Разное",
       "a": false,
       "s": "riksattv-cy",
-      "ms": 974,
+      "ms": 978,
       "src": [
         "Free-TV"
       ]
@@ -3335,7 +3426,7 @@
       "g": "Разное",
       "a": false,
       "s": "rne-es",
-      "ms": 297,
+      "ms": 274,
       "src": [
         "Free-TV"
       ]
@@ -3348,7 +3439,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtenespanol-ru",
-      "ms": 10818,
+      "ms": 8525,
       "src": [
         "Free-TV"
       ]
@@ -3361,7 +3452,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtc-quarta-rete",
-      "ms": 269,
+      "ms": 278,
       "src": [
         "Free-TV"
       ]
@@ -3374,7 +3465,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtl-102-5-hd-it",
-      "ms": 395,
+      "ms": 388,
       "src": [
         "Free-TV"
       ]
@@ -3387,7 +3478,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtl1025plus-it",
-      "ms": 261,
+      "ms": 294,
       "src": [
         "Free-TV"
       ]
@@ -3400,7 +3491,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtlteleluxembourg-lu",
-      "ms": 460,
+      "ms": 341,
       "src": [
         "Free-TV"
       ]
@@ -3413,7 +3504,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtm-manduria",
-      "ms": 152,
+      "ms": 170,
       "src": [
         "Free-TV"
       ]
@@ -3426,7 +3517,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtn-napoli",
-      "ms": 185,
+      "ms": 194,
       "src": [
         "Free-TV"
       ]
@@ -3439,7 +3530,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtp-tv",
-      "ms": 5038,
+      "ms": 566,
       "src": [
         "Free-TV"
       ]
@@ -3452,7 +3543,7 @@
       "g": "Разное",
       "a": false,
       "s": "rttr",
-      "ms": 286,
+      "ms": 245,
       "src": [
         "Free-TV"
       ]
@@ -3465,7 +3556,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtv-38-toscana",
-      "ms": 4749,
+      "ms": 464,
       "src": [
         "Free-TV"
       ]
@@ -3478,7 +3569,7 @@
       "g": "Разное",
       "a": false,
       "s": "ruv-is",
-      "ms": 690,
+      "ms": 3244,
       "src": [
         "Free-TV"
       ]
@@ -3491,7 +3582,7 @@
       "g": "Разное",
       "a": false,
       "s": "ruv2-is",
-      "ms": 880,
+      "ms": 970,
       "src": [
         "Free-TV"
       ]
@@ -3504,7 +3595,20 @@
       "g": "Базовые",
       "a": false,
       "s": "sabcnews-gh",
-      "ms": 11169,
+      "ms": 9164,
+      "src": [
+        "Free-TV"
+      ]
+    },
+    {
+      "n": "Sahara 24 صحراء",
+      "u": "https://live.saharamedias.net:3317/live/shara24live.m3u8",
+      "l": "https://i.imgur.com/nOkf1fU.png",
+      "c": "other",
+      "g": "Разное",
+      "a": false,
+      "s": "sahara-24-mr",
+      "ms": 615,
       "src": [
         "Free-TV"
       ]
@@ -3517,7 +3621,7 @@
       "g": "Разное",
       "a": false,
       "s": "cftudt-ca",
-      "ms": 926,
+      "ms": 956,
       "src": [
         "Free-TV"
       ]
@@ -3530,7 +3634,7 @@
       "g": "Разное",
       "a": false,
       "s": "set-tv-cilento",
-      "ms": 4496,
+      "ms": 2105,
       "src": [
         "Free-TV"
       ]
@@ -3543,7 +3647,7 @@
       "g": "Разное",
       "a": false,
       "s": "sicilia-24-tv",
-      "ms": 120,
+      "ms": 114,
       "src": [
         "Free-TV"
       ]
@@ -3556,7 +3660,7 @@
       "g": "Разное",
       "a": false,
       "s": "sienatv",
-      "ms": 3188,
+      "ms": 1999,
       "src": [
         "Free-TV"
       ]
@@ -3569,7 +3673,7 @@
       "g": "Музыка",
       "a": false,
       "s": "sl-ger-fm",
-      "ms": 175,
+      "ms": 204,
       "src": [
         "Free-TV"
       ]
@@ -3582,7 +3686,7 @@
       "g": "Разное",
       "a": false,
       "s": "slagrmuzika-cz",
-      "ms": 303,
+      "ms": 548,
       "src": [
         "Free-TV"
       ]
@@ -3595,7 +3699,7 @@
       "g": "Разное",
       "a": false,
       "s": "slagroriginal-cz",
-      "ms": 306,
+      "ms": 295,
       "src": [
         "Free-TV"
       ]
@@ -3608,7 +3712,7 @@
       "g": "Разное",
       "a": false,
       "s": "sophia-tv",
-      "ms": 2058,
+      "ms": 684,
       "src": [
         "Free-TV"
       ]
@@ -3621,7 +3725,7 @@
       "g": "Музыка",
       "a": false,
       "s": "spirit-fm",
-      "ms": 175,
+      "ms": 262,
       "src": [
         "Free-TV"
       ]
@@ -3634,7 +3738,7 @@
       "g": "Разное",
       "a": false,
       "s": "starchannel-fi",
-      "ms": 135,
+      "ms": 233,
       "src": [
         "Free-TV"
       ]
@@ -3647,7 +3751,7 @@
       "g": "Разное",
       "a": false,
       "s": "stiletv",
-      "ms": 376,
+      "ms": 414,
       "src": [
         "Free-TV"
       ]
@@ -3660,7 +3764,7 @@
       "g": "Разное",
       "a": false,
       "s": "studio-100",
-      "ms": 169,
+      "ms": 278,
       "src": [
         "Free-TV"
       ]
@@ -3673,7 +3777,7 @@
       "g": "Разное",
       "a": false,
       "s": "super-j-tv",
-      "ms": 672,
+      "ms": 701,
       "src": [
         "Free-TV"
       ]
@@ -3686,7 +3790,7 @@
       "g": "Разное",
       "a": false,
       "s": "super-it",
-      "ms": 425,
+      "ms": 444,
       "src": [
         "Free-TV"
       ]
@@ -3699,7 +3803,46 @@
       "g": "Разное",
       "a": false,
       "s": "t13-cl",
-      "ms": 1773,
+      "ms": 898,
+      "src": [
+        "Free-TV"
+      ]
+    },
+    {
+      "n": "Tcf Tv",
+      "u": "https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8",
+      "l": "https://i.imgur.com/fiylFs2.jpg",
+      "c": "other",
+      "g": "Разное",
+      "a": false,
+      "s": "tcf-tv",
+      "ms": 12311,
+      "src": [
+        "Free-TV"
+      ]
+    },
+    {
+      "n": "Tele Acras",
+      "u": "https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8",
+      "l": "https://i.imgur.com/90Lsv8q.png",
+      "c": "other",
+      "g": "Разное",
+      "a": false,
+      "s": "tele-acras",
+      "ms": 1080,
+      "src": [
+        "Free-TV"
+      ]
+    },
+    {
+      "n": "Tele Bari",
+      "u": "https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8",
+      "l": "https://i.imgur.com/HYSz4rx.png",
+      "c": "other",
+      "g": "Разное",
+      "a": false,
+      "s": "tele-bari",
+      "ms": 6336,
       "src": [
         "Free-TV"
       ]
@@ -3712,7 +3855,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-belluno",
-      "ms": 10136,
+      "ms": 5950,
       "src": [
         "Free-TV"
       ]
@@ -3725,7 +3868,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-boario",
-      "ms": 6511,
+      "ms": 5714,
       "src": [
         "Free-TV"
       ]
@@ -3738,7 +3881,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-bruzzano",
-      "ms": 6193,
+      "ms": 5497,
       "src": [
         "Free-TV"
       ]
@@ -3751,7 +3894,7 @@
       "g": "Музыка",
       "a": false,
       "s": "tele-club-italia",
-      "ms": 3428,
+      "ms": 3049,
       "src": [
         "Free-TV"
       ]
@@ -3764,7 +3907,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-cupole",
-      "ms": 1036,
+      "ms": 1148,
       "src": [
         "Free-TV"
       ]
@@ -3777,7 +3920,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-foggia",
-      "ms": 300,
+      "ms": 330,
       "src": [
         "Free-TV"
       ]
@@ -3790,7 +3933,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-friuli",
-      "ms": 484,
+      "ms": 459,
       "src": [
         "Free-TV"
       ]
@@ -3803,7 +3946,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-gela",
-      "ms": 332,
+      "ms": 387,
       "src": [
         "Free-TV"
       ]
@@ -3816,7 +3959,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-golfo-rtg",
-      "ms": 365,
+      "ms": 353,
       "src": [
         "Free-TV"
       ]
@@ -3829,7 +3972,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-ischia",
-      "ms": 272,
+      "ms": 313,
       "src": [
         "Free-TV"
       ]
@@ -3842,7 +3985,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-lacco-ameno",
-      "ms": 254,
+      "ms": 222,
       "src": [
         "Free-TV"
       ]
@@ -3855,7 +3998,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-laser",
-      "ms": 324,
+      "ms": 339,
       "src": [
         "Free-TV"
       ]
@@ -3868,7 +4011,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-liguria-sud",
-      "ms": 118,
+      "ms": 12314,
       "src": [
         "Free-TV"
       ]
@@ -3881,7 +4024,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-mantova",
-      "ms": 6480,
+      "ms": 8500,
       "src": [
         "Free-TV"
       ]
@@ -3894,7 +4037,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-mia",
-      "ms": 98,
+      "ms": 8431,
       "src": [
         "Free-TV"
       ]
@@ -3907,7 +4050,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-mia-extra",
-      "ms": 6437,
+      "ms": 101,
       "src": [
         "Free-TV"
       ]
@@ -3920,7 +4063,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-mistretta",
-      "ms": 7117,
+      "ms": 8877,
       "src": [
         "Free-TV"
       ]
@@ -3933,7 +4076,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-nord-genova",
-      "ms": 11248,
+      "ms": 164,
       "src": [
         "Free-TV"
       ]
@@ -3946,7 +4089,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-one",
-      "ms": 7903,
+      "ms": 7494,
       "src": [
         "Free-TV"
       ]
@@ -3959,7 +4102,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-pace-trento",
-      "ms": 4971,
+      "ms": 3868,
       "src": [
         "Free-TV"
       ]
@@ -3972,7 +4115,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-piadena",
-      "ms": 4822,
+      "ms": 3861,
       "src": [
         "Free-TV"
       ]
@@ -3985,7 +4128,7 @@
       "g": "Музыка",
       "a": false,
       "s": "tele-radio-ercolano",
-      "ms": 783,
+      "ms": 1939,
       "src": [
         "Free-TV"
       ]
@@ -3998,7 +4141,7 @@
       "g": "Музыка",
       "a": false,
       "s": "tele-radio-pace-1",
-      "ms": 754,
+      "ms": 1939,
       "src": [
         "Free-TV"
       ]
@@ -4011,7 +4154,7 @@
       "g": "Музыка",
       "a": false,
       "s": "tele-radio-pace-2",
-      "ms": 308,
+      "ms": 313,
       "src": [
         "Free-TV"
       ]
@@ -4024,7 +4167,7 @@
       "g": "Музыка",
       "a": false,
       "s": "tele-radio-pace-3",
-      "ms": 513,
+      "ms": 325,
       "src": [
         "Free-TV"
       ]
@@ -4037,7 +4180,7 @@
       "g": "Музыка",
       "a": false,
       "s": "tele-radio-pace-4",
-      "ms": 321,
+      "ms": 348,
       "src": [
         "Free-TV"
       ]
@@ -4050,7 +4193,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-ritmo",
-      "ms": 320,
+      "ms": 315,
       "src": [
         "Free-TV"
       ]
@@ -4063,7 +4206,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-stabia-gigli-tv",
-      "ms": 358,
+      "ms": 424,
       "src": [
         "Free-TV"
       ]
@@ -4076,7 +4219,7 @@
       "g": "Разное",
       "a": false,
       "s": "teletchad-td",
-      "ms": 357,
+      "ms": 287,
       "src": [
         "Free-TV"
       ]
@@ -4089,7 +4232,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-tricolore",
-      "ms": 274,
+      "ms": 305,
       "src": [
         "Free-TV"
       ]
@@ -4102,7 +4245,7 @@
       "g": "Разное",
       "a": false,
       "s": "telecity-lombardia",
-      "ms": 153,
+      "ms": 200,
       "src": [
         "Free-TV"
       ]
@@ -4115,7 +4258,7 @@
       "g": "Разное",
       "a": false,
       "s": "telecity-piemonte",
-      "ms": 387,
+      "ms": 358,
       "src": [
         "Free-TV"
       ]
@@ -4128,7 +4271,7 @@
       "g": "Разное",
       "a": false,
       "s": "telecity-valle-d-aosta",
-      "ms": 292,
+      "ms": 356,
       "src": [
         "Free-TV"
       ]
@@ -4141,7 +4284,7 @@
       "g": "Разное",
       "a": false,
       "s": "telecolor-sicilia",
-      "ms": 1222,
+      "ms": 1939,
       "src": [
         "Free-TV"
       ]
@@ -4154,7 +4297,7 @@
       "g": "Разное",
       "a": false,
       "s": "telegenova",
-      "ms": 6022,
+      "ms": 7898,
       "src": [
         "Free-TV"
       ]
@@ -4167,7 +4310,7 @@
       "g": "Разное",
       "a": false,
       "s": "teleiblea",
-      "ms": 5810,
+      "ms": 7812,
       "src": [
         "Free-TV"
       ]
@@ -4180,7 +4323,7 @@
       "g": "Разное",
       "a": false,
       "s": "telemajg",
-      "ms": 134,
+      "ms": 140,
       "src": [
         "Free-TV"
       ]
@@ -4193,7 +4336,7 @@
       "g": "Разное",
       "a": false,
       "s": "telerama",
-      "ms": 5244,
+      "ms": 7375,
       "src": [
         "Free-TV"
       ]
@@ -4206,7 +4349,7 @@
       "g": "Разное",
       "a": false,
       "s": "teleromadue",
-      "ms": 254,
+      "ms": 260,
       "src": [
         "Free-TV"
       ]
@@ -4219,7 +4362,7 @@
       "g": "Разное",
       "a": false,
       "s": "teleromagna",
-      "ms": 5974,
+      "ms": 4821,
       "src": [
         "Free-TV"
       ]
@@ -4232,7 +4375,7 @@
       "g": "Разное",
       "a": false,
       "s": "teleromagna-24",
-      "ms": 5773,
+      "ms": 4642,
       "src": [
         "Free-TV"
       ]
@@ -4245,7 +4388,7 @@
       "g": "Разное",
       "a": false,
       "s": "televallo-trapani",
-      "ms": 145,
+      "ms": 128,
       "src": [
         "Free-TV"
       ]
@@ -4258,7 +4401,7 @@
       "g": "Разное",
       "a": false,
       "s": "tvcanaria-es",
-      "ms": 233,
+      "ms": 428,
       "src": [
         "Free-TV"
       ]
@@ -4271,7 +4414,7 @@
       "g": "Разное",
       "a": false,
       "s": "tgcom-it",
-      "ms": 308,
+      "ms": 237,
       "src": [
         "Free-TV"
       ]
@@ -4284,7 +4427,7 @@
       "g": "Разное",
       "a": false,
       "s": "tgs-telegiornale-di-sicilia",
-      "ms": 11443,
+      "ms": 12127,
       "src": [
         "Free-TV"
       ]
@@ -4297,7 +4440,7 @@
       "g": "Разное",
       "a": false,
       "s": "tingvarp-fo",
-      "ms": 538,
+      "ms": 763,
       "src": [
         "Free-TV"
       ]
@@ -4310,7 +4453,7 @@
       "g": "Разное",
       "a": false,
       "s": "tlcfinland-fi",
-      "ms": 249,
+      "ms": 275,
       "src": [
         "Free-TV"
       ]
@@ -4323,7 +4466,7 @@
       "g": "Разное",
       "a": false,
       "s": "tlt-molise",
-      "ms": 116,
+      "ms": 149,
       "src": [
         "Free-TV"
       ]
@@ -4336,7 +4479,7 @@
       "g": "Познавательные",
       "a": false,
       "s": "traveltv-it",
-      "ms": 363,
+      "ms": 395,
       "src": [
         "Free-TV"
       ]
@@ -4349,7 +4492,7 @@
       "g": "Разное",
       "a": false,
       "s": "trc-santeramo",
-      "ms": 349,
+      "ms": 413,
       "src": [
         "Free-TV"
       ]
@@ -4362,7 +4505,7 @@
       "g": "Разное",
       "a": false,
       "s": "trg-media",
-      "ms": 295,
+      "ms": 340,
       "src": [
         "Free-TV"
       ]
@@ -4375,7 +4518,7 @@
       "g": "Музыка",
       "a": false,
       "s": "trl-tele-radio-leo",
-      "ms": 276,
+      "ms": 152,
       "src": [
         "Free-TV"
       ]
@@ -4388,7 +4531,7 @@
       "g": "Музыка",
       "a": false,
       "s": "trsp-tele-radio-san-pietro",
-      "ms": 305,
+      "ms": 338,
       "src": [
         "Free-TV"
       ]
@@ -4401,7 +4544,7 @@
       "g": "Разное",
       "a": false,
       "s": "trttv-gr",
-      "ms": 471,
+      "ms": 551,
       "src": [
         "Free-TV"
       ]
@@ -4414,7 +4557,7 @@
       "g": "Разное",
       "a": false,
       "s": "trt-eba-ortaokul",
-      "ms": 659,
+      "ms": 13138,
       "src": [
         "Free-TV"
       ]
@@ -4427,7 +4570,7 @@
       "g": "Разное",
       "a": false,
       "s": "trtkurdi-tr",
-      "ms": 2422,
+      "ms": 6189,
       "src": [
         "Free-TV"
       ]
@@ -4440,7 +4583,7 @@
       "g": "Разное",
       "a": false,
       "s": "trt-m-zik",
-      "ms": 3892,
+      "ms": 6365,
       "src": [
         "Free-TV"
       ]
@@ -4453,7 +4596,7 @@
       "g": "Разное",
       "a": false,
       "s": "trtturk-tr",
-      "ms": 512,
+      "ms": 6529,
       "src": [
         "Free-TV"
       ]
@@ -4466,7 +4609,7 @@
       "g": "Разное",
       "a": false,
       "s": "tsd-tv-arezzo-tele-san-domenico",
-      "ms": 294,
+      "ms": 292,
       "src": [
         "Free-TV"
       ]
@@ -4479,7 +4622,7 @@
       "g": "Базовые",
       "a": false,
       "s": "tsn-tele-sondrio-news",
-      "ms": 1333,
+      "ms": 1514,
       "src": [
         "Free-TV"
       ]
@@ -4492,7 +4635,7 @@
       "g": "Разное",
       "a": false,
       "s": "motor-trend-it",
-      "ms": 233,
+      "ms": 336,
       "src": [
         "Free-TV"
       ]
@@ -4505,7 +4648,7 @@
       "g": "Разное",
       "a": false,
       "s": "tv2000-va",
-      "ms": 536,
+      "ms": 427,
       "src": [
         "Free-TV"
       ]
@@ -4518,7 +4661,7 @@
       "g": "Разное",
       "a": false,
       "s": "tvcamara-br",
-      "ms": 3975,
+      "ms": 4022,
       "src": [
         "Free-TV"
       ]
@@ -4531,7 +4674,7 @@
       "g": "Разное",
       "a": false,
       "s": "tv-luna-napoli",
-      "ms": 217,
+      "ms": 181,
       "src": [
         "Free-TV"
       ]
@@ -4544,7 +4687,7 @@
       "g": "Разное",
       "a": false,
       "s": "tv-prato",
-      "ms": 337,
+      "ms": 416,
       "src": [
         "Free-TV"
       ]
@@ -4557,7 +4700,7 @@
       "g": "Разное",
       "a": false,
       "s": "tv-qui-modena",
-      "ms": 158,
+      "ms": 144,
       "src": [
         "Free-TV"
       ]
@@ -4570,7 +4713,7 @@
       "g": "Разное",
       "a": false,
       "s": "tv7-b-k-scsaba",
-      "ms": 252,
+      "ms": 246,
       "src": [
         "Free-TV"
       ]
@@ -4583,7 +4726,7 @@
       "g": "Разное",
       "a": false,
       "s": "tveinternacionaleuropeasia-es",
-      "ms": 464,
+      "ms": 453,
       "src": [
         "Free-TV"
       ]
@@ -4596,7 +4739,7 @@
       "g": "Разное",
       "a": false,
       "s": "tvl-tv-libera-pistoia",
-      "ms": 312,
+      "ms": 649,
       "src": [
         "Free-TV"
       ]
@@ -4609,7 +4752,7 @@
       "g": "Базовые",
       "a": false,
       "s": "tvrtimisoara-ro",
-      "ms": 399,
+      "ms": 1198,
       "src": [
         "Free-TV"
       ]
@@ -4622,7 +4765,7 @@
       "g": "Базовые",
       "a": false,
       "s": "tvrtargumures-ro",
-      "ms": 308,
+      "ms": 827,
       "src": [
         "Free-TV"
       ]
@@ -4635,7 +4778,7 @@
       "g": "Разное",
       "a": false,
       "s": "tvrs-tv",
-      "ms": 232,
+      "ms": 267,
       "src": [
         "Free-TV"
       ]
@@ -4648,7 +4791,7 @@
       "g": "Разное",
       "a": false,
       "s": "ubctv-kr",
-      "ms": 7138,
+      "ms": 9158,
       "src": [
         "Free-TV"
       ]
@@ -4661,7 +4804,7 @@
       "g": "Познавательные",
       "a": false,
       "s": "ucvtv-cl",
-      "ms": 1748,
+      "ms": 1774,
       "src": [
         "Free-TV"
       ]
@@ -4674,7 +4817,7 @@
       "g": "Разное",
       "a": false,
       "s": "umbria-tv",
-      "ms": 11760,
+      "ms": 12661,
       "src": [
         "Free-TV"
       ]
@@ -4687,7 +4830,7 @@
       "g": "Разное",
       "a": false,
       "s": "uno4-tv",
-      "ms": 5490,
+      "ms": 7564,
       "src": [
         "Free-TV"
       ]
@@ -4700,7 +4843,7 @@
       "g": "Разное",
       "a": false,
       "s": "utv-cz",
-      "ms": 291,
+      "ms": 282,
       "src": [
         "Free-TV"
       ]
@@ -4713,7 +4856,7 @@
       "g": "Разное",
       "a": false,
       "s": "vera-tv",
-      "ms": 5418,
+      "ms": 7459,
       "src": [
         "Free-TV"
       ]
@@ -4726,7 +4869,7 @@
       "g": "Разное",
       "a": false,
       "s": "verginatv-gr",
-      "ms": 415,
+      "ms": 338,
       "src": [
         "Free-TV"
       ]
@@ -4739,7 +4882,7 @@
       "g": "Разное",
       "a": false,
       "s": "video-mediterraneo",
-      "ms": 1803,
+      "ms": 2489,
       "src": [
         "Free-TV"
       ]
@@ -4752,7 +4895,7 @@
       "g": "Разное",
       "a": false,
       "s": "video-regione-sicilia",
-      "ms": 1278,
+      "ms": 4737,
       "src": [
         "Free-TV"
       ]
@@ -4765,7 +4908,7 @@
       "g": "Разное",
       "a": false,
       "s": "videonovara",
-      "ms": 5747,
+      "ms": 4556,
       "src": [
         "Free-TV"
       ]
@@ -4778,7 +4921,7 @@
       "g": "Разное",
       "a": false,
       "s": "videotelecarnia",
-      "ms": 5666,
+      "ms": 4434,
       "src": [
         "Free-TV"
       ]
@@ -4791,7 +4934,7 @@
       "g": "Базовые",
       "a": false,
       "s": "vidusdaugavastelevizija-lv",
-      "ms": 3248,
+      "ms": 6254,
       "src": [
         "Free-TV"
       ]
@@ -4804,7 +4947,7 @@
       "g": "Музыка",
       "a": false,
       "s": "vintage-radio-tv",
-      "ms": 5623,
+      "ms": 4260,
       "src": [
         "Free-TV"
       ]
@@ -4817,7 +4960,7 @@
       "g": "Разное",
       "a": false,
       "s": "voulitv-gr",
-      "ms": 579,
+      "ms": 717,
       "src": [
         "Free-TV"
       ]
@@ -4830,7 +4973,7 @@
       "g": "Разное",
       "a": false,
       "s": "v1-cz",
-      "ms": 398,
+      "ms": 438,
       "src": [
         "Free-TV"
       ]
@@ -4843,7 +4986,7 @@
       "g": "Разное",
       "a": false,
       "s": "wdr-de",
-      "ms": 794,
+      "ms": 739,
       "src": [
         "Free-TV"
       ]
@@ -4856,7 +4999,7 @@
       "g": "Разное",
       "a": false,
       "s": "wltv",
-      "ms": 2977,
+      "ms": 2342,
       "src": [
         "Free-TV"
       ]
@@ -4869,7 +5012,7 @@
       "g": "Базовые",
       "a": false,
       "s": "zerouno-tv-news",
-      "ms": 331,
+      "ms": 269,
       "src": [
         "Free-TV"
       ]
@@ -4882,7 +5025,7 @@
       "g": "Разное",
       "a": false,
       "s": "rch-45",
-      "ms": 2122,
+      "ms": 1669,
       "src": [
         "Free-TV"
       ]
@@ -4895,7 +5038,7 @@
       "g": "Базовые",
       "a": false,
       "s": "rch-47",
-      "ms": 5443,
+      "ms": 7579,
       "src": [
         "Free-TV"
       ]

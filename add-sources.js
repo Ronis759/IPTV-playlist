@@ -1,0 +1,5 @@
+const fs=require("fs");
+let c=fs.readFileSync("scripts/build.mjs","utf8");
+let old="  { id: \"free-tv\", name: \"Free-TV\", url: \"https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8\" },\\n];";
+let neo="  { id: \"free-tv\", name: \"Free-TV\", url: \"https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8\" },\\n  { id: \"ua\", name: \"\\u0423\\u043a\\u0440\\u0430\\u0438\\u043d\\u0430\", url: \"https://iptv-org.github.io/iptv/countries/ua.m3u\" },\\n  { id: \"ee\", name: \"\\u042d\\u0441\\u0442\u043e\u043d\u0438\u044f\", url: \"https://iptv-org.github.io/iptv/countries/ee.m3u\" },\\n  { id: \"lv\", name: \"\\u041b\\u0430\\u0442\u0432\u0438\u044f\", url: \"https://iptv-org.github.io/iptv/countries/lv.m3u\" },\\n  { id: \"lt\", name: \"\\u041b\u0438\u0442\u0432\u0430\", url: \"https://iptv-org.github.io/iptv/countries/lt.m3u\" },\\n];";
+if(c.includes(old)){c=c.replace(old,neo);fs.writeFileSync("scripts/build.mjs",c);console.log("sources added");}else{console.log("not found");}

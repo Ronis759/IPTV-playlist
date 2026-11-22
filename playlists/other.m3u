@@ -1,5 +1,5 @@
 #EXTM3U
-# Разное В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 280
+# Разное В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 289
 #EXTINF:-1 tvg-id="MasPerfil.ar" tvg-logo="https://i.imgur.com/3wZdPwN.png" group-title="Разное" tvg-name="+Perfil",+Perfil
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="111-tv" tvg-logo="https://i.imgur.com/4jY8yAI.png" group-title="Разное" tvg-name="111 Tv",111 Tv
@@ -8,6 +8,8 @@ https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="24h.es" tvg-logo="https://i.imgur.com/ZKR2jKr.png" group-title="Разное" tvg-name="24h",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="324.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/3-24-es.png" group-title="Разное" tvg-name="3/24",3/24
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="4-you-tv" tvg-logo="https://i.imgur.com/NN0cSbz.png" group-title="Разное" tvg-name="4 You Tv",4 You Tv
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 #EXTINF:-1 tvg-id="Arkhyz24.ru" tvg-logo="https://i.imgur.com/mve0sSS.png" group-title="Разное" tvg-name="Архыз 24",Архыз 24
@@ -64,6 +66,8 @@ https://server.gointernet.gr/live/livestream.m3u8
 https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8
 #EXTINF:-1 tvg-id="bantan" tvg-logo="" group-title="Разное" tvg-name="Bantan",Bantan
 https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
+#EXTINF:-1 tvg-id="BartokRadio.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/c/ce/MR3-BARTOK.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Разное" tvg-name="Bartók Rádió",Bartók Rádió
+https://budapest-cache-1.antik.sk/live/bartok_radio/index.m3u8
 #EXTINF:-1 tvg-id="bella-e-monella-tv" tvg-logo="https://i.imgur.com/yZONx5f.png" group-title="Разное" tvg-name="Bella e Monella TV",Bella e Monella TV
 https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="bergamo-tv" tvg-logo="https://i.imgur.com/1doR6Vl.png" group-title="Разное" tvg-name="Bergamo Tv",Bergamo Tv
@@ -72,6 +76,10 @@ https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/p
 https://besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="biobiochile.cl" tvg-logo="https://i.imgur.com/wrRufts.png" group-title="Разное" tvg-name="Bio Bio TV",Bio Bio TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTelevision.us" tvg-logo="https://i.imgur.com/VnCcH73.png" group-title="Разное" tvg-name="Bloomberg",Bloomberg
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png" group-title="Разное" tvg-name="Bloomberg TV",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="botflix-tv" tvg-logo="https://i.imgur.com/JBEM8lP.png" group-title="Разное" tvg-name="Botflix TV",Botflix TV
 https://hls.botflix.tv/tv/index.m3u8
 #EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/500px-Logo_BR_Fernsehen_2021.svg.png" group-title="Разное" tvg-name="BR Nord Ⓖ",BR Nord Ⓖ
@@ -104,6 +112,8 @@ https://tv.city.bg/play/tshls/citytv/index.m3u8
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
 #EXTINF:-1 tvg-id="company-tv" tvg-logo="https://i.imgur.com/IbabUDd.png" group-title="Разное" tvg-name="Company Tv",Company Tv
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.pe" tvg-logo="https://pbs.twimg.com/profile_images/1904206504753811457/66CbqvH1_200x200.jpg" group-title="Разное" tvg-name="Cosmos TV",Cosmos TV
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1 tvg-id="cremona-1" tvg-logo="https://i.imgur.com/a5d0F01.jpg" group-title="Разное" tvg-name="Cremona 1",Cremona 1
 https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
 #EXTINF:-1 tvg-id="cusano-italia-tv" tvg-logo="https://i.imgur.com/9F1sVjZ.png" group-title="Разное" tvg-name="Cusano Italia Tv",Cusano Italia Tv
@@ -120,8 +130,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
 #EXTINF:-1 tvg-id="easy-tv-canale-190" tvg-logo="https://i.imgur.com/LKrVuRR.jpg" group-title="Разное" tvg-name="Easy Tv Canale 190",Easy Tv Canale 190
 https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
-#EXTINF:-1 tvg-id="egnatiatv.gr" tvg-logo="https://i.imgur.com/zuyYIca.png" group-title="Разное" tvg-name="Egnatia",Egnatia
-https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u
 #EXTINF:-1 tvg-id="ElPaisTV.es" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="Разное" tvg-name="El País",El País
 https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="enjoy-television" tvg-logo="https://hostux.pics/images/2026/09/11/04_enjoy_television1ad11f59484e0115.png" group-title="Разное" tvg-name="Enjoy Television",Enjoy Television
@@ -196,6 +204,8 @@ https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="klasik" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" group-title="Разное" tvg-name="Klasik",Klasik
 https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
+#EXTINF:-1 tvg-id="KossuthRadio.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/6/69/Mr1.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Разное" tvg-name="Kossuth Rádió",Kossuth Rádió
+https://budapest-cache-1.antik.sk/live/kossuth_radio/index.m3u8
 #EXTINF:-1 tvg-id="Kriti1Tv.gr" tvg-logo="https://i.imgur.com/C1ucQeC.png" group-title="Разное" tvg-name="Kriti 1",Kriti 1
 https://livetv.streams.ovh:8081/kriti/index.m3u8
 #EXTINF:-1 tvg-id="KritiTv.gr" tvg-logo="https://i.imgur.com/eLhYMmc.png" group-title="Разное" tvg-name="Kriti TV",Kriti TV
@@ -224,6 +234,8 @@ https://lifetv.bitflip.ee/live/stream1.m3u8
 https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 #EXTINF:-1 tvg-id="lombardia-tv" tvg-logo="https://i.imgur.com/aksVy9f.jpg" group-title="Разное" tvg-name="Lombardia Tv",Lombardia Tv
 https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="lychnostv.gr" tvg-logo="hhttps://i.imgur.com/JYSlBfY.png" group-title="Разное" tvg-name="Lychnos",Lychnos
+https://thor.mental-media.gr:19360/imp/imp.m3u8
 #EXTINF:-1 tvg-id="made-in-bo" tvg-logo="https://i.imgur.com/WFnrMS0.png" group-title="Разное" tvg-name="Made in BO",Made in BO
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Manga.it" tvg-logo="https://i.imgur.com/8a6WYU2.png" group-title="Разное" tvg-name="MAN-GA",MAN-GA
@@ -338,11 +350,10 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="rete-55" tvg-logo="https://i.imgur.com/EsZn2cj.png" group-title="Разное" tvg-name="Rete 55",Rete 55
 https://live1.giocabet.tv/stream/6/index.m3u8
-#EXTINF:-1 tvg-id="rete-7-tv" tvg-logo="https://i.imgur.com/lUTxfoh.png" group-title="Разное" tvg-name="Rete 7 Tv",Rete 7 Tv
-https://stream.ets-sistemi.it:2020/hls/rete7-live/rete7-live.m3u8
 #EXTINF:-1 tvg-id="rete-8" tvg-logo="https://i.imgur.com/bGsjPRh.png" group-title="Разное" tvg-name="Rete 8",Rete 8
 https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
 #EXTINF:-1 tvg-id="rete-8-vga" tvg-logo="https://i.imgur.com/3wF2AJX.jpg" group-title="Разное" tvg-name="Rete 8 Vga",Rete 8 Vga
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
 #EXTINF:-1 tvg-id="rete-biella-tv" tvg-logo="https://i.imgur.com/e2ryHx7.png" group-title="Разное" tvg-name="Rete Biella Tv",Rete Biella Tv
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
 #EXTINF:-1 tvg-id="rete-mia" tvg-logo="https://i.imgur.com/kCJ621Q.png" group-title="Разное" tvg-name="Rete Mia",Rete Mia
@@ -383,6 +394,8 @@ https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 #EXTINF:-1 tvg-id="RUV2.is" tvg-logo="https://i.imgur.com/yDKRuXQ.png" group-title="Разное" tvg-name="RÚV 2",RÚV 2
 https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF:-1 tvg-id="Sahara-24.mr" tvg-logo="https://i.imgur.com/nOkf1fU.png" group-title="Разное" tvg-name="Sahara 24 صحراء",Sahara 24 صحراء
+https://live.saharamedias.net:3317/live/shara24live.m3u8
 #EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://i.imgur.com/pa4wOVY.png" group-title="Разное" tvg-name="Savoir Média",Savoir Média
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="set-tv-cilento" tvg-logo="https://i.imgur.com/qN5D1jD.png" group-title="Разное" tvg-name="Set Tv Cilento",Set Tv Cilento
@@ -409,6 +422,12 @@ https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.imgur.com/3CEijac.png" group-title="Разное" tvg-name="T13 en vivo",T13 en vivo
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tcf-tv" tvg-logo="https://i.imgur.com/fiylFs2.jpg" group-title="Разное" tvg-name="Tcf Tv",Tcf Tv
+https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="tele-acras" tvg-logo="https://i.imgur.com/90Lsv8q.png" group-title="Разное" tvg-name="Tele Acras",Tele Acras
+https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
+#EXTINF:-1 tvg-id="tele-bari" tvg-logo="https://i.imgur.com/HYSz4rx.png" group-title="Разное" tvg-name="Tele Bari",Tele Bari
+https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="tele-belluno" tvg-logo="https://i.imgur.com/YiM2Z7E.png" group-title="Разное" tvg-name="Tele Belluno",Tele Belluno
 https://g2qd3exzy7an-hls-live.mariatvcdn.it/livetelebelluno/be0e3154b820953ce1a94a937bb2bb5d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tele-boario" tvg-logo="https://i.imgur.com/LlLD3L6.png" group-title="Разное" tvg-name="Tele Boario",Tele Boario
