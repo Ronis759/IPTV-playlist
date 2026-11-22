@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-22T18:57:45.378Z",
-  "total": 405,
+  "updatedAt": "2026-11-22T19:22:11.034Z",
+  "total": 404,
   "withArchive": 0,
   "categories": [
     {
       "id": "basic",
       "title": "Базовые",
-      "count": 41
+      "count": 45
     },
     {
       "id": "by",
@@ -16,12 +16,12 @@
     {
       "id": "entertainment",
       "title": "Развлекательные",
-      "count": 5
+      "count": 9
     },
     {
       "id": "education",
       "title": "Познавательные",
-      "count": 11
+      "count": 12
     },
     {
       "id": "movies",
@@ -31,7 +31,7 @@
     {
       "id": "music",
       "title": "Музыка",
-      "count": 51
+      "count": 48
     },
     {
       "id": "kids",
@@ -46,7 +46,7 @@
     {
       "id": "other",
       "title": "Разное",
-      "count": 272
+      "count": 265
     }
   ]
 }

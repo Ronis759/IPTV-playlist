@@ -1,161 +1,234 @@
 {
-  "updatedAt": "2026-11-22T18:57:45.379Z",
-  "checked": 397,
-  "quickAlive": 389,
-  "playingFast": 387,
+  "updatedAt": "2026-11-22T19:22:11.035Z",
+  "checked": 405,
+  "quickAlive": 394,
+  "playingFast": 384,
   "playingSlow": 0,
-  "broken": 2,
-  "replaced": 0,
-  "added": 18,
-  "removed": 2,
+  "broken": 10,
+  "replaced": 1,
+  "added": 19,
+  "removed": 9,
   "removedList": [
     {
-      "name": "Radio Norba Tv",
-      "url": "https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8",
+      "name": "City Eden KinoAction",
+      "url": "https://cityeden.catcast.tv/content/41333/index.m3u8",
       "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
     },
     {
-      "name": "Radio Immagine Tv",
-      "url": "https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8",
+      "name": "City Eden KinoArt",
+      "url": "https://cityeden.catcast.tv/content/38398/index.m3u8",
+      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
+    },
+    {
+      "name": "City Eden KinoAsia",
+      "url": "https://cityeden.catcast.tv/content/34393/index.m3u8",
+      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
+    },
+    {
+      "name": "City Eden KinoDok",
+      "url": "https://cityeden.catcast.tv/content/38354/index.m3u8",
+      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
+    },
+    {
+      "name": "City Eden KinoKomediya",
+      "url": "https://cityeden.catcast.tv/content/41331/index.m3u8",
+      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
+    },
+    {
+      "name": "City Eden Classic Music",
+      "url": "https://cityeden.catcast.tv/content/47400/index.m3u8",
+      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
+    },
+    {
+      "name": "Radio Iglesias Visual Radio",
+      "url": "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8",
+      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
+    },
+    {
+      "name": "Піксель TV",
+      "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8",
+      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
+    },
+    {
+      "name": "Министерство Идей",
+      "url": "https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8",
       "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
     }
   ],
   "replacedList": [
     {
-      "name": "Dom kino International (576p)",
-      "newUrl": "https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 291
-    },
-    {
       "name": "Dorama (576p)",
-      "newUrl": "https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 188
+      "newUrl": "https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8",
+      "replacedUrl": "https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv",
+      "source": "iptv-org",
+      "ms": 2739
     },
     {
-      "name": "Horoshee Kino (720p)",
-      "newUrl": "https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8",
+      "name": "City Eden Classic Music",
+      "newUrl": "https://cityeden.catcast.tv/content/47400/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1490
+      "ms": 2057
     },
     {
-      "name": "Kinopremyera (1080p)",
-      "newUrl": "https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv",
+      "name": "City Eden KinoAction",
+      "newUrl": "https://cityeden.catcast.tv/content/41333/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 171
+      "ms": 2662
     },
     {
-      "name": "Kinoseriya (576p)",
-      "newUrl": "https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv",
+      "name": "City Eden KinoArt",
+      "newUrl": "https://cityeden.catcast.tv/content/38398/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 167
+      "ms": 2559
     },
     {
-      "name": "NTK 21",
-      "newUrl": "https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8",
+      "name": "City Eden KinoAsia",
+      "newUrl": "https://cityeden.catcast.tv/content/34393/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 245
+      "ms": 2455
     },
     {
-      "name": "NTV Sledstviye veli (1080p)",
-      "newUrl": "https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8",
+      "name": "City Eden KinoDetektiv",
+      "newUrl": "https://cityeden.catcast.tv/content/41327/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 564
+      "ms": 1318
     },
     {
-      "name": "Ohotnik i rybolov (576i)",
-      "newUrl": "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8",
+      "name": "City Eden KinoDok",
+      "newUrl": "https://cityeden.catcast.tv/content/38354/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1630
+      "ms": 1117
     },
     {
-      "name": "Otkritiy mir. Zdorove (576p)",
-      "newUrl": "https://v4.proofix.ru/0mir/index.m3u8",
+      "name": "Friday! International Kazakhstan (576p)",
+      "newUrl": "https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 347
+      "ms": 2034
     },
     {
-      "name": "OTV-Prim (720p)",
-      "newUrl": "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8",
+      "name": "Pro Business (720p)",
+      "newUrl": "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 166
+      "ms": 2553
     },
     {
-      "name": "Pervyy Respublikanskiy (576p)",
-      "newUrl": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
+      "name": "Radio 1 (Russia) (720p)",
+      "newUrl": "https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1391
+      "ms": 1881
     },
     {
-      "name": "Prima (Russia) (1080p)",
-      "newUrl": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8",
+      "name": "RTVi (576p)",
+      "newUrl": "https://shift03.isp.bg/RTVi/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 265
+      "ms": 1769
     },
     {
-      "name": "Radio Mir (720p)",
-      "newUrl": "https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8",
+      "name": "S1 (1080p)",
+      "newUrl": "https://sitv.ru/hls/stv.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 335
+      "ms": 763
     },
     {
-      "name": "Radio Rossii (720p)",
-      "newUrl": "https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8",
+      "name": "Salyam (576p)",
+      "newUrl": "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 113
+      "ms": 764
     },
     {
-      "name": "RT Documentary Russian (1080p)",
-      "newUrl": "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+      "name": "Samara-GIS (1080p)",
+      "newUrl": "https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 163
+      "ms": 967
     },
     {
-      "name": "Russia-24 (1080p)",
-      "newUrl": "https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8",
+      "name": "Sankt-Peterburg HD (720p)",
+      "newUrl": "https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 616
+      "ms": 526
     },
     {
-      "name": "Rybalka i okhota (576p)",
-      "newUrl": "https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2",
+      "name": "Sever",
+      "newUrl": "https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 380
+      "ms": 683
     },
     {
-      "name": "Ryzhiy (576i)",
-      "newUrl": "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
+      "name": "Shopping Live (720p)",
+      "newUrl": "https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1499
+      "ms": 687
+    },
+    {
+      "name": "Smotrim 100% Detskoe (1080p)",
+      "newUrl": "https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8",
+      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
+      "source": "Р РѕСЃСЃРёСЏ",
+      "ms": 464
+    },
+    {
+      "name": "Smotrim 100% Lyubov (1080p)",
+      "newUrl": "https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8",
+      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
+      "source": "Р РѕСЃСЃРёСЏ",
+      "ms": 366
+    },
+    {
+      "name": "Smotrim 100% Prazdnik (1080p)",
+      "newUrl": "https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8",
+      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
+      "source": "Р РѕСЃСЃРёСЏ",
+      "ms": 385
     }
   ],
   "slowList": [],
   "brokenList": [
     {
-      "name": "Radio Norba Tv"
+      "name": "City Eden KinoAction"
     },
     {
-      "name": "Radio Immagine Tv"
+      "name": "City Eden KinoArt"
+    },
+    {
+      "name": "City Eden KinoAsia"
+    },
+    {
+      "name": "City Eden KinoDok"
+    },
+    {
+      "name": "City Eden KinoKomediya"
+    },
+    {
+      "name": "Dorama (576p)"
+    },
+    {
+      "name": "City Eden Classic Music"
+    },
+    {
+      "name": "Radio Iglesias Visual Radio"
+    },
+    {
+      "name": "Піксель TV"
+    },
+    {
+      "name": "Министерство Идей"
     }
   ],
-  "durationSec": 472
+  "durationSec": 873
 }
