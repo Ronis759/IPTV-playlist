@@ -1,7 +1,5 @@
 #EXTM3U
-# Музыка В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 53
-#EXTINF:-1 tvg-id="90-9-jazzy-fm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Jazzy.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Музыка" tvg-name="90.9 Jazzy FM",90.9 Jazzy FM
-https://budapest-cache-1.antik.sk/live/jazzy/index.m3u8
+# Музыка В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 51
 #EXTINF:-1 tvg-id="botflix-radioo" tvg-logo="https://i.imgur.com/JBEM8lP.png" group-title="Музыка" tvg-name="Botflix Radioo",Botflix Radioo
 https://hls.botflix.tv/radioo/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenClassicMusic.ru@HD" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Музыка" tvg-name="City Eden Classic Music",City Eden Classic Music
@@ -12,8 +10,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-id="giornale-radio-tv" tvg-logo="https://i.imgur.com/TMtvCLL.jpg" group-title="Музыка" tvg-name="Giornale Radio Tv",Giornale Radio Tv
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="h-r-fm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/HirFM_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Музыка" tvg-name="Hír FM",Hír FM
-https://budapest-cache-1.antik.sk/live/hir_rm/index.m3u8
 #EXTINF:-1 tvg-id="JRTVJarviradio.fi" tvg-logo="https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg" group-title="Музыка" tvg-name="Järviradio TV",Järviradio TV
 https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
 #EXTINF:-1 tvg-id="mongolia-music" tvg-logo="" group-title="Музыка" tvg-name="Mongolia Music",Mongolia Music
@@ -56,10 +52,10 @@ https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-libert" tvg-logo="https://i.imgur.com/HRvPlf5.png" group-title="Музыка" tvg-name="Radio Libertà",Radio Libertà
 https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="RadioMir.by@SD" tvg-logo="https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg" group-title="Музыка" tvg-name="Radio Mir (720p)",Radio Mir (720p)
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-monte-kronio-tv-r-m-k" tvg-logo="https://i.imgur.com/t0I2Shi.jpg" group-title="Музыка" tvg-name="Radio Monte Kronio Tv (R.M.K.)",Radio Monte Kronio Tv (R.M.K.)
 https://648026e87a75e.streamlock.net/rmktv/rmktv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadionorbaTV.it" tvg-logo="https://i.imgur.com/qftBPM9.png" group-title="Музыка" tvg-name="Radio Norba Tv",Radio Norba Tv
-https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="radio-number-one-tv" tvg-logo="https://hostux.pics/images/2026/09/11/14_radio_number_one_tv7003522663a1b412.png" group-title="Музыка" tvg-name="Radio Number One TV",Radio Number One TV
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-padova-tv" tvg-logo="https://hostux.pics/images/2026/09/11/15_radio_padova_tv46f0206ee59dba68.png" group-title="Музыка" tvg-name="Radio Padova TV",Radio Padova TV
@@ -72,6 +68,8 @@ https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
 https://stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-ritmo-80-tv" tvg-logo="https://hostux.pics/images/2026/09/11/17_radio_ritmo_80_tv695eff878745049b.png" group-title="Музыка" tvg-name="Radio Ritmo 80 TV",Radio Ritmo 80 TV
 https://tvd-rit80.fluid.stream/Ritmo80TV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioRossii.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Radio_Rossii_logo.svg/1920px-Radio_Rossii_logo.svg.png" group-title="Музыка" tvg-name="Radio Rossii (720p)",Radio Rossii (720p)
+https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1 tvg-id="radio-studio-tv" tvg-logo="https://hostux.pics/images/2026/09/11/18_radio_studio_tv037362682a113768.png" group-title="Музыка" tvg-name="Radio Studio TV",Radio Studio TV
 https://stream10.xdevel.com/video0s978116-2477/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-taormina-tv" tvg-logo="https://hostux.pics/images/2026/09/11/19_radio_taormina_tvd6556d66aa925cb7.png" group-title="Музыка" tvg-name="Radio Taormina TV",Radio Taormina TV
@@ -86,8 +84,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:-1 tvg-id="RadioFrecciaTV.it" tvg-logo="https://i.imgur.com/J5N9F7Z.png" group-title="Музыка" tvg-name="RadioFreccia",RadioFreccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
-#EXTINF:-1 tvg-id="sl-ger-fm" tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/slager-fm/play_250_250.webp" group-title="Музыка" tvg-name="Sláger FM",Sláger FM
-https://budapest-cache-1.antik.sk/live/slager/index.m3u8
 #EXTINF:-1 tvg-id="tele-club-italia" tvg-logo="https://i.imgur.com/WxkOgg0.png" group-title="Музыка" tvg-name="Tele Club Italia",Tele Club Italia
 https://www.theclubfactory.com/streaming/index.m3u8
 #EXTINF:-1 tvg-id="tele-radio-ercolano" tvg-logo="https://i.imgur.com/YPuoy8N.jpg" group-title="Музыка" tvg-name="Tele Radio Ercolano",Tele Radio Ercolano

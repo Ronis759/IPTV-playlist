@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="Базовые" tvg-name="Russia-24 (1080p)",Russia-24 (1080p)
+https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8

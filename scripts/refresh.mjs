@@ -289,7 +289,7 @@ function writeOutputs(channels) {
     if (file.endsWith('.m3u')) fs.unlinkSync(path.join(streamsDir, file));
   }
   for (const channel of list) {
-    writeFile(path.join(streamsDir, `${channel.slug}.m3u`), m3uEntry(channel).join('\n'));
+    writeFile(path.join(streamsDir, `${channel.slug}.m3u`), ['#EXTM3U', ...m3uEntry(channel)].join('\n'));
   }
 
   writeFile(path.join(ROOT, 'data', 'channels.json'), JSON.stringify({

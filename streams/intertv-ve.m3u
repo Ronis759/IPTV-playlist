@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="interTV.ve" tvg-logo="https://intervenhosting.net/imagenes/itv.jpg" group-title="Разное" tvg-name="inter TV",inter TV
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8

@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="rch_45" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" group-title="Разное" tvg-name="ウェザーニュースLiVE",ウェザーニュースLiVE
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8

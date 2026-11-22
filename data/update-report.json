@@ -1,235 +1,161 @@
 {
-  "updatedAt": "2026-11-22T18:21:23.941Z",
-  "checked": 387,
-  "quickAlive": 381,
-  "playingFast": 375,
+  "updatedAt": "2026-11-22T18:57:45.379Z",
+  "checked": 397,
+  "quickAlive": 389,
+  "playingFast": 387,
   "playingSlow": 0,
-  "broken": 6,
+  "broken": 2,
   "replaced": 0,
-  "added": 24,
-  "removed": 6,
+  "added": 18,
+  "removed": 2,
   "removedList": [
     {
-      "name": "Spirit FM",
-      "url": "https://budapest-cache-1.antik.sk/live/spirit_fm/index.m3u8",
+      "name": "Radio Norba Tv",
+      "url": "https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8",
       "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
     },
     {
-      "name": "Antenna Sud",
-      "url": "https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8",
-      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
-    },
-    {
-      "name": "Antenna Sud Extra",
-      "url": "https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8",
-      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
-    },
-    {
-      "name": "Pannon RTV",
-      "url": "https://stream2.nmih.hu:4102/live.m3u8",
-      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
-    },
-    {
-      "name": "Petőfi Rádió",
-      "url": "https://budapest-cache-1.antik.sk/live/petofi_radio/index.m3u8",
-      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
-    },
-    {
-      "name": "TV Câmara",
-      "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+      "name": "Radio Immagine Tv",
+      "url": "https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8",
       "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
     }
   ],
   "replacedList": [
     {
-      "name": "360° (1080p)",
-      "newUrl": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
+      "name": "Dom kino International (576p)",
+      "newUrl": "https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 462
+      "ms": 291
     },
     {
-      "name": "Astrahan.Ru Sport (720p)",
-      "newUrl": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8",
+      "name": "Dorama (576p)",
+      "newUrl": "https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1420
+      "ms": 188
     },
     {
-      "name": "City Eden Classic Music",
-      "newUrl": "https://cityeden.catcast.tv/content/47400/index.m3u8",
+      "name": "Horoshee Kino (720p)",
+      "newUrl": "https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 2154
+      "ms": 1490
     },
     {
-      "name": "City Eden KinoAction",
-      "newUrl": "https://cityeden.catcast.tv/content/41333/index.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1802
-    },
-    {
-      "name": "City Eden KinoArt",
-      "newUrl": "https://cityeden.catcast.tv/content/38398/index.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 2370
-    },
-    {
-      "name": "City Eden KinoAsia",
-      "newUrl": "https://cityeden.catcast.tv/content/34393/index.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 3379
-    },
-    {
-      "name": "City Eden KinoDok",
-      "newUrl": "https://cityeden.catcast.tv/content/38354/index.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 5397
-    },
-    {
-      "name": "City Eden KinoKomediya",
-      "newUrl": "https://cityeden.catcast.tv/content/41331/index.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 4019
-    },
-    {
-      "name": "Current Time TV (1080p)",
-      "newUrl": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 270
-    },
-    {
-      "name": "Domashnie Zhivotnye (576p)",
-      "newUrl": "https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 318
-    },
-    {
-      "name": "Euronews Russian (720p)",
-      "newUrl": "https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8",
+      "name": "Kinopremyera (1080p)",
+      "newUrl": "https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
       "ms": 171
     },
     {
-      "name": "Eurosport 1 Russia (1080p)",
-      "newUrl": "https://s7.iptv-24.net/1439/playlist.m3u8",
+      "name": "Kinoseriya (576p)",
+      "newUrl": "https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1503
+      "ms": 167
     },
     {
-      "name": "Eurosport 2 Russia (1080p)",
-      "newUrl": "https://s7.iptv-24.net/1452/playlist.m3u8",
+      "name": "NTK 21",
+      "newUrl": "https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1251
+      "ms": 245
     },
     {
-      "name": "Friday! International Kazakhstan (576p)",
-      "newUrl": "https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv",
+      "name": "NTV Sledstviye veli (1080p)",
+      "newUrl": "https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 298
+      "ms": 564
     },
     {
-      "name": "Glazami Turista (576i)",
-      "newUrl": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8",
+      "name": "Ohotnik i rybolov (576i)",
+      "newUrl": "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1570
+      "ms": 1630
     },
     {
-      "name": "Gulli Girl (720p)",
-      "newUrl": "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8",
+      "name": "Otkritiy mir. Zdorove (576p)",
+      "newUrl": "https://v4.proofix.ru/0mir/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1221
+      "ms": 347
     },
     {
-      "name": "Istoki (1080p)",
-      "newUrl": "https://istoki.tv/live/stream1/playlist.m3u8",
+      "name": "OTV-Prim (720p)",
+      "newUrl": "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 481
+      "ms": 166
     },
     {
-      "name": "Kuban 24 SD",
-      "newUrl": "https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8",
+      "name": "Pervyy Respublikanskiy (576p)",
+      "newUrl": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 279
+      "ms": 1391
     },
     {
-      "name": "MMA-TV.com (1080p)",
-      "newUrl": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+      "name": "Prima (Russia) (1080p)",
+      "newUrl": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 314
+      "ms": 265
     },
     {
-      "name": "Mult International (576p)",
-      "newUrl": "https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv",
+      "name": "Radio Mir (720p)",
+      "newUrl": "https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 301
+      "ms": 335
     },
     {
-      "name": "Muz Soyuz (576p)",
-      "newUrl": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
+      "name": "Radio Rossii (720p)",
+      "newUrl": "https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 954
+      "ms": 113
     },
     {
-      "name": "Muzhskoy HD (1080p)",
-      "newUrl": "https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8",
+      "name": "RT Documentary Russian (1080p)",
+      "newUrl": "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 182
+      "ms": 163
     },
     {
-      "name": "Muzyka 1",
-      "newUrl": "https://kino-1.catcast.tv/content/37745/index.m3u8",
+      "name": "Russia-24 (1080p)",
+      "newUrl": "https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 348
+      "ms": 616
     },
     {
-      "name": "Muzyka Kino",
-      "newUrl": "https://kino-1.catcast.tv/content/37739/index.m3u8",
+      "name": "Rybalka i okhota (576p)",
+      "newUrl": "https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 136
+      "ms": 380
+    },
+    {
+      "name": "Ryzhiy (576i)",
+      "newUrl": "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
+      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
+      "source": "Р РѕСЃСЃРёСЏ",
+      "ms": 1499
     }
   ],
   "slowList": [],
   "brokenList": [
     {
-      "name": "Spirit FM"
+      "name": "Radio Norba Tv"
     },
     {
-      "name": "Antenna Sud"
-    },
-    {
-      "name": "Antenna Sud Extra"
-    },
-    {
-      "name": "Pannon RTV"
-    },
-    {
-      "name": "Petőfi Rádió"
-    },
-    {
-      "name": "TV Câmara"
+      "name": "Radio Immagine Tv"
     }
   ],
-  "durationSec": 393
+  "durationSec": 472
 }

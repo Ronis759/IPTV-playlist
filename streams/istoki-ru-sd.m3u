@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="Istoki.ru@SD" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png" group-title="Познавательные" tvg-name="Istoki (1080p)",Istoki (1080p)
 https://istoki.tv/live/stream1/playlist.m3u8

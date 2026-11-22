@@ -1,8 +1,12 @@
 #EXTM3U
-# Развлекательные В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 3
+# Развлекательные В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 5
 #EXTINF:-1 tvg-id="DryBarComedy.us" tvg-logo="https://i.imgur.com/EldlmTp.png" group-title="Развлекательные" tvg-name="Drybar Comedy",Drybar Comedy
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FridayInternational.ru@Kazakhstan" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Развлекательные" tvg-name="Friday! International Kazakhstan (576p)",Friday! International Kazakhstan (576p)
 https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Muzhskoy.ru@HD" tvg-logo="https://i.imgur.com/xyztpBf.png" group-title="Развлекательные" tvg-name="Muzhskoy HD (1080p)",Muzhskoy HD (1080p)
 https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVSledstviyeveli.ru@SD" tvg-logo="https://image.tmdb.org/t/p/original/qGCnptpQ9slUAoZ7e5y1Dk4TtjJ.png" group-title="Развлекательные" tvg-name="NTV Sledstviye veli (1080p)",NTV Sledstviye veli (1080p)
+https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
+#EXTINF:-1 tvg-id="Ryzhiy.ru@SD" tvg-logo="https://i.imgur.com/acrU2IE.png" group-title="Развлекательные" tvg-name="Ryzhiy (576i)",Ryzhiy (576i)
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8

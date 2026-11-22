@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="budapest-eur-pa-tv" tvg-logo="" group-title="Разное" tvg-name="Budapest Európa TV",Budapest Európa TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8

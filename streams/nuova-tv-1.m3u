@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="nuova-tv-1" tvg-logo="https://i.imgur.com/1yqTZhR.png" group-title="Разное" tvg-name="Nuova Tv 1",Nuova Tv 1
 https://nuovatv.net:8443/tv/stream.m3u8

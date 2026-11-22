@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="gnomitv.gr" tvg-logo="https://i.imgur.com/mHCk05E.png" group-title="Разное" tvg-name="Gnomi",Gnomi
 https://live.streams.ovh:8081/gnomitv/index.m3u8

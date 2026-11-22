@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="UBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ubc_logo2.svg/500px-Ubc_logo2.svg.png" group-title="Разное" tvg-name="UBC TV",UBC TV
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8

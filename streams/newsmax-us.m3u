@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="Newsmax.us" tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="Разное" tvg-name="Newsmax TV",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8

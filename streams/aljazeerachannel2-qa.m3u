@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="AlJazeeraChannel2.qa" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Разное" tvg-name="Al Jazeera 2",Al Jazeera 2
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8

@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="tele-cupole" tvg-logo="https://i.imgur.com/ZmUI9zb.png" group-title="Разное" tvg-name="Tele Cupole",Tele Cupole
 https://load-balancer.azotosolutions.com/cdnedge40/telecupole/playlist.m3u8

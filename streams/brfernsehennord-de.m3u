@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/500px-Logo_BR_Fernsehen_2021.svg.png" group-title="Разное" tvg-name="BR Nord Ⓖ",BR Nord Ⓖ
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8

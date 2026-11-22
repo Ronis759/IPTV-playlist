@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="epsilon.gr" tvg-logo="https://i.imgur.com/vUQSDvZ.png" group-title="Разное" tvg-name="Epsilon",Epsilon
 https://neon.streams.gr:8081/epsilontv/index.m3u8

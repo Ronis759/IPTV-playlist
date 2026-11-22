@@ -1,5 +1,5 @@
 #EXTM3U
-# Разное В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 277
+# Разное В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 272
 #EXTINF:-1 tvg-id="MasPerfil.ar" tvg-logo="https://i.imgur.com/3wZdPwN.png" group-title="Разное" tvg-name="+Perfil",+Perfil
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="111-tv" tvg-logo="https://i.imgur.com/4jY8yAI.png" group-title="Разное" tvg-name="111 Tv",111 Tv
@@ -62,8 +62,6 @@ https://server.gointernet.gr/live/livestream.m3u8
 https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8
 #EXTINF:-1 tvg-id="bantan" tvg-logo="" group-title="Разное" tvg-name="Bantan",Bantan
 https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
-#EXTINF:-1 tvg-id="BartokRadio.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/c/ce/MR3-BARTOK.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Разное" tvg-name="Bartók Rádió",Bartók Rádió
-https://budapest-cache-1.antik.sk/live/bartok_radio/index.m3u8
 #EXTINF:-1 tvg-id="bella-e-monella-tv" tvg-logo="https://i.imgur.com/yZONx5f.png" group-title="Разное" tvg-name="Bella e Monella TV",Bella e Monella TV
 https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="bergamo-tv" tvg-logo="https://i.imgur.com/1doR6Vl.png" group-title="Разное" tvg-name="Bergamo Tv",Bergamo Tv
@@ -108,8 +106,6 @@ https://tv.city.bg/play/tshls/citytv/index.m3u8
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
 #EXTINF:-1 tvg-id="company-tv" tvg-logo="https://i.imgur.com/IbabUDd.png" group-title="Разное" tvg-name="Company Tv",Company Tv
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CosmosTV.pe" tvg-logo="https://pbs.twimg.com/profile_images/1904206504753811457/66CbqvH1_200x200.jpg" group-title="Разное" tvg-name="Cosmos TV",Cosmos TV
-https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1 tvg-id="cremona-1" tvg-logo="https://i.imgur.com/a5d0F01.jpg" group-title="Разное" tvg-name="Cremona 1",Cremona 1
 https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
 #EXTINF:-1 tvg-id="cusano-italia-tv" tvg-logo="https://i.imgur.com/9F1sVjZ.png" group-title="Разное" tvg-name="Cusano Italia Tv",Cusano Italia Tv
@@ -142,8 +138,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estr
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
 #EXTINF:-1 tvg-id="euro-tv" tvg-logo="https://i.imgur.com/HCl5Zbu.png" group-title="Разное" tvg-name="Euro Tv",Euro Tv
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1 tvg-id="BonumTV.hu" tvg-logo="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" group-title="Разное" tvg-name="EWTN TV",EWTN TV
-https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
 #EXTINF:-1 tvg-id="extra-tv" tvg-logo="https://i.imgur.com/KCBurST.png" group-title="Разное" tvg-name="Extra Tv",Extra Tv
 https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
 #EXTINF:-1 tvg-id="fano-tv" tvg-logo="https://i.imgur.com/orqEzJ6.png" group-title="Разное" tvg-name="Fano Tv",Fano Tv
@@ -188,8 +182,6 @@ https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ioniantv.gr" tvg-logo="https://i.imgur.com/ADVYeQd.png" group-title="Разное" tvg-name="Ionian Channel",Ionian Channel
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="juventus-r-di" tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/juventus-radio/play_250_250.webp" group-title="Разное" tvg-name="Juventus Rádió",Juventus Rádió
-https://budapest-cache-1.antik.sk/live/juventus/index.m3u8
 #EXTINF:-1 tvg-id="kanizsa-tv" tvg-logo="" group-title="Разное" tvg-name="Kanizsa TV",Kanizsa TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="KBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/500px-KBC_Gwangju_Broadcasting_logo.svg.png" group-title="Разное" tvg-name="KBC TV",KBC TV
@@ -316,8 +308,6 @@ https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="QatarTelevisionTheHolyQuran.qa" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="Разное" tvg-name="Qatar Television The Holy Quran",Qatar Television The Holy Quran
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8
-#EXTINF:-1 tvg-id="r-di-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Radio1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Разное" tvg-name="Rádió1",Rádió1
-https://budapest-cache-1.antik.sk/live/radio_1/index.m3u8
 #EXTINF:-1 tvg-id="rai-italia-asia-e-australia" tvg-logo="https://i.imgur.com/riXPOTh.png" group-title="Разное" tvg-name="Rai Italia Asia e Australia",Rai Italia Asia e Australia
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 #EXTINF:-1 tvg-id="rai-italia-europa-e-africa" tvg-logo="https://i.imgur.com/riXPOTh.png" group-title="Разное" tvg-name="Rai Italia Europa e Africa",Rai Italia Europa e Africa

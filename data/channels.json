@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-22T18:21:23.938Z",
-  "total": 397,
+  "updatedAt": "2026-11-22T18:57:45.376Z",
+  "total": 405,
   "channels": [
     {
       "n": "+Perfil",
@@ -10,7 +10,7 @@
       "g": "Разное",
       "a": false,
       "s": "masperfil-ar",
-      "ms": 1697
+      "ms": 1625
     },
     {
       "n": "111 Tv",
@@ -20,7 +20,7 @@
       "g": "Разное",
       "a": false,
       "s": "111-tv",
-      "ms": 417
+      "ms": 414
     },
     {
       "n": "16TV",
@@ -30,7 +30,7 @@
       "g": "Разное",
       "a": false,
       "s": "16tv",
-      "ms": 828
+      "ms": 837
     },
     {
       "n": "24h",
@@ -40,7 +40,7 @@
       "g": "Разное",
       "a": false,
       "s": "24h-es",
-      "ms": 431
+      "ms": 357
     },
     {
       "n": "3/24",
@@ -50,7 +50,7 @@
       "g": "Разное",
       "a": false,
       "s": "324-es",
-      "ms": 837
+      "ms": 827
     },
     {
       "n": "360° (1080p)",
@@ -60,7 +60,7 @@
       "g": "Базовые",
       "a": false,
       "s": "360-ru",
-      "ms": 2362
+      "ms": 2857
     },
     {
       "n": "360° (1080p)",
@@ -70,7 +70,7 @@
       "g": "Базовые",
       "a": false,
       "s": "360-ru-sd",
-      "ms": 462
+      "ms": 873
     },
     {
       "n": "360° News (1080p)",
@@ -80,7 +80,7 @@
       "g": "Базовые",
       "a": false,
       "s": "360news-ru",
-      "ms": 2257
+      "ms": 2552
     },
     {
       "n": "4 You Tv",
@@ -90,17 +90,7 @@
       "g": "Разное",
       "a": false,
       "s": "4-you-tv",
-      "ms": 602
-    },
-    {
-      "n": "90.9 Jazzy FM",
-      "u": "https://budapest-cache-1.antik.sk/live/jazzy/index.m3u8",
-      "l": "https://upload.wikimedia.org/wikipedia/commons/1/14/Jazzy.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-      "c": "music",
-      "g": "Музыка",
-      "a": false,
-      "s": "90-9-jazzy-fm",
-      "ms": 296
+      "ms": 596
     },
     {
       "n": "Архыз 24",
@@ -110,7 +100,7 @@
       "g": "Разное",
       "a": false,
       "s": "arkhyz24-ru",
-      "ms": 1500
+      "ms": 382
     },
     {
       "n": "Астрахан 24",
@@ -120,7 +110,7 @@
       "g": "Разное",
       "a": false,
       "s": "astrakhan24-ru",
-      "ms": 2200
+      "ms": 1661
     },
     {
       "n": "Беларусь 1",
@@ -130,7 +120,7 @@
       "g": "Беларусь",
       "a": false,
       "s": "belarus1-by",
-      "ms": 325
+      "ms": 334
     },
     {
       "n": "Беларусь 24",
@@ -140,7 +130,7 @@
       "g": "Беларусь",
       "a": false,
       "s": "belarus24-by",
-      "ms": 315
+      "ms": 257
     },
     {
       "n": "Вести ФМ",
@@ -150,7 +140,7 @@
       "g": "Разное",
       "a": false,
       "s": "vesti-fm",
-      "ms": 661
+      "ms": 694
     },
     {
       "n": "Вистел",
@@ -160,7 +150,7 @@
       "g": "Разное",
       "a": false,
       "s": "vistel",
-      "ms": 338
+      "ms": 304
     },
     {
       "n": "ДІМ",
@@ -170,7 +160,7 @@
       "g": "Базовые",
       "a": false,
       "s": "dim-ua",
-      "ms": 912
+      "ms": 1121
     },
     {
       "n": "Звезда",
@@ -180,7 +170,7 @@
       "g": "Базовые",
       "a": false,
       "s": "telekanalzvezda-ru",
-      "ms": 399
+      "ms": 413
     },
     {
       "n": "Министерство Идей",
@@ -190,7 +180,7 @@
       "g": "Разное",
       "a": false,
       "s": "tv-minidey-ru",
-      "ms": 1553
+      "ms": 1768
     },
     {
       "n": "Москва 24",
@@ -200,7 +190,7 @@
       "g": "Базовые",
       "a": false,
       "s": "moskva24-ru",
-      "ms": 452
+      "ms": 734
     },
     {
       "n": "Наша ТВ",
@@ -210,7 +200,7 @@
       "g": "Базовые",
       "a": false,
       "s": "nasatv-mk",
-      "ms": 378
+      "ms": 434
     },
     {
       "n": "Нижний Новгород 24",
@@ -220,7 +210,7 @@
       "g": "Базовые",
       "a": false,
       "s": "nizhniynovgorod24-ru",
-      "ms": 852
+      "ms": 954
     },
     {
       "n": "Первый Информацыйнный",
@@ -230,7 +220,7 @@
       "g": "Базовые",
       "a": false,
       "s": "pervyy-informatsyynnyy",
-      "ms": 569
+      "ms": 528
     },
     {
       "n": "Піксель TV",
@@ -240,7 +230,7 @@
       "g": "Детские",
       "a": false,
       "s": "pixeltv-ua",
-      "ms": 591
+      "ms": 949
     },
     {
       "n": "Смотрим: Честный Детектив",
@@ -250,7 +240,7 @@
       "g": "Кино",
       "a": false,
       "s": "smotrim-chestnyy-detektiv",
-      "ms": 2114
+      "ms": 3078
     },
     {
       "n": "Соловьёв Live",
@@ -260,7 +250,7 @@
       "g": "Разное",
       "a": false,
       "s": "solovyovlive-ru",
-      "ms": 320
+      "ms": 490
     },
     {
       "n": "СТВ",
@@ -270,7 +260,7 @@
       "g": "Базовые",
       "a": false,
       "s": "stv-by",
-      "ms": 301
+      "ms": 267
     },
     {
       "n": "Якутия 24",
@@ -280,7 +270,7 @@
       "g": "Разное",
       "a": false,
       "s": "yakutiya24-ru",
-      "ms": 1410
+      "ms": 2473
     },
     {
       "n": "ABC Me",
@@ -290,7 +280,7 @@
       "g": "Разное",
       "a": false,
       "s": "abcme-au",
-      "ms": 2258
+      "ms": 2643
     },
     {
       "n": "ABP Ananda",
@@ -300,7 +290,7 @@
       "g": "Разное",
       "a": false,
       "s": "abp-ananda-https-bengali-abplive-com",
-      "ms": 1050
+      "ms": 1009
     },
     {
       "n": "ABP News",
@@ -310,7 +300,7 @@
       "g": "Базовые",
       "a": false,
       "s": "abp-news-https-abplive-com",
-      "ms": 1028
+      "ms": 921
     },
     {
       "n": "Acheloos",
@@ -320,7 +310,7 @@
       "g": "Разное",
       "a": false,
       "s": "acheloostv-gr",
-      "ms": 270
+      "ms": 277
     },
     {
       "n": "Action Hollywood Movies",
@@ -330,7 +320,7 @@
       "g": "Кино",
       "a": false,
       "s": "action-hollywood-movies",
-      "ms": 928
+      "ms": 1641
     },
     {
       "n": "Action24",
@@ -340,7 +330,7 @@
       "g": "Разное",
       "a": false,
       "s": "action24tv-gr",
-      "ms": 469
+      "ms": 488
     },
     {
       "n": "ADtv Ⓢ",
@@ -350,7 +340,7 @@
       "g": "Разное",
       "a": false,
       "s": "adtv",
-      "ms": 816
+      "ms": 798
     },
     {
       "n": "Air Connect TV",
@@ -360,7 +350,7 @@
       "g": "Разное",
       "a": false,
       "s": "air-connect-tv",
-      "ms": 362
+      "ms": 411
     },
     {
       "n": "Aist Global",
@@ -370,7 +360,7 @@
       "g": "Разное",
       "a": false,
       "s": "aistglobaltv-mn",
-      "ms": 959
+      "ms": 967
     },
     {
       "n": "Al Arabiya العربية",
@@ -380,7 +370,7 @@
       "g": "Разное",
       "a": false,
       "s": "alarabiya-ae",
-      "ms": 314
+      "ms": 330
     },
     {
       "n": "Al Jazeera",
@@ -390,7 +380,7 @@
       "g": "Разное",
       "a": false,
       "s": "aljazeeraenglish-qa",
-      "ms": 509
+      "ms": 638
     },
     {
       "n": "Al Jazeera 2",
@@ -400,7 +390,7 @@
       "g": "Разное",
       "a": false,
       "s": "aljazeerachannel2-qa",
-      "ms": 246
+      "ms": 449
     },
     {
       "n": "Al Jazeera العربية",
@@ -410,7 +400,7 @@
       "g": "Разное",
       "a": false,
       "s": "aljazeerachannel-qa",
-      "ms": 285
+      "ms": 307
     },
     {
       "n": "Alpauno",
@@ -420,7 +410,7 @@
       "g": "Разное",
       "a": false,
       "s": "alpauno",
-      "ms": 444
+      "ms": 351
     },
     {
       "n": "Antenna 2 Bergamo",
@@ -430,7 +420,7 @@
       "g": "Разное",
       "a": false,
       "s": "antenna-2-bergamo",
-      "ms": 321
+      "ms": 323
     },
     {
       "n": "Antenna Sicilia",
@@ -440,7 +430,7 @@
       "g": "Разное",
       "a": false,
       "s": "antenna-sicilia",
-      "ms": 466
+      "ms": 397
     },
     {
       "n": "Arte Network Orler",
@@ -450,7 +440,7 @@
       "g": "Разное",
       "a": false,
       "s": "arte-network-orler",
-      "ms": 369
+      "ms": 487
     },
     {
       "n": "Astra",
@@ -460,7 +450,7 @@
       "g": "Разное",
       "a": false,
       "s": "astratv-gr",
-      "ms": 272
+      "ms": 325
     },
     {
       "n": "Astrahan.Ru Sport (720p)",
@@ -470,7 +460,7 @@
       "g": "Спорт",
       "a": false,
       "s": "astrahanrusport-ru-sd",
-      "ms": 1420
+      "ms": 1429
     },
     {
       "n": "Auto TV (720p)",
@@ -480,7 +470,7 @@
       "g": "Разное",
       "a": false,
       "s": "auto-tv-720p",
-      "ms": 439
+      "ms": 443
     },
     {
       "n": "Bantan",
@@ -490,17 +480,7 @@
       "g": "Разное",
       "a": false,
       "s": "bantan",
-      "ms": 742
-    },
-    {
-      "n": "Bartók Rádió",
-      "u": "https://budapest-cache-1.antik.sk/live/bartok_radio/index.m3u8",
-      "l": "https://upload.wikimedia.org/wikipedia/hu/c/ce/MR3-BARTOK.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original",
-      "c": "other",
-      "g": "Разное",
-      "a": false,
-      "s": "bartokradio-hu",
-      "ms": 381
+      "ms": 731
     },
     {
       "n": "BeJoy.Kids",
@@ -510,7 +490,7 @@
       "g": "Детские",
       "a": false,
       "s": "bejoykids-it",
-      "ms": 345
+      "ms": 317
     },
     {
       "n": "Belarus 4 Vitebsk Ⓢ",
@@ -520,7 +500,7 @@
       "g": "Беларусь",
       "a": false,
       "s": "belarus4vitebsk-by",
-      "ms": 515
+      "ms": 475
     },
     {
       "n": "Bella e Monella TV",
@@ -530,7 +510,7 @@
       "g": "Разное",
       "a": false,
       "s": "bella-e-monella-tv",
-      "ms": 315
+      "ms": 283
     },
     {
       "n": "Bergamo Tv",
@@ -540,7 +520,7 @@
       "g": "Разное",
       "a": false,
       "s": "bergamo-tv",
-      "ms": 1453
+      "ms": 1325
     },
     {
       "n": "Best TV",
@@ -550,7 +530,7 @@
       "g": "Разное",
       "a": false,
       "s": "besttv-gr",
-      "ms": 467
+      "ms": 492
     },
     {
       "n": "Bio Bio TV",
@@ -560,7 +540,7 @@
       "g": "Разное",
       "a": false,
       "s": "biobiochile-cl",
-      "ms": 1838
+      "ms": 1560
     },
     {
       "n": "Bloomberg",
@@ -570,7 +550,7 @@
       "g": "Разное",
       "a": false,
       "s": "bloombergtelevision-us",
-      "ms": 1307
+      "ms": 1963
     },
     {
       "n": "Bloomberg TV",
@@ -580,7 +560,7 @@
       "g": "Разное",
       "a": false,
       "s": "bloombergtveurope-uk",
-      "ms": 733
+      "ms": 647
     },
     {
       "n": "Botflix Radioo",
@@ -590,7 +570,7 @@
       "g": "Музыка",
       "a": false,
       "s": "botflix-radioo",
-      "ms": 556
+      "ms": 518
     },
     {
       "n": "Botflix TV",
@@ -600,7 +580,7 @@
       "g": "Разное",
       "a": false,
       "s": "botflix-tv",
-      "ms": 657
+      "ms": 550
     },
     {
       "n": "BR Nord Ⓖ",
@@ -610,7 +590,7 @@
       "g": "Разное",
       "a": false,
       "s": "brfernsehennord-de",
-      "ms": 283
+      "ms": 431
     },
     {
       "n": "BR Süd Ⓖ",
@@ -620,7 +600,7 @@
       "g": "Разное",
       "a": false,
       "s": "brfernsehensud-de",
-      "ms": 118
+      "ms": 167
     },
     {
       "n": "Budapest Európa TV",
@@ -630,7 +610,7 @@
       "g": "Разное",
       "a": false,
       "s": "budapest-eur-pa-tv",
-      "ms": 780
+      "ms": 810
     },
     {
       "n": "Cafe Tv 24",
@@ -640,7 +620,7 @@
       "g": "Разное",
       "a": false,
       "s": "cafe-tv-24",
-      "ms": 372
+      "ms": 391
     },
     {
       "n": "Calabria tv",
@@ -650,7 +630,7 @@
       "g": "Разное",
       "a": false,
       "s": "calabria-tv",
-      "ms": 393
+      "ms": 335
     },
     {
       "n": "Canal 6 Multimedios",
@@ -660,7 +640,7 @@
       "g": "Разное",
       "a": false,
       "s": "canal6multimedios-mx",
-      "ms": 1207
+      "ms": 1124
     },
     {
       "n": "Canale 10",
@@ -670,7 +650,7 @@
       "g": "Разное",
       "a": false,
       "s": "canale-10",
-      "ms": 1480
+      "ms": 1006
     },
     {
       "n": "Canale 2",
@@ -680,7 +660,7 @@
       "g": "Разное",
       "a": false,
       "s": "canale-2",
-      "ms": 329
+      "ms": 319
     },
     {
       "n": "Canale 8 Campania",
@@ -690,7 +670,7 @@
       "g": "Разное",
       "a": false,
       "s": "canale-8-campania",
-      "ms": 321
+      "ms": 322
     },
     {
       "n": "Casa Sanremo Tv",
@@ -700,7 +680,7 @@
       "g": "Разное",
       "a": false,
       "s": "casa-sanremo-tv",
-      "ms": 728
+      "ms": 650
     },
     {
       "n": "CBS News",
@@ -710,7 +690,7 @@
       "g": "Базовые",
       "a": false,
       "s": "cbsnews-us",
-      "ms": 716
+      "ms": 681
     },
     {
       "n": "Cheddar",
@@ -720,7 +700,7 @@
       "g": "Разное",
       "a": false,
       "s": "cheddar-us",
-      "ms": 1268
+      "ms": 1317
     },
     {
       "n": "Cittaceleste Tv",
@@ -730,7 +710,7 @@
       "g": "Разное",
       "a": false,
       "s": "cittaceleste-tv",
-      "ms": 324
+      "ms": 340
     },
     {
       "n": "City Eden Classic Music",
@@ -740,7 +720,7 @@
       "g": "Музыка",
       "a": false,
       "s": "cityedenclassicmusic-ru-hd",
-      "ms": 2154
+      "ms": 2008
     },
     {
       "n": "City Eden KinoAction",
@@ -750,7 +730,7 @@
       "g": "Кино",
       "a": false,
       "s": "cityedenkinoaction-ru-hd",
-      "ms": 1802
+      "ms": 4035
     },
     {
       "n": "City Eden KinoArt",
@@ -760,7 +740,7 @@
       "g": "Кино",
       "a": false,
       "s": "cityedenkinoart-ru-hd",
-      "ms": 2370
+      "ms": 3663
     },
     {
       "n": "City Eden KinoAsia",
@@ -770,7 +750,7 @@
       "g": "Кино",
       "a": false,
       "s": "cityedenkinoasia-ru-hd",
-      "ms": 3379
+      "ms": 3104
     },
     {
       "n": "City Eden KinoDok",
@@ -780,7 +760,7 @@
       "g": "Кино",
       "a": false,
       "s": "cityedenkinodok-ru-hd",
-      "ms": 5397
+      "ms": 2119
     },
     {
       "n": "City Eden KinoKomediya",
@@ -790,7 +770,7 @@
       "g": "Кино",
       "a": false,
       "s": "cityedenkinokomediya-ru-hd",
-      "ms": 4019
+      "ms": 792
     },
     {
       "n": "City TV Ⓢ",
@@ -800,7 +780,7 @@
       "g": "Разное",
       "a": false,
       "s": "city-bg",
-      "ms": 495
+      "ms": 483
     },
     {
       "n": "CNBC MGL",
@@ -810,7 +790,7 @@
       "g": "Разное",
       "a": false,
       "s": "cnbc-mgl",
-      "ms": 963
+      "ms": 975
     },
     {
       "n": "Company Tv",
@@ -820,17 +800,7 @@
       "g": "Разное",
       "a": false,
       "s": "company-tv",
-      "ms": 282
-    },
-    {
-      "n": "Cosmos TV",
-      "u": "https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8",
-      "l": "https://pbs.twimg.com/profile_images/1904206504753811457/66CbqvH1_200x200.jpg",
-      "c": "other",
-      "g": "Разное",
-      "a": false,
-      "s": "cosmostv-pe",
-      "ms": 1214
+      "ms": 352
     },
     {
       "n": "Cremona 1",
@@ -840,7 +810,7 @@
       "g": "Разное",
       "a": false,
       "s": "cremona-1",
-      "ms": 330
+      "ms": 322
     },
     {
       "n": "Current Time TV (1080p)",
@@ -850,7 +820,7 @@
       "g": "Базовые",
       "a": false,
       "s": "currenttimetv-cz-sd",
-      "ms": 270
+      "ms": 481
     },
     {
       "n": "Cusano Italia Tv",
@@ -860,7 +830,7 @@
       "g": "Разное",
       "a": false,
       "s": "cusano-italia-tv",
-      "ms": 779
+      "ms": 834
     },
     {
       "n": "Dance TV",
@@ -870,7 +840,7 @@
       "g": "Разное",
       "a": false,
       "s": "dance-tv",
-      "ms": 1002
+      "ms": 867
     },
     {
       "n": "Deluxe 139",
@@ -880,7 +850,7 @@
       "g": "Разное",
       "a": false,
       "s": "deluxe-139",
-      "ms": 345
+      "ms": 316
     },
     {
       "n": "DELUXE MUSIC DANCE BY KONTOR",
@@ -890,7 +860,7 @@
       "g": "Музыка",
       "a": false,
       "s": "deluxemusicdancebykontor-de",
-      "ms": 281
+      "ms": 294
     },
     {
       "n": "DELUXE MUSIC RAP",
@@ -900,7 +870,7 @@
       "g": "Музыка",
       "a": false,
       "s": "deluxemusicrap-de",
-      "ms": 134
+      "ms": 146
     },
     {
       "n": "Di.Tv 80",
@@ -910,7 +880,7 @@
       "g": "Разное",
       "a": false,
       "s": "di-tv-80",
-      "ms": 385
+      "ms": 466
     },
     {
       "n": "Discovery Channel",
@@ -920,7 +890,17 @@
       "g": "Познавательные",
       "a": false,
       "s": "discovery-channel-it",
-      "ms": 391
+      "ms": 390
+    },
+    {
+      "n": "Dom kino International (576p)",
+      "u": "https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv",
+      "l": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
+      "c": "movies",
+      "g": "Кино",
+      "a": false,
+      "s": "domkino-ru-international",
+      "ms": 291
     },
     {
       "n": "Domashnie Zhivotnye (576p)",
@@ -930,7 +910,17 @@
       "g": "Познавательные",
       "a": false,
       "s": "domashniezhivotnye-ru-sd",
-      "ms": 318
+      "ms": 179
+    },
+    {
+      "n": "Dorama (576p)",
+      "u": "https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv",
+      "l": "https://i.imgur.com/ZH5LuXU.png",
+      "c": "movies",
+      "g": "Кино",
+      "a": false,
+      "s": "dorama-ru-sd",
+      "ms": 188
     },
     {
       "n": "Drybar Comedy",
@@ -940,7 +930,7 @@
       "g": "Развлекательные",
       "a": false,
       "s": "drybarcomedy-us",
-      "ms": 849
+      "ms": 786
     },
     {
       "n": "DW",
@@ -950,7 +940,7 @@
       "g": "Разное",
       "a": false,
       "s": "dwenglish-de",
-      "ms": 313
+      "ms": 334
     },
     {
       "n": "DW Español Ⓢ",
@@ -960,7 +950,7 @@
       "g": "Базовые",
       "a": false,
       "s": "dwespanol-de",
-      "ms": 299
+      "ms": 306
     },
     {
       "n": "DW العربية",
@@ -970,7 +960,7 @@
       "g": "Базовые",
       "a": false,
       "s": "dwarabic-de",
-      "ms": 382
+      "ms": 429
     },
     {
       "n": "E'live Brescia Tv",
@@ -980,7 +970,7 @@
       "g": "Разное",
       "a": false,
       "s": "e-live-brescia-tv",
-      "ms": 170
+      "ms": 167
     },
     {
       "n": "Easy Tv Canale 190",
@@ -990,7 +980,7 @@
       "g": "Разное",
       "a": false,
       "s": "easy-tv-canale-190",
-      "ms": 253
+      "ms": 234
     },
     {
       "n": "El País",
@@ -1000,7 +990,7 @@
       "g": "Разное",
       "a": false,
       "s": "elpaistv-es",
-      "ms": 354
+      "ms": 383
     },
     {
       "n": "El Pingüino TV",
@@ -1010,7 +1000,7 @@
       "g": "Базовые",
       "a": false,
       "s": "elpinguinotv-cl",
-      "ms": 1976
+      "ms": 1577
     },
     {
       "n": "Enjoy Television",
@@ -1020,7 +1010,7 @@
       "g": "Разное",
       "a": false,
       "s": "enjoy-television",
-      "ms": 313
+      "ms": 350
     },
     {
       "n": "Entella Tv",
@@ -1030,7 +1020,7 @@
       "g": "Разное",
       "a": false,
       "s": "entella-tv",
-      "ms": 180
+      "ms": 189
     },
     {
       "n": "Epsilon",
@@ -1040,7 +1030,7 @@
       "g": "Разное",
       "a": false,
       "s": "epsilon-gr",
-      "ms": 561
+      "ms": 579
     },
     {
       "n": "Esperia Tv",
@@ -1050,7 +1040,7 @@
       "g": "Разное",
       "a": false,
       "s": "esperia-tv",
-      "ms": 170
+      "ms": 171
     },
     {
       "n": "Estrella TV",
@@ -1060,7 +1050,7 @@
       "g": "Разное",
       "a": false,
       "s": "estrellatv-mx",
-      "ms": 1347
+      "ms": 2026
     },
     {
       "n": "Etna Espresso Channel",
@@ -1070,7 +1060,7 @@
       "g": "Разное",
       "a": false,
       "s": "etna-espresso-channel",
-      "ms": 446
+      "ms": 416
     },
     {
       "n": "Euro Tv",
@@ -1080,7 +1070,7 @@
       "g": "Разное",
       "a": false,
       "s": "euro-tv",
-      "ms": 207
+      "ms": 183
     },
     {
       "n": "euronews",
@@ -1090,7 +1080,7 @@
       "g": "Базовые",
       "a": false,
       "s": "euronews-es",
-      "ms": 425
+      "ms": 486
     },
     {
       "n": "Euronews Russian (720p)",
@@ -1100,7 +1090,7 @@
       "g": "Базовые",
       "a": false,
       "s": "euronewsrussian-fr-sd",
-      "ms": 171
+      "ms": 599
     },
     {
       "n": "Eurosport 1 Russia (1080p)",
@@ -1110,7 +1100,7 @@
       "g": "Спорт",
       "a": false,
       "s": "eurosport1-fr-russia",
-      "ms": 1503
+      "ms": 1254
     },
     {
       "n": "Eurosport 2 Russia (1080p)",
@@ -1120,17 +1110,7 @@
       "g": "Спорт",
       "a": false,
       "s": "eurosport2-fr-russia",
-      "ms": 1251
-    },
-    {
-      "n": "EWTN TV",
-      "u": "https://hls.iptvservice.eu/hls/ewtn-hd.m3u8",
-      "l": "https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg",
-      "c": "other",
-      "g": "Разное",
-      "a": false,
-      "s": "bonumtv-hu",
-      "ms": 257
+      "ms": 790
     },
     {
       "n": "Extra Tv",
@@ -1140,7 +1120,7 @@
       "g": "Разное",
       "a": false,
       "s": "extra-tv",
-      "ms": 406
+      "ms": 359
     },
     {
       "n": "Fano Tv",
@@ -1150,7 +1130,7 @@
       "g": "Разное",
       "a": false,
       "s": "fano-tv",
-      "ms": 202
+      "ms": 261
     },
     {
       "n": "Fascino Tv",
@@ -1160,7 +1140,7 @@
       "g": "Разное",
       "a": false,
       "s": "fascino-tv",
-      "ms": 416
+      "ms": 376
     },
     {
       "n": "FehérvárTV",
@@ -1170,7 +1150,7 @@
       "g": "Разное",
       "a": false,
       "s": "feh-rv-rtv",
-      "ms": 705
+      "ms": 810
     },
     {
       "n": "Food Network",
@@ -1180,7 +1160,7 @@
       "g": "Разное",
       "a": false,
       "s": "food-network-it",
-      "ms": 499
+      "ms": 335
     },
     {
       "n": "France 24 Español",
@@ -1190,7 +1170,7 @@
       "g": "Базовые",
       "a": false,
       "s": "france24espanol-fr",
-      "ms": 335
+      "ms": 405
     },
     {
       "n": "Friday! International Kazakhstan (576p)",
@@ -1200,7 +1180,7 @@
       "g": "Развлекательные",
       "a": false,
       "s": "fridayinternational-ru-kazakhstan",
-      "ms": 298
+      "ms": 479
     },
     {
       "n": "Gambero Rosso",
@@ -1210,7 +1190,7 @@
       "g": "Разное",
       "a": false,
       "s": "gamberorosso-it",
-      "ms": 308
+      "ms": 414
     },
     {
       "n": "Giallo",
@@ -1220,7 +1200,7 @@
       "g": "Разное",
       "a": false,
       "s": "giallo-tv-it",
-      "ms": 339
+      "ms": 262
     },
     {
       "n": "Giornale Radio Tv",
@@ -1230,7 +1210,7 @@
       "g": "Музыка",
       "a": false,
       "s": "giornale-radio-tv",
-      "ms": 307
+      "ms": 351
     },
     {
       "n": "Glazami Turista (576i)",
@@ -1240,7 +1220,7 @@
       "g": "Познавательные",
       "a": false,
       "s": "glazamiturista-ru-sd",
-      "ms": 1570
+      "ms": 1228
     },
     {
       "n": "Globo Tv",
@@ -1250,7 +1230,7 @@
       "g": "Разное",
       "a": false,
       "s": "globo-tv",
-      "ms": 352
+      "ms": 460
     },
     {
       "n": "Gnomi",
@@ -1260,7 +1240,7 @@
       "g": "Разное",
       "a": false,
       "s": "gnomitv-gr",
-      "ms": 459
+      "ms": 408
     },
     {
       "n": "GRP Televisione",
@@ -1270,7 +1250,7 @@
       "g": "Разное",
       "a": false,
       "s": "grp-televisione",
-      "ms": 899
+      "ms": 533
     },
     {
       "n": "Gulli Girl (720p)",
@@ -1280,7 +1260,7 @@
       "g": "Детские",
       "a": false,
       "s": "gulligirl-ru-sd",
-      "ms": 1221
+      "ms": 1169
     },
     {
       "n": "Gyöngyös TV",
@@ -1290,7 +1270,7 @@
       "g": "Разное",
       "a": false,
       "s": "gyongyositv-hu",
-      "ms": 731
+      "ms": 458
     },
     {
       "n": "Handicap TV",
@@ -1300,7 +1280,7 @@
       "g": "Разное",
       "a": false,
       "s": "handicaptv-fr",
-      "ms": 440
+      "ms": 422
     },
     {
       "n": "Héviz TV",
@@ -1310,7 +1290,7 @@
       "g": "Разное",
       "a": false,
       "s": "h-viz-tv",
-      "ms": 473
+      "ms": 386
     },
     {
       "n": "High TV",
@@ -1320,17 +1300,7 @@
       "g": "Разное",
       "a": false,
       "s": "hightv-gr",
-      "ms": 493
-    },
-    {
-      "n": "Hír FM",
-      "u": "https://budapest-cache-1.antik.sk/live/hir_rm/index.m3u8",
-      "l": "https://upload.wikimedia.org/wikipedia/commons/0/0d/HirFM_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-      "c": "music",
-      "g": "Музыка",
-      "a": false,
-      "s": "h-r-fm",
-      "ms": 161
+      "ms": 468
     },
     {
       "n": "Hír TV",
@@ -1340,7 +1310,7 @@
       "g": "Разное",
       "a": false,
       "s": "hirtv-hu",
-      "ms": 491
+      "ms": 541
     },
     {
       "n": "Hirshabelle TV",
@@ -1350,7 +1320,17 @@
       "g": "Разное",
       "a": false,
       "s": "hirshabelle-tv",
-      "ms": 823
+      "ms": 856
+    },
+    {
+      "n": "Horoshee Kino (720p)",
+      "u": "https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8",
+      "l": "https://i.imgur.com/ZbOqfy4.png",
+      "c": "movies",
+      "g": "Кино",
+      "a": false,
+      "s": "horosheekino-ru-sd",
+      "ms": 1490
     },
     {
       "n": "HR Ⓖ",
@@ -1360,7 +1340,7 @@
       "g": "Разное",
       "a": false,
       "s": "hrfernsehen-de",
-      "ms": 722
+      "ms": 576
     },
     {
       "n": "Icaro Tv Rimini",
@@ -1370,7 +1350,7 @@
       "g": "Разное",
       "a": false,
       "s": "icaro-tv-rimini",
-      "ms": 371
+      "ms": 314
     },
     {
       "n": "ICI Montreal",
@@ -1380,7 +1360,7 @@
       "g": "Разное",
       "a": false,
       "s": "cbftdt-ca",
-      "ms": 517
+      "ms": 632
     },
     {
       "n": "ICI Télé HD Ⓖ",
@@ -1390,7 +1370,7 @@
       "g": "Разное",
       "a": false,
       "s": "ici-t-l-hd",
-      "ms": 1545
+      "ms": 2145
     },
     {
       "n": "inter TV",
@@ -1400,7 +1380,7 @@
       "g": "Разное",
       "a": false,
       "s": "intertv-ve",
-      "ms": 1179
+      "ms": 1183
     },
     {
       "n": "Ionian Channel",
@@ -1410,7 +1390,7 @@
       "g": "Разное",
       "a": false,
       "s": "ioniantv-gr",
-      "ms": 1098
+      "ms": 1089
     },
     {
       "n": "Istoki (1080p)",
@@ -1420,7 +1400,7 @@
       "g": "Познавательные",
       "a": false,
       "s": "istoki-ru-sd",
-      "ms": 481
+      "ms": 1659
     },
     {
       "n": "Järviradio TV",
@@ -1430,17 +1410,7 @@
       "g": "Музыка",
       "a": false,
       "s": "jrtvjarviradio-fi",
-      "ms": 753
-    },
-    {
-      "n": "Juventus Rádió",
-      "u": "https://budapest-cache-1.antik.sk/live/juventus/index.m3u8",
-      "l": "https://myonlineradio.hu/public/uploads/radio_img/juventus-radio/play_250_250.webp",
-      "c": "other",
-      "g": "Разное",
-      "a": false,
-      "s": "juventus-r-di",
-      "ms": 336
+      "ms": 752
     },
     {
       "n": "Kanizsa TV",
@@ -1450,7 +1420,7 @@
       "g": "Разное",
       "a": false,
       "s": "kanizsa-tv",
-      "ms": 793
+      "ms": 828
     },
     {
       "n": "KBC TV",
@@ -1460,7 +1430,7 @@
       "g": "Разное",
       "a": false,
       "s": "kbctv-kr",
-      "ms": 3830
+      "ms": 3407
     },
     {
       "n": "KiKa Ⓖ",
@@ -1470,7 +1440,27 @@
       "g": "Разное",
       "a": false,
       "s": "kika-de",
-      "ms": 516
+      "ms": 514
+    },
+    {
+      "n": "Kinopremyera (1080p)",
+      "u": "https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv",
+      "l": "https://i.imgur.com/s0UYT8T.png",
+      "c": "movies",
+      "g": "Кино",
+      "a": false,
+      "s": "kinopremyera-ru-hd",
+      "ms": 171
+    },
+    {
+      "n": "Kinoseriya (576p)",
+      "u": "https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv",
+      "l": "https://i.imgur.com/iao7zLZ.png",
+      "c": "movies",
+      "g": "Кино",
+      "a": false,
+      "s": "kinoseriya-ru-sd",
+      "ms": 167
     },
     {
       "n": "Klasik",
@@ -1480,7 +1470,7 @@
       "g": "Разное",
       "a": false,
       "s": "klasik",
-      "ms": 545
+      "ms": 448
     },
     {
       "n": "Komáromi Televízió",
@@ -1490,7 +1480,7 @@
       "g": "Базовые",
       "a": false,
       "s": "komaromitelevizio-hu",
-      "ms": 1829
+      "ms": 843
     },
     {
       "n": "Kriti 1",
@@ -1500,7 +1490,7 @@
       "g": "Разное",
       "a": false,
       "s": "kriti1tv-gr",
-      "ms": 422
+      "ms": 427
     },
     {
       "n": "Kriti TV",
@@ -1510,7 +1500,7 @@
       "g": "Разное",
       "a": false,
       "s": "krititv-gr",
-      "ms": 497
+      "ms": 491
     },
     {
       "n": "Kuban 24 SD",
@@ -1520,7 +1510,7 @@
       "g": "Базовые",
       "a": false,
       "s": "kuban24-ru-sd",
-      "ms": 279
+      "ms": 624
     },
     {
       "n": "KVF Sjónvarp",
@@ -1530,7 +1520,7 @@
       "g": "Разное",
       "a": false,
       "s": "kvfsjonvarp-fo",
-      "ms": 423
+      "ms": 528
     },
     {
       "n": "La 8 Mediterráneo",
@@ -1540,7 +1530,7 @@
       "g": "Базовые",
       "a": false,
       "s": "la8mediterraneo-es",
-      "ms": 404
+      "ms": 446
     },
     {
       "n": "La Tenda Tv",
@@ -1550,7 +1540,7 @@
       "g": "Разное",
       "a": false,
       "s": "la-tenda-tv",
-      "ms": 258
+      "ms": 267
     },
     {
       "n": "La tr3 Marsala",
@@ -1560,7 +1550,7 @@
       "g": "Разное",
       "a": false,
       "s": "la-tr3-marsala",
-      "ms": 431
+      "ms": 439
     },
     {
       "n": "La7",
@@ -1570,7 +1560,7 @@
       "g": "Разное",
       "a": false,
       "s": "la7-hd-it",
-      "ms": 563
+      "ms": 593
     },
     {
       "n": "Lab Tv",
@@ -1580,7 +1570,7 @@
       "g": "Разное",
       "a": false,
       "s": "lab-tv",
-      "ms": 775
+      "ms": 901
     },
     {
       "n": "LaC News 24",
@@ -1590,7 +1580,7 @@
       "g": "Базовые",
       "a": false,
       "s": "lac-news-24",
-      "ms": 434
+      "ms": 449
     },
     {
       "n": "LaC Tv Calabria",
@@ -1600,7 +1590,7 @@
       "g": "Разное",
       "a": false,
       "s": "lac-tv-calabria",
-      "ms": 416
+      "ms": 532
     },
     {
       "n": "Las Estrellas",
@@ -1610,7 +1600,7 @@
       "g": "Разное",
       "a": false,
       "s": "lasestrellas-tv",
-      "ms": 850
+      "ms": 866
     },
     {
       "n": "Lepanto",
@@ -1620,7 +1610,7 @@
       "g": "Разное",
       "a": false,
       "s": "lepantortv-gr",
-      "ms": 489
+      "ms": 496
     },
     {
       "n": "Life TV Europe",
@@ -1630,7 +1620,7 @@
       "g": "Разное",
       "a": false,
       "s": "lifetveurope-ee",
-      "ms": 644
+      "ms": 1354
     },
     {
       "n": "Lira Tv",
@@ -1640,7 +1630,7 @@
       "g": "Разное",
       "a": false,
       "s": "lira-tv",
-      "ms": 516
+      "ms": 432
     },
     {
       "n": "Lombardia Tv",
@@ -1650,7 +1640,7 @@
       "g": "Разное",
       "a": false,
       "s": "lombardia-tv",
-      "ms": 409
+      "ms": 417
     },
     {
       "n": "Lychnos",
@@ -1660,7 +1650,7 @@
       "g": "Разное",
       "a": false,
       "s": "lychnostv-gr",
-      "ms": 733
+      "ms": 701
     },
     {
       "n": "Made in BO",
@@ -1670,7 +1660,7 @@
       "g": "Разное",
       "a": false,
       "s": "made-in-bo",
-      "ms": 342
+      "ms": 373
     },
     {
       "n": "MAN-GA",
@@ -1680,7 +1670,7 @@
       "g": "Разное",
       "a": false,
       "s": "manga-it",
-      "ms": 520
+      "ms": 583
     },
     {
       "n": "Maria Vision",
@@ -1690,7 +1680,7 @@
       "g": "Разное",
       "a": false,
       "s": "maria-vision",
-      "ms": 618
+      "ms": 414
     },
     {
       "n": "Markíza",
@@ -1700,7 +1690,7 @@
       "g": "Разное",
       "a": false,
       "s": "markiza-sk",
-      "ms": 624
+      "ms": 762
     },
     {
       "n": "MBC Masr 1",
@@ -1710,7 +1700,7 @@
       "g": "Разное",
       "a": false,
       "s": "mbcmasr1-eg",
-      "ms": 778
+      "ms": 684
     },
     {
       "n": "MBSニュース",
@@ -1720,7 +1710,7 @@
       "g": "Разное",
       "a": false,
       "s": "rch-115",
-      "ms": 852
+      "ms": 1017
     },
     {
       "n": "Mediaset Italia - America",
@@ -1730,7 +1720,7 @@
       "g": "Разное",
       "a": false,
       "s": "mediaset-italia-america-it",
-      "ms": 343
+      "ms": 337
     },
     {
       "n": "Mediaset Italia - Australia e Asia",
@@ -1740,7 +1730,7 @@
       "g": "Разное",
       "a": false,
       "s": "mediaset-italia-australia-e-asia-it",
-      "ms": 319
+      "ms": 279
     },
     {
       "n": "Mediaset Italia - Europa e Africa",
@@ -1750,7 +1740,7 @@
       "g": "Разное",
       "a": false,
       "s": "mediaset-italia-europa-e-africa-it",
-      "ms": 271
+      "ms": 192
     },
     {
       "n": "Medjugorje Italia Tv",
@@ -1770,7 +1760,7 @@
       "g": "Познавательные",
       "a": false,
       "s": "mexicotraveltv-mx",
-      "ms": 1178
+      "ms": 1211
     },
     {
       "n": "Minformo Tv",
@@ -1780,7 +1770,7 @@
       "g": "Разное",
       "a": false,
       "s": "minformo-tv",
-      "ms": 403
+      "ms": 442
     },
     {
       "n": "MMA-TV.com (1080p)",
@@ -1790,7 +1780,7 @@
       "g": "Спорт",
       "a": false,
       "s": "mmatvcom-ru-sd",
-      "ms": 314
+      "ms": 592
     },
     {
       "n": "MNB Гэр бүл",
@@ -1800,7 +1790,7 @@
       "g": "Разное",
       "a": false,
       "s": "mnb-ger-b-l",
-      "ms": 964
+      "ms": 949
     },
     {
       "n": "MNB Монголын Мэдээ",
@@ -1810,7 +1800,7 @@
       "g": "Разное",
       "a": false,
       "s": "mnbmongoliinmedee-mn",
-      "ms": 726
+      "ms": 732
     },
     {
       "n": "Mongolia Music",
@@ -1820,7 +1810,7 @@
       "g": "Музыка",
       "a": false,
       "s": "mongolia-music",
-      "ms": 984
+      "ms": 981
     },
     {
       "n": "Mongolian Plus1",
@@ -1830,7 +1820,7 @@
       "g": "Базовые",
       "a": false,
       "s": "volplus-mn",
-      "ms": 999
+      "ms": 959
     },
     {
       "n": "Motori Tv",
@@ -1840,7 +1830,7 @@
       "g": "Разное",
       "a": false,
       "s": "motori-tv",
-      "ms": 364
+      "ms": 358
     },
     {
       "n": "MTV Lebanon",
@@ -1850,7 +1840,7 @@
       "g": "Музыка",
       "a": false,
       "s": "mtv-lb",
-      "ms": 399
+      "ms": 423
     },
     {
       "n": "Mult International (576p)",
@@ -1860,7 +1850,7 @@
       "g": "Детские",
       "a": false,
       "s": "mult-ru-international",
-      "ms": 301
+      "ms": 513
     },
     {
       "n": "Muz Soyuz (576p)",
@@ -1870,7 +1860,7 @@
       "g": "Музыка",
       "a": false,
       "s": "muzsoyuz-ru-sd",
-      "ms": 954
+      "ms": 1447
     },
     {
       "n": "Muzhskoy HD (1080p)",
@@ -1880,7 +1870,7 @@
       "g": "Развлекательные",
       "a": false,
       "s": "muzhskoy-ru-hd",
-      "ms": 182
+      "ms": 520
     },
     {
       "n": "Muzyka 1",
@@ -1890,7 +1880,7 @@
       "g": "Музыка",
       "a": false,
       "s": "muzyka1-ru-international",
-      "ms": 348
+      "ms": 330
     },
     {
       "n": "Muzyka Kino",
@@ -1900,7 +1890,7 @@
       "g": "Музыка",
       "a": false,
       "s": "muzykakino-ru-international",
-      "ms": 136
+      "ms": 281
     },
     {
       "n": "När-TV Ⓢ",
@@ -1910,7 +1900,7 @@
       "g": "Разное",
       "a": false,
       "s": "nartv-fi",
-      "ms": 854
+      "ms": 858
     },
     {
       "n": "NBC News",
@@ -1920,7 +1910,7 @@
       "g": "Базовые",
       "a": false,
       "s": "nbcnewsnow-us",
-      "ms": 882
+      "ms": 3889
     },
     {
       "n": "NDR Hamburg Ⓖ",
@@ -1930,7 +1920,7 @@
       "g": "Разное",
       "a": false,
       "s": "ndrfernsehenhamburg-de",
-      "ms": 860
+      "ms": 568
     },
     {
       "n": "NDR Mecklenburg-Vorpommern Ⓖ",
@@ -1940,7 +1930,7 @@
       "g": "Разное",
       "a": false,
       "s": "ndrfernsehenmecklenburgvorpommern-de",
-      "ms": 252
+      "ms": 165
     },
     {
       "n": "NDR Niedersachsen Ⓖ",
@@ -1950,7 +1940,7 @@
       "g": "Разное",
       "a": false,
       "s": "ndrfernsehenniedersachsen-de",
-      "ms": 167
+      "ms": 158
     },
     {
       "n": "NDR Schleswig-Holstein Ⓖ",
@@ -1960,7 +1950,7 @@
       "g": "Разное",
       "a": false,
       "s": "ndrfernsehenschleswigholstein-de",
-      "ms": 152
+      "ms": 158
     },
     {
       "n": "NDTV Profit",
@@ -1970,7 +1960,7 @@
       "g": "Разное",
       "a": false,
       "s": "ndtvprofit-com",
-      "ms": 720
+      "ms": 1214
     },
     {
       "n": "Newsmax TV",
@@ -1980,7 +1970,7 @@
       "g": "Разное",
       "a": false,
       "s": "newsmax-us",
-      "ms": 378
+      "ms": 1475
     },
     {
       "n": "NR SR",
@@ -1990,7 +1980,7 @@
       "g": "Разное",
       "a": false,
       "s": "nr-sr",
-      "ms": 300
+      "ms": 344
     },
     {
       "n": "NTI Canale 271",
@@ -2000,7 +1990,27 @@
       "g": "Разное",
       "a": false,
       "s": "nti-canale-271",
-      "ms": 864
+      "ms": 920
+    },
+    {
+      "n": "NTK 21",
+      "u": "https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8",
+      "l": "https://i.imgur.com/W9s1flH.png",
+      "c": "basic",
+      "g": "Базовые",
+      "a": false,
+      "s": "ntk21-ru-hd",
+      "ms": 245
+    },
+    {
+      "n": "NTV Sledstviye veli (1080p)",
+      "u": "https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8",
+      "l": "https://image.tmdb.org/t/p/original/qGCnptpQ9slUAoZ7e5y1Dk4TtjJ.png",
+      "c": "entertainment",
+      "g": "Развлекательные",
+      "a": false,
+      "s": "ntvsledstviyeveli-ru-sd",
+      "ms": 564
     },
     {
       "n": "Nuova Tv 1",
@@ -2010,7 +2020,7 @@
       "g": "Разное",
       "a": false,
       "s": "nuova-tv-1",
-      "ms": 304
+      "ms": 313
     },
     {
       "n": "Nuova TV Nazionale",
@@ -2020,7 +2030,7 @@
       "g": "Разное",
       "a": false,
       "s": "nuova-tv-nazionale",
-      "ms": 731
+      "ms": 656
     },
     {
       "n": "Nuvola Tv",
@@ -2030,7 +2040,7 @@
       "g": "Разное",
       "a": false,
       "s": "nuvola-tv",
-      "ms": 769
+      "ms": 678
     },
     {
       "n": "Óčko Expres Ⓢ",
@@ -2040,7 +2050,7 @@
       "g": "Разное",
       "a": false,
       "s": "ockoexpres-cz",
-      "ms": 468
+      "ms": 455
     },
     {
       "n": "Óčko Ⓢ",
@@ -2050,7 +2060,7 @@
       "g": "Разное",
       "a": false,
       "s": "ocko-cz",
-      "ms": 1607
+      "ms": 466
     },
     {
       "n": "Óčko Star Ⓢ",
@@ -2060,7 +2070,7 @@
       "g": "Разное",
       "a": false,
       "s": "ockostar-cz",
-      "ms": 371
+      "ms": 364
     },
     {
       "n": "oe24",
@@ -2070,7 +2080,17 @@
       "g": "Разное",
       "a": false,
       "s": "oe24tv-at",
-      "ms": 403
+      "ms": 467
+    },
+    {
+      "n": "Ohotnik i rybolov (576i)",
+      "u": "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8",
+      "l": "https://i.imgur.com/Bj1jI7F.png",
+      "c": "education",
+      "g": "Познавательные",
+      "a": false,
+      "s": "ohotnikirybolov-ru-sd",
+      "ms": 1630
     },
     {
       "n": "Omroep Flevoland Ⓢ",
@@ -2080,7 +2100,7 @@
       "g": "Разное",
       "a": false,
       "s": "omroepflevolandtv-nl",
-      "ms": 273
+      "ms": 316
     },
     {
       "n": "Omroep Gelderland",
@@ -2090,7 +2110,7 @@
       "g": "Разное",
       "a": false,
       "s": "omroepgelderlandtv-nl",
-      "ms": 274
+      "ms": 248
     },
     {
       "n": "Omroep West",
@@ -2100,7 +2120,7 @@
       "g": "Разное",
       "a": false,
       "s": "omroepwesttv-nl",
-      "ms": 249
+      "ms": 251
     },
     {
       "n": "Omrop Fryslân",
@@ -2110,7 +2130,7 @@
       "g": "Разное",
       "a": false,
       "s": "omropfryslantv-nl",
-      "ms": 252
+      "ms": 257
     },
     {
       "n": "Onda Novara Tv",
@@ -2120,7 +2140,7 @@
       "g": "Разное",
       "a": false,
       "s": "onda-novara-tv",
-      "ms": 335
+      "ms": 340
     },
     {
       "n": "Onda Tv Sicilia",
@@ -2130,7 +2150,7 @@
       "g": "Разное",
       "a": false,
       "s": "onda-tv-sicilia",
-      "ms": 343
+      "ms": 369
     },
     {
       "n": "Orler Tv",
@@ -2140,7 +2160,7 @@
       "g": "Разное",
       "a": false,
       "s": "orler-tv",
-      "ms": 342
+      "ms": 374
     },
     {
       "n": "Oroszlányi Városi Televízió",
@@ -2150,7 +2170,27 @@
       "g": "Базовые",
       "a": false,
       "s": "oroszlanyivarositelevizio-hu",
-      "ms": 449
+      "ms": 891
+    },
+    {
+      "n": "Otkritiy mir. Zdorove (576p)",
+      "u": "https://v4.proofix.ru/0mir/index.m3u8",
+      "l": "https://i.imgur.com/7orZOJA.png",
+      "c": "education",
+      "g": "Познавательные",
+      "a": false,
+      "s": "otkritiymirzdorove-ru-sd",
+      "ms": 347
+    },
+    {
+      "n": "OTV-Prim (720p)",
+      "u": "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8",
+      "l": "https://i.imgur.com/2zd8trG.png",
+      "c": "basic",
+      "g": "Базовые",
+      "a": false,
+      "s": "otvprim-ru-sd",
+      "ms": 166
     },
     {
       "n": "Oxygen Music",
@@ -2160,7 +2200,7 @@
       "g": "Музыка",
       "a": false,
       "s": "oxygen-music",
-      "ms": 503
+      "ms": 486
     },
     {
       "n": "Padre Pio Tv",
@@ -2170,7 +2210,7 @@
       "g": "Разное",
       "a": false,
       "s": "padre-pio-tv",
-      "ms": 329
+      "ms": 309
     },
     {
       "n": "Parole di Vita",
@@ -2180,7 +2220,7 @@
       "g": "Разное",
       "a": false,
       "s": "parole-di-vita",
-      "ms": 328
+      "ms": 299
     },
     {
       "n": "Partenope Tv",
@@ -2190,7 +2230,7 @@
       "g": "Разное",
       "a": false,
       "s": "partenope-tv",
-      "ms": 241
+      "ms": 218
     },
     {
       "n": "Peer Tv Alto Adige",
@@ -2200,7 +2240,7 @@
       "g": "Разное",
       "a": false,
       "s": "peertv-it",
-      "ms": 881
+      "ms": 746
     },
     {
       "n": "Pella",
@@ -2210,7 +2250,27 @@
       "g": "Разное",
       "a": false,
       "s": "pellatv-gr",
-      "ms": 718
+      "ms": 702
+    },
+    {
+      "n": "Pervyy Respublikanskiy (576p)",
+      "u": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
+      "l": "https://i.imgur.com/ti4OMBv.png",
+      "c": "basic",
+      "g": "Базовые",
+      "a": false,
+      "s": "pervyyrespublikanskiy-ru-sd",
+      "ms": 1391
+    },
+    {
+      "n": "Prima (Russia) (1080p)",
+      "u": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8",
+      "l": "https://i.imgur.com/33XGMch.png",
+      "c": "basic",
+      "g": "Базовые",
+      "a": false,
+      "s": "prima-ru-sd",
+      "ms": 265
     },
     {
       "n": "Prima Tv Napoli",
@@ -2220,7 +2280,7 @@
       "g": "Базовые",
       "a": false,
       "s": "prima-tv-napoli",
-      "ms": 332
+      "ms": 324
     },
     {
       "n": "Prima Tv Sicilia",
@@ -2230,7 +2290,7 @@
       "g": "Базовые",
       "a": false,
       "s": "prima-tv-sicilia",
-      "ms": 444
+      "ms": 441
     },
     {
       "n": "PrimaFREE",
@@ -2240,7 +2300,7 @@
       "g": "Базовые",
       "a": false,
       "s": "primafree",
-      "ms": 375
+      "ms": 393
     },
     {
       "n": "Primocanale",
@@ -2250,7 +2310,7 @@
       "g": "Разное",
       "a": false,
       "s": "primocanale",
-      "ms": 336
+      "ms": 316
     },
     {
       "n": "Pro TV",
@@ -2260,7 +2320,7 @@
       "g": "Разное",
       "a": false,
       "s": "protv-ro",
-      "ms": 350
+      "ms": 371
     },
     {
       "n": "Qatar Television The Holy Quran",
@@ -2270,7 +2330,7 @@
       "g": "Разное",
       "a": false,
       "s": "qatartelevisiontheholyquran-qa",
-      "ms": 492
+      "ms": 630
     },
     {
       "n": "Radio 3M InBlu",
@@ -2280,7 +2340,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-3m-inblu",
-      "ms": 412
+      "ms": 320
     },
     {
       "n": "Radio 51 Tv",
@@ -2290,7 +2350,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-51-tv",
-      "ms": 255
+      "ms": 276
     },
     {
       "n": "Radio Arancia TV",
@@ -2300,7 +2360,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-arancia-tv",
-      "ms": 626
+      "ms": 787
     },
     {
       "n": "Radio Bianconera TV",
@@ -2310,7 +2370,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-bianconera-tv",
-      "ms": 633
+      "ms": 547
     },
     {
       "n": "Radio Birikina Tv",
@@ -2320,7 +2380,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-birikina-tv",
-      "ms": 250
+      "ms": 284
     },
     {
       "n": "Radio Bruno Tv",
@@ -2330,7 +2390,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-bruno-tv",
-      "ms": 432
+      "ms": 372
     },
     {
       "n": "Radio Delta 1 TV",
@@ -2340,7 +2400,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-delta-1-tv",
-      "ms": 665
+      "ms": 699
     },
     {
       "n": "Radio Digiesse TV",
@@ -2350,7 +2410,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-digiesse-tv",
-      "ms": 369
+      "ms": 345
     },
     {
       "n": "Radio Ibiza",
@@ -2360,7 +2420,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-ibiza",
-      "ms": 301
+      "ms": 350
     },
     {
       "n": "Radio Iglesias Visual Radio",
@@ -2370,17 +2430,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-iglesias-visual-radio",
-      "ms": 173
-    },
-    {
-      "n": "Radio Immagine Tv",
-      "u": "https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8",
-      "l": "https://i.imgur.com/iQlXRAB.png",
-      "c": "sport",
-      "g": "Спорт",
-      "a": false,
-      "s": "radio-immagine-tv",
-      "ms": 549
+      "ms": 170
     },
     {
       "n": "Radio Italia Cina Tv",
@@ -2390,7 +2440,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-italia-cina-tv",
-      "ms": 402
+      "ms": 380
     },
     {
       "n": "Radio Juke Box TV",
@@ -2400,7 +2450,7 @@
       "g": "Спорт",
       "a": false,
       "s": "radio-juke-box-tv",
-      "ms": 335
+      "ms": 337
     },
     {
       "n": "Radio Kiss Kiss Italia TV",
@@ -2410,7 +2460,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-kiss-kiss-italia-tv",
-      "ms": 322
+      "ms": 332
     },
     {
       "n": "Radio Kiss Kiss Napoli TV",
@@ -2420,7 +2470,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-kiss-kiss-napoli-tv",
-      "ms": 268
+      "ms": 270
     },
     {
       "n": "Radio Libertà",
@@ -2430,7 +2480,17 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-libert",
-      "ms": 399
+      "ms": 790
+    },
+    {
+      "n": "Radio Mir (720p)",
+      "u": "https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8",
+      "l": "https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg",
+      "c": "music",
+      "g": "Музыка",
+      "a": false,
+      "s": "radiomir-by-sd",
+      "ms": 335
     },
     {
       "n": "Radio Monte Kronio Tv (R.M.K.)",
@@ -2440,17 +2500,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-monte-kronio-tv-r-m-k",
-      "ms": 318
-    },
-    {
-      "n": "Radio Norba Tv",
-      "u": "https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8",
-      "l": "https://i.imgur.com/qftBPM9.png",
-      "c": "music",
-      "g": "Музыка",
-      "a": false,
-      "s": "radionorbatv-it",
-      "ms": 264
+      "ms": 322
     },
     {
       "n": "Radio Number One TV",
@@ -2460,7 +2510,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-number-one-tv",
-      "ms": 604
+      "ms": 331
     },
     {
       "n": "Radio Padova TV",
@@ -2470,7 +2520,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-padova-tv",
-      "ms": 265
+      "ms": 306
     },
     {
       "n": "Radio Piter Pan Tv",
@@ -2480,7 +2530,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-piter-pan-tv",
-      "ms": 257
+      "ms": 249
     },
     {
       "n": "Radio Punto Zero TV",
@@ -2490,7 +2540,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-punto-zero-tv",
-      "ms": 151
+      "ms": 176
     },
     {
       "n": "Radio Radiosa Tv",
@@ -2500,7 +2550,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-radiosa-tv",
-      "ms": 507
+      "ms": 525
     },
     {
       "n": "Radio Ritmo 80 TV",
@@ -2510,7 +2560,17 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-ritmo-80-tv",
-      "ms": 316
+      "ms": 322
+    },
+    {
+      "n": "Radio Rossii (720p)",
+      "u": "https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8",
+      "l": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Radio_Rossii_logo.svg/1920px-Radio_Rossii_logo.svg.png",
+      "c": "music",
+      "g": "Музыка",
+      "a": false,
+      "s": "radiorossii-ru-hd",
+      "ms": 113
     },
     {
       "n": "Radio Studio TV",
@@ -2520,7 +2580,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-studio-tv",
-      "ms": 514
+      "ms": 559
     },
     {
       "n": "Radio Taormina TV",
@@ -2530,7 +2590,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-taormina-tv",
-      "ms": 646
+      "ms": 649
     },
     {
       "n": "Radio Televisione Sarda",
@@ -2540,7 +2600,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-televisione-sarda",
-      "ms": 625
+      "ms": 1509
     },
     {
       "n": "Radio Tivù Azzurra",
@@ -2550,7 +2610,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio-tiv-azzurra",
-      "ms": 506
+      "ms": 525
     },
     {
       "n": "Radio ZETA",
@@ -2560,17 +2620,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radiozetatv-it",
-      "ms": 475
-    },
-    {
-      "n": "Rádió1",
-      "u": "https://budapest-cache-1.antik.sk/live/radio_1/index.m3u8",
-      "l": "https://upload.wikimedia.org/wikipedia/commons/5/52/Radio1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-      "c": "other",
-      "g": "Разное",
-      "a": false,
-      "s": "r-di-1",
-      "ms": 219
+      "ms": 568
     },
     {
       "n": "Radio24-IlSole24OreTV",
@@ -2580,7 +2630,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radio24tv-it",
-      "ms": 410
+      "ms": 516
     },
     {
       "n": "RadioFreccia",
@@ -2590,7 +2640,7 @@
       "g": "Музыка",
       "a": false,
       "s": "radiofrecciatv-it",
-      "ms": 307
+      "ms": 382
     },
     {
       "n": "Rai Italia Asia e Australia",
@@ -2600,7 +2650,7 @@
       "g": "Разное",
       "a": false,
       "s": "rai-italia-asia-e-australia",
-      "ms": 322
+      "ms": 374
     },
     {
       "n": "Rai Italia Europa e Africa",
@@ -2610,7 +2660,7 @@
       "g": "Разное",
       "a": false,
       "s": "rai-italia-europa-e-africa",
-      "ms": 263
+      "ms": 316
     },
     {
       "n": "Rai Italia Nord America",
@@ -2620,7 +2670,7 @@
       "g": "Разное",
       "a": false,
       "s": "raiitaliaamerica-it",
-      "ms": 179
+      "ms": 315
     },
     {
       "n": "Rai Italia Sud America",
@@ -2630,7 +2680,7 @@
       "g": "Разное",
       "a": false,
       "s": "rai-italia-sud-america",
-      "ms": 230
+      "ms": 274
     },
     {
       "n": "Rai World Premium",
@@ -2640,7 +2690,7 @@
       "g": "Разное",
       "a": false,
       "s": "rai-world-premium",
-      "ms": 225
+      "ms": 277
     },
     {
       "n": "Ran Friul",
@@ -2650,7 +2700,7 @@
       "g": "Разное",
       "a": false,
       "s": "ran-friul",
-      "ms": 687
+      "ms": 3254
     },
     {
       "n": "Real Time",
@@ -2660,7 +2710,7 @@
       "g": "Разное",
       "a": false,
       "s": "real-time-it",
-      "ms": 371
+      "ms": 337
     },
     {
       "n": "Reggio Tv",
@@ -2670,7 +2720,7 @@
       "g": "Разное",
       "a": false,
       "s": "reggio-tv",
-      "ms": 268
+      "ms": 232
     },
     {
       "n": "Rete 55",
@@ -2680,7 +2730,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-55",
-      "ms": 623
+      "ms": 517
     },
     {
       "n": "Rete 8",
@@ -2690,7 +2740,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-8",
-      "ms": 360
+      "ms": 361
     },
     {
       "n": "Rete 8 Sport",
@@ -2700,7 +2750,7 @@
       "g": "Спорт",
       "a": false,
       "s": "rete-8-sport",
-      "ms": 406
+      "ms": 374
     },
     {
       "n": "Rete Biella Tv",
@@ -2710,7 +2760,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-biella-tv",
-      "ms": 396
+      "ms": 374
     },
     {
       "n": "Rete Mia",
@@ -2720,7 +2770,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-mia",
-      "ms": 419
+      "ms": 417
     },
     {
       "n": "Rete Oro Tv",
@@ -2730,7 +2780,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-oro-tv",
-      "ms": 360
+      "ms": 352
     },
     {
       "n": "Rete Sole",
@@ -2740,7 +2790,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-sole",
-      "ms": 298
+      "ms": 315
     },
     {
       "n": "Rete Tv Italia",
@@ -2750,7 +2800,7 @@
       "g": "Разное",
       "a": false,
       "s": "rete-tv-italia",
-      "ms": 322
+      "ms": 334
     },
     {
       "n": "RIK Sat",
@@ -2760,7 +2810,7 @@
       "g": "Разное",
       "a": false,
       "s": "riksattv-cy",
-      "ms": 926
+      "ms": 741
     },
     {
       "n": "RNE para todos",
@@ -2770,7 +2820,17 @@
       "g": "Разное",
       "a": false,
       "s": "rne-es",
-      "ms": 517
+      "ms": 424
+    },
+    {
+      "n": "RT Documentary Russian (1080p)",
+      "u": "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+      "l": "https://i.imgur.com/aeu5zIC.png",
+      "c": "education",
+      "g": "Познавательные",
+      "a": false,
+      "s": "rtdocumentary-ru-russian",
+      "ms": 163
     },
     {
       "n": "RT Español Ⓖ",
@@ -2780,7 +2840,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtenespanol-ru",
-      "ms": 414
+      "ms": 339
     },
     {
       "n": "RTC Quarta Rete",
@@ -2790,7 +2850,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtc-quarta-rete",
-      "ms": 327
+      "ms": 316
     },
     {
       "n": "RTL 102.5",
@@ -2800,7 +2860,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtl-102-5-hd-it",
-      "ms": 628
+      "ms": 450
     },
     {
       "n": "RTL 102.5 + Plus",
@@ -2810,7 +2870,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtl1025plus-it",
-      "ms": 283
+      "ms": 308
     },
     {
       "n": "RTL Télé Lëtzebuerg",
@@ -2820,7 +2880,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtlteleluxembourg-lu",
-      "ms": 755
+      "ms": 630
     },
     {
       "n": "RTM Manduria",
@@ -2830,7 +2890,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtm-manduria",
-      "ms": 342
+      "ms": 343
     },
     {
       "n": "RTN Napoli",
@@ -2840,7 +2900,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtn-napoli",
-      "ms": 354
+      "ms": 343
     },
     {
       "n": "Rtp Tv",
@@ -2850,7 +2910,7 @@
       "g": "Разное",
       "a": false,
       "s": "rtp-tv",
-      "ms": 559
+      "ms": 571
     },
     {
       "n": "Rttr",
@@ -2860,7 +2920,7 @@
       "g": "Разное",
       "a": false,
       "s": "rttr",
-      "ms": 328
+      "ms": 316
     },
     {
       "n": "Rtv 38 Toscana",
@@ -2870,7 +2930,17 @@
       "g": "Разное",
       "a": false,
       "s": "rtv-38-toscana",
-      "ms": 1752
+      "ms": 671
+    },
+    {
+      "n": "Russia-24 (1080p)",
+      "u": "https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8",
+      "l": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
+      "c": "basic",
+      "g": "Базовые",
+      "a": false,
+      "s": "russia24-ru-sd",
+      "ms": 616
     },
     {
       "n": "RÚV",
@@ -2880,7 +2950,7 @@
       "g": "Разное",
       "a": false,
       "s": "ruv-is",
-      "ms": 529
+      "ms": 847
     },
     {
       "n": "RÚV 2",
@@ -2890,7 +2960,27 @@
       "g": "Разное",
       "a": false,
       "s": "ruv2-is",
-      "ms": 639
+      "ms": 5604
+    },
+    {
+      "n": "Rybalka i okhota (576p)",
+      "u": "https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2",
+      "l": "https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png",
+      "c": "education",
+      "g": "Познавательные",
+      "a": false,
+      "s": "rybalkaiokhota-ru-sd",
+      "ms": 380
+    },
+    {
+      "n": "Ryzhiy (576i)",
+      "u": "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
+      "l": "https://i.imgur.com/acrU2IE.png",
+      "c": "entertainment",
+      "g": "Развлекательные",
+      "a": false,
+      "s": "ryzhiy-ru-sd",
+      "ms": 1499
     },
     {
       "n": "SABC News",
@@ -2900,7 +2990,7 @@
       "g": "Базовые",
       "a": false,
       "s": "sabcnews-gh",
-      "ms": 1314
+      "ms": 1336
     },
     {
       "n": "Sahara 24 صحراء",
@@ -2910,7 +3000,7 @@
       "g": "Разное",
       "a": false,
       "s": "sahara-24-mr",
-      "ms": 754
+      "ms": 998
     },
     {
       "n": "Savoir Média",
@@ -2920,7 +3010,7 @@
       "g": "Разное",
       "a": false,
       "s": "cftudt-ca",
-      "ms": 1133
+      "ms": 1274
     },
     {
       "n": "Set Tv Cilento",
@@ -2930,7 +3020,7 @@
       "g": "Разное",
       "a": false,
       "s": "set-tv-cilento",
-      "ms": 428
+      "ms": 390
     },
     {
       "n": "Sicilia 24 Tv",
@@ -2940,7 +3030,7 @@
       "g": "Разное",
       "a": false,
       "s": "sicilia-24-tv",
-      "ms": 341
+      "ms": 316
     },
     {
       "n": "Sienatv",
@@ -2950,17 +3040,7 @@
       "g": "Разное",
       "a": false,
       "s": "sienatv",
-      "ms": 711
-    },
-    {
-      "n": "Sláger FM",
-      "u": "https://budapest-cache-1.antik.sk/live/slager/index.m3u8",
-      "l": "https://myonlineradio.hu/public/uploads/radio_img/slager-fm/play_250_250.webp",
-      "c": "music",
-      "g": "Музыка",
-      "a": false,
-      "s": "sl-ger-fm",
-      "ms": 249
+      "ms": 725
     },
     {
       "n": "Šlágr Muzika Ⓢ",
@@ -2970,7 +3050,7 @@
       "g": "Разное",
       "a": false,
       "s": "slagrmuzika-cz",
-      "ms": 1339
+      "ms": 333
     },
     {
       "n": "Šlágr Originál Ⓢ",
@@ -2980,7 +3060,7 @@
       "g": "Разное",
       "a": false,
       "s": "slagroriginal-cz",
-      "ms": 357
+      "ms": 328
     },
     {
       "n": "Sophia Tv",
@@ -2990,7 +3070,7 @@
       "g": "Разное",
       "a": false,
       "s": "sophia-tv",
-      "ms": 500
+      "ms": 497
     },
     {
       "n": "Star Channel Finland",
@@ -3000,7 +3080,7 @@
       "g": "Разное",
       "a": false,
       "s": "starchannel-fi",
-      "ms": 306
+      "ms": 273
     },
     {
       "n": "Stiletv",
@@ -3010,7 +3090,7 @@
       "g": "Разное",
       "a": false,
       "s": "stiletv",
-      "ms": 478
+      "ms": 476
     },
     {
       "n": "Studio 100",
@@ -3020,7 +3100,7 @@
       "g": "Разное",
       "a": false,
       "s": "studio-100",
-      "ms": 260
+      "ms": 285
     },
     {
       "n": "Super J Tv",
@@ -3030,7 +3110,7 @@
       "g": "Разное",
       "a": false,
       "s": "super-j-tv",
-      "ms": 856
+      "ms": 836
     },
     {
       "n": "Super!",
@@ -3040,7 +3120,7 @@
       "g": "Разное",
       "a": false,
       "s": "super-it",
-      "ms": 494
+      "ms": 473
     },
     {
       "n": "T13 en vivo",
@@ -3050,7 +3130,7 @@
       "g": "Разное",
       "a": false,
       "s": "t13-cl",
-      "ms": 1239
+      "ms": 1410
     },
     {
       "n": "Tcf Tv",
@@ -3060,7 +3140,7 @@
       "g": "Разное",
       "a": false,
       "s": "tcf-tv",
-      "ms": 519
+      "ms": 537
     },
     {
       "n": "Tele Bari",
@@ -3070,7 +3150,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-bari",
-      "ms": 379
+      "ms": 340
     },
     {
       "n": "Tele Belluno",
@@ -3080,7 +3160,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-belluno",
-      "ms": 513
+      "ms": 297
     },
     {
       "n": "Tele Boario",
@@ -3090,7 +3170,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-boario",
-      "ms": 670
+      "ms": 605
     },
     {
       "n": "Tele Bruzzano",
@@ -3100,7 +3180,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-bruzzano",
-      "ms": 613
+      "ms": 396
     },
     {
       "n": "Tele Club Italia",
@@ -3110,7 +3190,7 @@
       "g": "Музыка",
       "a": false,
       "s": "tele-club-italia",
-      "ms": 537
+      "ms": 566
     },
     {
       "n": "Tele Cupole",
@@ -3120,7 +3200,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-cupole",
-      "ms": 667
+      "ms": 687
     },
     {
       "n": "Tele Foggia",
@@ -3130,7 +3210,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-foggia",
-      "ms": 310
+      "ms": 353
     },
     {
       "n": "Tele Friuli",
@@ -3140,7 +3220,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-friuli",
-      "ms": 423
+      "ms": 448
     },
     {
       "n": "Tele Gela",
@@ -3150,7 +3230,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-gela",
-      "ms": 381
+      "ms": 368
     },
     {
       "n": "Tele Golfo RTG",
@@ -3160,7 +3240,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-golfo-rtg",
-      "ms": 420
+      "ms": 454
     },
     {
       "n": "Tele Ischia",
@@ -3170,7 +3250,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-ischia",
-      "ms": 331
+      "ms": 321
     },
     {
       "n": "Tele Lacco Ameno",
@@ -3180,7 +3260,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-lacco-ameno",
-      "ms": 318
+      "ms": 293
     },
     {
       "n": "Tele Laser",
@@ -3190,7 +3270,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-laser",
-      "ms": 357
+      "ms": 348
     },
     {
       "n": "Tele Liguria Sud",
@@ -3200,7 +3280,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-liguria-sud",
-      "ms": 179
+      "ms": 200
     },
     {
       "n": "Tele Mantova",
@@ -3210,7 +3290,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-mantova",
-      "ms": 340
+      "ms": 296
     },
     {
       "n": "Tele Mia",
@@ -3220,7 +3300,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-mia",
-      "ms": 137
+      "ms": 146
     },
     {
       "n": "Tele Mia Extra",
@@ -3240,7 +3320,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-mistretta",
-      "ms": 378
+      "ms": 311
     },
     {
       "n": "Tele Nord Genova",
@@ -3250,7 +3330,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-nord-genova",
-      "ms": 180
+      "ms": 171
     },
     {
       "n": "Tele One",
@@ -3260,7 +3340,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-one",
-      "ms": 319
+      "ms": 291
     },
     {
       "n": "Tele Pace Trento",
@@ -3270,7 +3350,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-pace-trento",
-      "ms": 383
+      "ms": 351
     },
     {
       "n": "Tele Piadena",
@@ -3280,7 +3360,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-piadena",
-      "ms": 604
+      "ms": 562
     },
     {
       "n": "Tele Radio Ercolano",
@@ -3290,7 +3370,7 @@
       "g": "Музыка",
       "a": false,
       "s": "tele-radio-ercolano",
-      "ms": 406
+      "ms": 399
     },
     {
       "n": "Tele Radio Pace 1",
@@ -3300,7 +3380,7 @@
       "g": "Музыка",
       "a": false,
       "s": "tele-radio-pace-1",
-      "ms": 410
+      "ms": 594
     },
     {
       "n": "Tele Radio Pace 2",
@@ -3310,7 +3390,7 @@
       "g": "Музыка",
       "a": false,
       "s": "tele-radio-pace-2",
-      "ms": 436
+      "ms": 328
     },
     {
       "n": "Tele Radio Pace 3",
@@ -3320,7 +3400,7 @@
       "g": "Музыка",
       "a": false,
       "s": "tele-radio-pace-3",
-      "ms": 546
+      "ms": 304
     },
     {
       "n": "Tele Radio Pace 4",
@@ -3330,7 +3410,7 @@
       "g": "Музыка",
       "a": false,
       "s": "tele-radio-pace-4",
-      "ms": 347
+      "ms": 346
     },
     {
       "n": "Tele Ritmo",
@@ -3340,7 +3420,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-ritmo",
-      "ms": 374
+      "ms": 345
     },
     {
       "n": "Tele Stabia / Gigli TV",
@@ -3350,7 +3430,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-stabia-gigli-tv",
-      "ms": 409
+      "ms": 385
     },
     {
       "n": "Télé Tchad Ⓢ",
@@ -3360,7 +3440,7 @@
       "g": "Разное",
       "a": false,
       "s": "teletchad-td",
-      "ms": 341
+      "ms": 355
     },
     {
       "n": "Tele Tricolore",
@@ -3370,7 +3450,7 @@
       "g": "Разное",
       "a": false,
       "s": "tele-tricolore",
-      "ms": 309
+      "ms": 296
     },
     {
       "n": "Telecity Lombardia",
@@ -3380,7 +3460,7 @@
       "g": "Разное",
       "a": false,
       "s": "telecity-lombardia",
-      "ms": 183
+      "ms": 181
     },
     {
       "n": "Telecity Piemonte",
@@ -3390,7 +3470,7 @@
       "g": "Разное",
       "a": false,
       "s": "telecity-piemonte",
-      "ms": 348
+      "ms": 314
     },
     {
       "n": "Telecity Valle D'Aosta",
@@ -3400,7 +3480,7 @@
       "g": "Разное",
       "a": false,
       "s": "telecity-valle-d-aosta",
-      "ms": 180
+      "ms": 127
     },
     {
       "n": "Telecolor Sicilia",
@@ -3410,7 +3490,7 @@
       "g": "Разное",
       "a": false,
       "s": "telecolor-sicilia",
-      "ms": 466
+      "ms": 376
     },
     {
       "n": "Telegenova",
@@ -3420,7 +3500,7 @@
       "g": "Разное",
       "a": false,
       "s": "telegenova",
-      "ms": 159
+      "ms": 132
     },
     {
       "n": "Teleiblea",
@@ -3430,7 +3510,7 @@
       "g": "Разное",
       "a": false,
       "s": "teleiblea",
-      "ms": 231
+      "ms": 124
     },
     {
       "n": "TeleMajg",
@@ -3440,7 +3520,7 @@
       "g": "Разное",
       "a": false,
       "s": "telemajg",
-      "ms": 170
+      "ms": 158
     },
     {
       "n": "Telerama",
@@ -3450,7 +3530,7 @@
       "g": "Разное",
       "a": false,
       "s": "telerama",
-      "ms": 298
+      "ms": 304
     },
     {
       "n": "TeleRomaDue",
@@ -3460,7 +3540,7 @@
       "g": "Разное",
       "a": false,
       "s": "teleromadue",
-      "ms": 335
+      "ms": 299
     },
     {
       "n": "Teleromagna",
@@ -3470,7 +3550,7 @@
       "g": "Разное",
       "a": false,
       "s": "teleromagna",
-      "ms": 841
+      "ms": 830
     },
     {
       "n": "Teleromagna 24",
@@ -3480,7 +3560,7 @@
       "g": "Разное",
       "a": false,
       "s": "teleromagna-24",
-      "ms": 354
+      "ms": 351
     },
     {
       "n": "Televallo Trapani",
@@ -3490,7 +3570,7 @@
       "g": "Разное",
       "a": false,
       "s": "televallo-trapani",
-      "ms": 207
+      "ms": 173
     },
     {
       "n": "Televisión Canaria Ⓨ",
@@ -3500,7 +3580,7 @@
       "g": "Разное",
       "a": false,
       "s": "tvcanaria-es",
-      "ms": 292
+      "ms": 229
     },
     {
       "n": "TGCOM 24",
@@ -3510,7 +3590,7 @@
       "g": "Разное",
       "a": false,
       "s": "tgcom-it",
-      "ms": 356
+      "ms": 326
     },
     {
       "n": "TGS Telegiornale di Sicilia",
@@ -3520,7 +3600,7 @@
       "g": "Разное",
       "a": false,
       "s": "tgs-telegiornale-di-sicilia",
-      "ms": 603
+      "ms": 589
     },
     {
       "n": "Tingvarp",
@@ -3530,7 +3610,7 @@
       "g": "Разное",
       "a": false,
       "s": "tingvarp-fo",
-      "ms": 729
+      "ms": 691
     },
     {
       "n": "TLC Finland",
@@ -3540,7 +3620,7 @@
       "g": "Разное",
       "a": false,
       "s": "tlcfinland-fi",
-      "ms": 312
+      "ms": 315
     },
     {
       "n": "TLT Molise",
@@ -3550,7 +3630,7 @@
       "g": "Разное",
       "a": false,
       "s": "tlt-molise",
-      "ms": 353
+      "ms": 348
     },
     {
       "n": "Travel TV",
@@ -3560,7 +3640,7 @@
       "g": "Познавательные",
       "a": false,
       "s": "traveltv-it",
-      "ms": 399
+      "ms": 382
     },
     {
       "n": "TRC Santeramo",
@@ -3570,7 +3650,7 @@
       "g": "Разное",
       "a": false,
       "s": "trc-santeramo",
-      "ms": 463
+      "ms": 418
     },
     {
       "n": "TRG Media",
@@ -3580,7 +3660,7 @@
       "g": "Разное",
       "a": false,
       "s": "trg-media",
-      "ms": 403
+      "ms": 404
     },
     {
       "n": "TRL Tele Radio Leo",
@@ -3590,7 +3670,7 @@
       "g": "Музыка",
       "a": false,
       "s": "trl-tele-radio-leo",
-      "ms": 456
+      "ms": 428
     },
     {
       "n": "TRSP Tele Radio San Pietro",
@@ -3600,7 +3680,7 @@
       "g": "Музыка",
       "a": false,
       "s": "trsp-tele-radio-san-pietro",
-      "ms": 475
+      "ms": 383
     },
     {
       "n": "TRT EBA Ortaokul",
@@ -3610,7 +3690,7 @@
       "g": "Разное",
       "a": false,
       "s": "trt-eba-ortaokul",
-      "ms": 1119
+      "ms": 587
     },
     {
       "n": "TRT Kurdî",
@@ -3620,7 +3700,7 @@
       "g": "Разное",
       "a": false,
       "s": "trtkurdi-tr",
-      "ms": 534
+      "ms": 661
     },
     {
       "n": "TRT Müzik",
@@ -3630,7 +3710,7 @@
       "g": "Разное",
       "a": false,
       "s": "trt-m-zik",
-      "ms": 659
+      "ms": 668
     },
     {
       "n": "TRT Türk",
@@ -3640,7 +3720,7 @@
       "g": "Разное",
       "a": false,
       "s": "trtturk-tr",
-      "ms": 819
+      "ms": 753
     },
     {
       "n": "TSD Tv Arezzo(Tele San Domenico)",
@@ -3650,7 +3730,7 @@
       "g": "Разное",
       "a": false,
       "s": "tsd-tv-arezzo-tele-san-domenico",
-      "ms": 607
+      "ms": 323
     },
     {
       "n": "TSN Tele Sondrio News",
@@ -3660,7 +3740,7 @@
       "g": "Базовые",
       "a": false,
       "s": "tsn-tele-sondrio-news",
-      "ms": 1696
+      "ms": 1564
     },
     {
       "n": "Turbo",
@@ -3670,7 +3750,7 @@
       "g": "Разное",
       "a": false,
       "s": "motor-trend-it",
-      "ms": 362
+      "ms": 306
     },
     {
       "n": "TV 2000",
@@ -3680,7 +3760,7 @@
       "g": "Разное",
       "a": false,
       "s": "tv2000-va",
-      "ms": 602
+      "ms": 504
     },
     {
       "n": "Tv Luna Napoli",
@@ -3690,7 +3770,7 @@
       "g": "Разное",
       "a": false,
       "s": "tv-luna-napoli",
-      "ms": 332
+      "ms": 222
     },
     {
       "n": "Tv Prato",
@@ -3700,7 +3780,7 @@
       "g": "Разное",
       "a": false,
       "s": "tv-prato",
-      "ms": 381
+      "ms": 339
     },
     {
       "n": "Tv Qui Modena",
@@ -3710,7 +3790,7 @@
       "g": "Разное",
       "a": false,
       "s": "tv-qui-modena",
-      "ms": 365
+      "ms": 306
     },
     {
       "n": "TV7 Békéscsaba",
@@ -3720,7 +3800,7 @@
       "g": "Разное",
       "a": false,
       "s": "tv7-b-k-scsaba",
-      "ms": 299
+      "ms": 250
     },
     {
       "n": "TVE Internacional Europe-Asia",
@@ -3730,7 +3810,7 @@
       "g": "Разное",
       "a": false,
       "s": "tveinternacionaleuropeasia-es",
-      "ms": 522
+      "ms": 302
     },
     {
       "n": "TVL (TV Libera Pistoia)",
@@ -3740,7 +3820,7 @@
       "g": "Разное",
       "a": false,
       "s": "tvl-tv-libera-pistoia",
-      "ms": 385
+      "ms": 400
     },
     {
       "n": "TVR Timișoara Ⓖ",
@@ -3750,7 +3830,7 @@
       "g": "Базовые",
       "a": false,
       "s": "tvrtimisoara-ro",
-      "ms": 355
+      "ms": 201
     },
     {
       "n": "TVR Tîrgu-Mureș Ⓖ",
@@ -3760,7 +3840,7 @@
       "g": "Базовые",
       "a": false,
       "s": "tvrtargumures-ro",
-      "ms": 376
+      "ms": 306
     },
     {
       "n": "Tvrs Tv",
@@ -3770,7 +3850,7 @@
       "g": "Разное",
       "a": false,
       "s": "tvrs-tv",
-      "ms": 282
+      "ms": 259
     },
     {
       "n": "UBC TV",
@@ -3780,7 +3860,7 @@
       "g": "Разное",
       "a": false,
       "s": "ubctv-kr",
-      "ms": 3515
+      "ms": 3507
     },
     {
       "n": "UCV Televisión",
@@ -3790,7 +3870,7 @@
       "g": "Познавательные",
       "a": false,
       "s": "ucvtv-cl",
-      "ms": 2191
+      "ms": 2165
     },
     {
       "n": "Umbria Tv",
@@ -3800,7 +3880,7 @@
       "g": "Разное",
       "a": false,
       "s": "umbria-tv",
-      "ms": 981
+      "ms": 829
     },
     {
       "n": "Uno4 Tv",
@@ -3810,7 +3890,7 @@
       "g": "Разное",
       "a": false,
       "s": "uno4-tv",
-      "ms": 384
+      "ms": 369
     },
     {
       "n": "UTV",
@@ -3820,7 +3900,7 @@
       "g": "Разное",
       "a": false,
       "s": "utv-cz",
-      "ms": 285
+      "ms": 328
     },
     {
       "n": "Vera Tv",
@@ -3830,7 +3910,7 @@
       "g": "Разное",
       "a": false,
       "s": "vera-tv",
-      "ms": 278
+      "ms": 289
     },
     {
       "n": "Vergina",
@@ -3840,7 +3920,7 @@
       "g": "Разное",
       "a": false,
       "s": "verginatv-gr",
-      "ms": 398
+      "ms": 399
     },
     {
       "n": "Video Mediterraneo",
@@ -3850,7 +3930,7 @@
       "g": "Разное",
       "a": false,
       "s": "video-mediterraneo",
-      "ms": 450
+      "ms": 444
     },
     {
       "n": "Video Regione Sicilia",
@@ -3860,7 +3940,7 @@
       "g": "Разное",
       "a": false,
       "s": "video-regione-sicilia",
-      "ms": 534
+      "ms": 528
     },
     {
       "n": "Videonovara",
@@ -3870,7 +3950,7 @@
       "g": "Разное",
       "a": false,
       "s": "videonovara",
-      "ms": 376
+      "ms": 338
     },
     {
       "n": "Videotelecarnia",
@@ -3880,7 +3960,7 @@
       "g": "Разное",
       "a": false,
       "s": "videotelecarnia",
-      "ms": 382
+      "ms": 349
     },
     {
       "n": "Vidusdaugavas Televīzija",
@@ -3890,7 +3970,7 @@
       "g": "Базовые",
       "a": false,
       "s": "vidusdaugavastelevizija-lv",
-      "ms": 290
+      "ms": 294
     },
     {
       "n": "Vintage Radio Tv",
@@ -3900,7 +3980,7 @@
       "g": "Музыка",
       "a": false,
       "s": "vintage-radio-tv",
-      "ms": 365
+      "ms": 352
     },
     {
       "n": "Vouli TV",
@@ -3910,7 +3990,7 @@
       "g": "Разное",
       "a": false,
       "s": "voulitv-gr",
-      "ms": 709
+      "ms": 652
     },
     {
       "n": "Východoceská TV",
@@ -3920,7 +4000,7 @@
       "g": "Разное",
       "a": false,
       "s": "v1-cz",
-      "ms": 465
+      "ms": 467
     },
     {
       "n": "WDR Ⓖ",
@@ -3930,7 +4010,7 @@
       "g": "Разное",
       "a": false,
       "s": "wdr-de",
-      "ms": 724
+      "ms": 574
     },
     {
       "n": "WLTV",
@@ -3940,7 +4020,7 @@
       "g": "Разное",
       "a": false,
       "s": "wltv",
-      "ms": 427
+      "ms": 413
     },
     {
       "n": "Zerouno Tv News",
@@ -3950,7 +4030,7 @@
       "g": "Базовые",
       "a": false,
       "s": "zerouno-tv-news",
-      "ms": 399
+      "ms": 185
     },
     {
       "n": "ウェザーニュースLiVE",
@@ -3960,7 +4040,7 @@
       "g": "Разное",
       "a": false,
       "s": "rch-45",
-      "ms": 2452
+      "ms": 2310
     },
     {
       "n": "日テレNEWS",
@@ -3970,7 +4050,7 @@
       "g": "Базовые",
       "a": false,
       "s": "rch-47",
-      "ms": 1944
+      "ms": 2797
     }
   ]
 }

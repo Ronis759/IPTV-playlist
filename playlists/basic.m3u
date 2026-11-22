@@ -1,5 +1,5 @@
 #EXTM3U
-# Базовые В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 36
+# Базовые В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 41
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Базовые" tvg-name="360° (1080p)",360° (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Базовые" tvg-name="360° (1080p)",360° (1080p)
@@ -50,14 +50,24 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playli
 https://cdn4.skygo.mn/live/disk1/VolumePlus/HLSv3-FTA/VolumePlus.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="Базовые" tvg-name="NBC News",NBC News
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 tvg-id="NTK21.ru@HD" tvg-logo="https://i.imgur.com/W9s1flH.png" group-title="Базовые" tvg-name="NTK 21",NTK 21
+https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 #EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-logo="https://i.imgur.com/P0fxUH5.png" group-title="Базовые" tvg-name="Oroszlányi Városi Televízió",Oroszlányi Városi Televízió
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OTVPrim.ru@SD" tvg-logo="https://i.imgur.com/2zd8trG.png" group-title="Базовые" tvg-name="OTV-Prim (720p)",OTV-Prim (720p)
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru@SD" tvg-logo="https://i.imgur.com/ti4OMBv.png" group-title="Базовые" tvg-name="Pervyy Respublikanskiy (576p)",Pervyy Respublikanskiy (576p)
+https://streaming.televizor-24-tochka.ru/live/27.m3u8
+#EXTINF:-1 tvg-id="Prima.ru@SD" tvg-logo="https://i.imgur.com/33XGMch.png" group-title="Базовые" tvg-name="Prima (Russia) (1080p)",Prima (Russia) (1080p)
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 tvg-id="prima-tv-napoli" tvg-logo="https://i.imgur.com/yPuQeEy.jpg" group-title="Базовые" tvg-name="Prima Tv Napoli",Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-id="prima-tv-sicilia" tvg-logo="https://i.imgur.com/br45JER.png" group-title="Базовые" tvg-name="Prima Tv Sicilia",Prima Tv Sicilia
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="primafree" tvg-logo="https://i.imgur.com/YrSSmOL.png" group-title="Базовые" tvg-name="PrimaFREE",PrimaFREE
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="Базовые" tvg-name="Russia-24 (1080p)",Russia-24 (1080p)
+https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-id="SABCNews.gh" tvg-logo="https://i.imgur.com/H9q3Q9d.png" group-title="Базовые" tvg-name="SABC News",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
 #EXTINF:-1 tvg-id="tsn-tele-sondrio-news" tvg-logo="https://i.imgur.com/24Anl5o.png" group-title="Базовые" tvg-name="TSN Tele Sondrio News",TSN Tele Sondrio News

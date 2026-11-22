@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="TVCanaria.es" tvg-logo="https://i.imgur.com/68LNS8e.png" group-title="Разное" tvg-name="Televisión Canaria Ⓨ",Televisión Canaria Ⓨ
 https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
