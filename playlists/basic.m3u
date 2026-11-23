@@ -1,17 +1,19 @@
 #EXTM3U
-# Базовые В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 45
+# Базовые В· 2026-11-23 В· РєР°РЅР°Р»РѕРІ: 49
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Базовые" tvg-name="360° (1080p)",360° (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Базовые" tvg-name="360° (1080p)",360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1 tvg-id="360News.ru" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="Базовые" tvg-name="360° News (1080p)",360° News (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="360News.ru@SD" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="Базовые" tvg-name="360° News (1080p)",360° News (1080p)
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
 #EXTINF:-1 tvg-id="DIM.ua" tvg-logo="https://i.imgur.com/3cjaXIF.png" group-title="Базовые" tvg-name="ДІМ",ДІМ
 https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
 #EXTINF:-1 tvg-id="TelekanalZvezda.ru" tvg-logo="https://i.imgur.com/c0L0ncA.png" group-title="Базовые" tvg-name="Звезда",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="Moskva24.ru" tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="Базовые" tvg-name="Москва 24",Москва 24
-https://stream.smotrim.ru/hls/moscow_24/playlist.m3u8?entity=channel&id=76&sign=e8e1bc15ce94ee7718ef8948500e5d21
+https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
 #EXTINF:-1 tvg-id="NasaTV.mk" tvg-logo="https://i.imgur.com/EOLrXvB.png" group-title="Базовые" tvg-name="Наша ТВ",Наша ТВ
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="NizhniyNovgorod24.ru" tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="Базовые" tvg-name="Нижний Новгород 24",Нижний Новгород 24
@@ -32,6 +34,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="ElPinguinoTV.cl" tvg-logo="https://i.imgur.com/ohXs2NV.png" group-title="Базовые" tvg-name="El Pingüino TV",El Pingüino TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Базовые" tvg-name="Euronews Russian (1080p)",Euronews Russian (1080p)
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Базовые" tvg-name="Euronews Russian (720p)",Euronews Russian (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Базовые" tvg-name="France 24 Español",France 24 Español
@@ -68,12 +72,16 @@ https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 https://shift03.isp.bg/RTVi/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="Базовые" tvg-name="Russia-24 (1080p)",Russia-24 (1080p)
 https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="Базовые" tvg-name="Russia-24 (1080p)",Russia-24 (1080p)
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="S1.ru@SD" tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="Базовые" tvg-name="S1 (1080p)",S1 (1080p)
 https://sitv.ru/hls/stv.m3u8
 #EXTINF:-1 tvg-id="SABCNews.gh" tvg-logo="https://i.imgur.com/H9q3Q9d.png" group-title="Базовые" tvg-name="SABC News",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
 #EXTINF:-1 tvg-id="SamaraGIS.ru@SD" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="Базовые" tvg-name="Samara-GIS (1080p)",Samara-GIS (1080p)
 https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="Базовые" tvg-name="Sankt-Peterburg HD (720p)",Sankt-Peterburg HD (720p)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="Базовые" tvg-name="Sankt-Peterburg HD (720p)",Sankt-Peterburg HD (720p)
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 #EXTINF:-1 tvg-id="Sever.ru@SD" tvg-logo="https://i.imgur.com/sTOQLYl.png" group-title="Базовые" tvg-name="Sever",Sever

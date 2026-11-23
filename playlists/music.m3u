@@ -1,5 +1,5 @@
 #EXTM3U
-# Музыка В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 48
+# Музыка В· 2026-11-23 В· РєР°РЅР°Р»РѕРІ: 49
 #EXTINF:-1 tvg-id="botflix-radioo" tvg-logo="https://i.imgur.com/JBEM8lP.png" group-title="Музыка" tvg-name="Botflix Radioo",Botflix Radioo
 https://hls.botflix.tv/radioo/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenClassicMusic.ru@HD" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Музыка" tvg-name="City Eden Classic Music",City Eden Classic Music
@@ -20,6 +20,8 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m
 https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-logo="https://i.imgur.com/2SG0Swa.png" group-title="Музыка" tvg-name="Muzyka Kino",Muzyka Kino
 https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="Музыка" tvg-name="Muzyka Pervogo (1080p)",Muzyka Pervogo (1080p)
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="oxygen-music" tvg-logo="" group-title="Музыка" tvg-name="Oxygen Music",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-id="Radio1.ru@SD" tvg-logo="https://radiopotok.ru/f/station/512/1812.png" group-title="Музыка" tvg-name="Radio 1 (Russia) (720p)",Radio 1 (Russia) (720p)

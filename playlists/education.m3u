@@ -1,9 +1,9 @@
 #EXTM3U
-# Познавательные В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 12
+# Познавательные В· 2026-11-23 В· РєР°РЅР°Р»РѕРІ: 13
+#EXTINF:-1 tvg-id="Dikij.ru@SD" tvg-logo="https://i.imgur.com/VDXDiPC.png" group-title="Познавательные" tvg-name="Dikij (576p)",Dikij (576p)
+https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-logo="https://i.imgur.com/5IxIFJ0.png" group-title="Познавательные" tvg-name="Discovery Channel",Discovery Channel
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru@SD" tvg-logo="https://tv-stream.ru/uploads/D_Zh_ad21d48199.svg" group-title="Познавательные" tvg-name="Domashnie Zhivotnye (576p)",Domashnie Zhivotnye (576p)
-https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="GlazamiTurista.ru@SD" tvg-logo="https://i.imgur.com/GXJKWdy.png" group-title="Познавательные" tvg-name="Glazami Turista (576i)",Glazami Turista (576i)
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Istoki.ru@SD" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png" group-title="Познавательные" tvg-name="Istoki (1080p)",Istoki (1080p)
@@ -12,6 +12,8 @@ https://istoki.tv/live/stream1/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD" tvg-logo="https://i.imgur.com/Bj1jI7F.png" group-title="Познавательные" tvg-name="Ohotnik i rybolov (576i)",Ohotnik i rybolov (576i)
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://i.imgur.com/nZwBaeW.png" group-title="Познавательные" tvg-name="Okhota i rybalka (1080p)",Okhota i rybalka (1080p)
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru@SD" tvg-logo="https://i.imgur.com/7orZOJA.png" group-title="Познавательные" tvg-name="Otkritiy mir. Zdorove (576p)",Otkritiy mir. Zdorove (576p)
 https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="ProBusiness.ru@SD" tvg-logo="https://i.imgur.com/1u8KvTD.png" group-title="Познавательные" tvg-name="Pro Business (720p)",Pro Business (720p)

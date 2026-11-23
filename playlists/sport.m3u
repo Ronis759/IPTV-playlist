@@ -1,5 +1,5 @@
 #EXTM3U
-# Спорт В· 2026-11-22 В· РєР°РЅР°Р»РѕРІ: 6
+# Спорт В· 2026-11-23 В· РєР°РЅР°Р»РѕРІ: 7
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="Спорт" tvg-name="Astrahan.Ru Sport (720p)",Astrahan.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Russia" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Спорт" tvg-name="Eurosport 1 Russia (1080p)",Eurosport 1 Russia (1080p)
@@ -8,6 +8,8 @@ https://s7.iptv-24.net/1439/playlist.m3u8
 https://s7.iptv-24.net/1452/playlist.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Спорт" tvg-name="MMA-TV.com (1080p)",MMA-TV.com (1080p)
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Спорт" tvg-name="MMA-TV.com (1080p)",MMA-TV.com (1080p)
+https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="radio-juke-box-tv" tvg-logo="https://hostux.pics/images/2026/09/11/10_radio_juke_box_tvaf2d724a9b16146f.png" group-title="Спорт" tvg-name="Radio Juke Box TV",Radio Juke Box TV
 https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
 #EXTINF:-1 tvg-id="rete-8-sport" tvg-logo="https://i.imgur.com/uUAjWlF.png" group-title="Спорт" tvg-name="Rete 8 Sport",Rete 8 Sport
