@@ -1,5 +1,5 @@
 #EXTM3U
-# Разное В· 2026-11-23 В· РєР°РЅР°Р»РѕРІ: 258
+# Разное В· 2026-11-24 В· РєР°РЅР°Р»РѕРІ: 254
 #EXTINF:-1 tvg-id="MasPerfil.ar" tvg-logo="https://i.imgur.com/3wZdPwN.png" group-title="Разное" tvg-name="+Perfil",+Perfil
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="111-tv" tvg-logo="https://i.imgur.com/4jY8yAI.png" group-title="Разное" tvg-name="111 Tv",111 Tv
@@ -12,8 +12,6 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 #EXTINF:-1 tvg-id="Arkhyz24.ru" tvg-logo="https://i.imgur.com/mve0sSS.png" group-title="Разное" tvg-name="Архыз 24",Архыз 24
 https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="Astrakhan24.ru" tvg-logo="https://i.imgur.com/9WcnjQN.png" group-title="Разное" tvg-name="Астрахан 24",Астрахан 24
-https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-id="vesti-fm" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/371/033/8.png" group-title="Разное" tvg-name="Вести ФМ",Вести ФМ
 https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417
 #EXTINF:-1 tvg-id="vistel" tvg-logo="https://i.imgur.com/MbM0E6L.png" group-title="Разное" tvg-name="Вистел",Вистел
@@ -60,8 +58,6 @@ https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="besttv.gr" tvg-logo="https://i.imgur.com/VA13E3w.png" group-title="Разное" tvg-name="Best TV",Best TV
 https://besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="biobiochile.cl" tvg-logo="https://i.imgur.com/wrRufts.png" group-title="Разное" tvg-name="Bio Bio TV",Bio Bio TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTelevision.us" tvg-logo="https://i.imgur.com/VnCcH73.png" group-title="Разное" tvg-name="Bloomberg",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png" group-title="Разное" tvg-name="Bloomberg TV",Bloomberg TV
@@ -332,8 +328,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 https://streamcdng14-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S82929343/cAcsSu4Wecc5/chunklist_b5256000.m3u8
 #EXTINF:-1 tvg-id="RTLTeleLuxembourg.lu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/500px-RTL_Luxembourg_2023.svg.png" group-title="Разное" tvg-name="RTL Télé Lëtzebuerg",RTL Télé Lëtzebuerg
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="rtm-manduria" tvg-logo="https://i.imgur.com/WwzU0EP.png" group-title="Разное" tvg-name="RTM Manduria",RTM Manduria
-https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
 #EXTINF:-1 tvg-id="rtn-napoli" tvg-logo="https://hostux.pics/images/2026/09/11/22_rtn_napoli29538077f1c13762.png" group-title="Разное" tvg-name="RTN Napoli",RTN Napoli
 https://rst2.saiuzwebnetwork.it:8081/saiuz-2/index.m3u8
 #EXTINF:-1 tvg-id="rtp-tv" tvg-logo="https://i.imgur.com/I1hYI0C.png" group-title="Разное" tvg-name="Rtp Tv",Rtp Tv
@@ -346,8 +340,6 @@ https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 #EXTINF:-1 tvg-id="RUV2.is" tvg-logo="https://i.imgur.com/yDKRuXQ.png" group-title="Разное" tvg-name="RÚV 2",RÚV 2
 https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
-#EXTINF:-1 tvg-id="Sahara-24.mr" tvg-logo="https://i.imgur.com/nOkf1fU.png" group-title="Разное" tvg-name="Sahara 24 صحراء",Sahara 24 صحراء
-https://live.saharamedias.net:3317/live/shara24live.m3u8
 #EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://i.imgur.com/pa4wOVY.png" group-title="Разное" tvg-name="Savoir Média",Savoir Média
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="set-tv-cilento" tvg-logo="https://i.imgur.com/qN5D1jD.png" group-title="Разное" tvg-name="Set Tv Cilento",Set Tv Cilento

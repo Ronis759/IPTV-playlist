@@ -1,5 +1,5 @@
 #EXTM3U
-# Музыка В· 2026-11-23 В· РєР°РЅР°Р»РѕРІ: 49
+# Музыка В· 2026-11-24 В· РєР°РЅР°Р»РѕРІ: 51
 #EXTINF:-1 tvg-id="botflix-radioo" tvg-logo="https://i.imgur.com/JBEM8lP.png" group-title="Музыка" tvg-name="Botflix Radioo",Botflix Radioo
 https://hls.botflix.tv/radioo/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenClassicMusic.ru@HD" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Музыка" tvg-name="City Eden Classic Music",City Eden Classic Music
@@ -10,6 +10,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-id="giornale-radio-tv" tvg-logo="https://i.imgur.com/TMtvCLL.jpg" group-title="Музыка" tvg-name="Giornale Radio Tv",Giornale Radio Tv
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="KNMusicTV.az@SD" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" group-title="Музыка" tvg-name="KN Music TV (1080p)",KN Music TV (1080p)
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mongolia-music" tvg-logo="" group-title="Музыка" tvg-name="Mongolia Music",Mongolia Music
 https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
 #EXTINF:-1 tvg-id="MTV.lb" tvg-logo="" group-title="Музыка" tvg-name="MTV Lebanon",MTV Lebanon
@@ -82,8 +84,10 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:-1 tvg-id="RadioFrecciaTV.it" tvg-logo="https://i.imgur.com/J5N9F7Z.png" group-title="Музыка" tvg-name="RadioFreccia",RadioFreccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
-#EXTINF:-1 tvg-id="tele-radio-ercolano" tvg-logo="https://i.imgur.com/YPuoy8N.jpg" group-title="Музыка" tvg-name="Tele Radio Ercolano",Tele Radio Ercolano
-https://rst2.saiuzwebnetwork.it:8081/teleradioercolano/index.m3u8
+#EXTINF:-1 tvg-id="SONGTVRussia.ru@SD" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Музыка" tvg-name="SONGTV Russia",SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+#EXTINF:-1 tvg-id="StranaFM.ru@SD" tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="Музыка" tvg-name="Strana FM (720p)",Strana FM (720p)
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tele-radio-pace-1" tvg-logo="https://i.imgur.com/ORkkXM8.png" group-title="Музыка" tvg-name="Tele Radio Pace 1",Tele Radio Pace 1
 https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tele-radio-pace-2" tvg-logo="https://i.imgur.com/U4E3eEr.png" group-title="Музыка" tvg-name="Tele Radio Pace 2",Tele Radio Pace 2
