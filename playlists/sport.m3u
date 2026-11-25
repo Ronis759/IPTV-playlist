@@ -1,5 +1,5 @@
 #EXTM3U
-# Спорт В· 2026-11-24 В· РєР°РЅР°Р»РѕРІ: 7
+# Спорт В· 2026-11-25 В· РєР°РЅР°Р»РѕРІ: 8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="Спорт" tvg-name="Astrahan.Ru Sport (720p)",Astrahan.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Russia" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Спорт" tvg-name="Eurosport 1 Russia (1080p)",Eurosport 1 Russia (1080p)
@@ -14,3 +14,5 @@ https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
 #EXTINF:-1 tvg-id="rete-8-sport" tvg-logo="https://i.imgur.com/uUAjWlF.png" group-title="Спорт" tvg-name="Rete 8 Sport",Rete 8 Sport
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+#EXTINF:-1 tvg-id="Sportivnyy.ru@SD" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="Спорт" tvg-name="Sportivnyy (1080p)",Sportivnyy (1080p)
+https://live-3.otcnet.ru/sportivny/index.m3u8
