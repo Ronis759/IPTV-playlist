@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVRain.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png" group-title="Базовые" tvg-name="TV Rain (1080p)",TV Rain (1080p)
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8

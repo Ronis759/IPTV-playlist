@@ -1,148 +1,135 @@
 {
-  "updatedAt": "2026-11-25T15:49:56.071Z",
-  "checked": 405,
+  "updatedAt": "2026-11-26T15:28:11.101Z",
+  "checked": 394,
   "quickAlive": 389,
-  "playingFast": 380,
+  "playingFast": 384,
   "playingSlow": 0,
-  "broken": 9,
+  "broken": 5,
   "replaced": 2,
-  "added": 12,
-  "removed": 7,
+  "added": 13,
+  "removed": 3,
   "removedList": [
+    {
+      "name": "El Pingüino TV",
+      "url": "https://redirector.dps.live/hls/pinguinotv/playlist.m3u8",
+      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
+    },
     {
       "name": "Pervyy Respublikanskiy (576p)",
       "url": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
       "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
     },
     {
-      "name": "Shopping Live (720p)",
-      "url": "https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8",
-      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
-    },
-    {
-      "name": "Dikij (576p)",
-      "url": "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8",
-      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
-    },
-    {
-      "name": "Antenna Sicilia",
-      "url": "https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8",
-      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
-    },
-    {
-      "name": "Rtv 38 Toscana",
-      "url": "https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8",
-      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
-    },
-    {
-      "name": "Star Channel Finland",
-      "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv",
-      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
-    },
-    {
-      "name": "Telecolor Sicilia",
-      "url": "https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/telecolor/master.m3u8",
+      "name": "Sportivnyy (1080p)",
+      "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
       "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
     }
   ],
   "replacedList": [
     {
-      "name": "El Pingüino TV",
-      "newUrl": "https://redirector.dps.live/hls/pinguinotv/playlist.m3u8",
-      "replacedUrl": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8",
-      "source": "iptv-org",
-      "ms": 1058
-    },
-    {
       "name": "RT Documentary Russian (1080p)",
-      "newUrl": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
-      "replacedUrl": "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+      "newUrl": "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8",
+      "replacedUrl": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
       "source": "iptv-org",
-      "ms": 1449
+      "ms": 1120
     },
     {
-      "name": "City Eden Classic Music",
-      "newUrl": "https://cityeden.catcast.tv/content/47400/index.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1332
+      "name": "Smotrim 100% Detskoe (1080p)",
+      "newUrl": "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8",
+      "replacedUrl": "https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8",
+      "source": "iptv-org",
+      "ms": 1735
     },
     {
-      "name": "City Eden KinoAction",
-      "newUrl": "https://cityeden.catcast.tv/content/41333/index.m3u8",
+      "name": "City Eden KinoDrama",
+      "newUrl": "https://cityeden.catcast.tv/content/45269/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 521
+      "ms": 1558
     },
     {
-      "name": "City Eden KinoArt",
-      "newUrl": "https://cityeden.catcast.tv/content/38398/index.m3u8",
+      "name": "City Eden KinoFantastika",
+      "newUrl": "https://cityeden.catcast.tv/content/45268/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 680
+      "ms": 2736
     },
     {
-      "name": "City Eden KinoAsia",
-      "newUrl": "https://cityeden.catcast.tv/content/34393/index.m3u8",
+      "name": "City Eden KinoKlassika",
+      "newUrl": "https://cityeden.catcast.tv/content/34185/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 361
+      "ms": 2121
     },
     {
-      "name": "City Eden KinoDetektiv",
-      "newUrl": "https://cityeden.catcast.tv/content/41327/index.m3u8",
+      "name": "City Eden KinoKomediya",
+      "newUrl": "https://cityeden.catcast.tv/content/41331/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 546
+      "ms": 2348
     },
     {
-      "name": "City Eden KinoDok",
-      "newUrl": "https://cityeden.catcast.tv/content/38354/index.m3u8",
+      "name": "City Eden KinoMistika",
+      "newUrl": "https://cityeden.catcast.tv/content/40783/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 794
-    },
-    {
-      "name": "Dikij (576p)",
-      "newUrl": "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 2101
+      "ms": 3169
     },
     {
       "name": "Pervyy Respublikanskiy (576p)",
       "newUrl": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 944
+      "ms": 736
     },
     {
-      "name": "Pro Business (720p)",
-      "newUrl": "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8",
+      "name": "Shopping Live (720p)",
+      "newUrl": "https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1436
+      "ms": 705
     },
     {
-      "name": "RT Documentary Russian (1080p)",
-      "newUrl": "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+      "name": "Smotrim 100% Detskoe (1080p)",
+      "newUrl": "https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1353
+      "ms": 21
     },
     {
-      "name": "Samara-GIS (1080p)",
-      "newUrl": "https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8",
+      "name": "Trace Sport Stars Russia (720p)",
+      "newUrl": "https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 787
+      "ms": 1541
     },
     {
-      "name": "Sportivnyy (1080p)",
-      "newUrl": "https://live-3.otcnet.ru/sportivny/index.m3u8",
+      "name": "TV Centr International (576p)",
+      "newUrl": "https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1924
+      "ms": 1700
+    },
+    {
+      "name": "TV Rain (1080p)",
+      "newUrl": "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8",
+      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
+      "source": "Р РѕСЃСЃРёСЏ",
+      "ms": 327
+    },
+    {
+      "name": "Ugra-TV (1080p)",
+      "newUrl": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8",
+      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
+      "source": "Р РѕСЃСЃРёСЏ",
+      "ms": 884
+    },
+    {
+      "name": "Univer TV (1080p)",
+      "newUrl": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
+      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
+      "source": "Р РѕСЃСЃРёСЏ",
+      "ms": 1643
     }
   ],
   "slowList": [],
@@ -154,26 +141,14 @@
       "name": "Pervyy Respublikanskiy (576p)"
     },
     {
-      "name": "Shopping Live (720p)"
-    },
-    {
-      "name": "Dikij (576p)"
-    },
-    {
       "name": "RT Documentary Russian (1080p)"
     },
     {
-      "name": "Antenna Sicilia"
+      "name": "Smotrim 100% Detskoe (1080p)"
     },
     {
-      "name": "Rtv 38 Toscana"
-    },
-    {
-      "name": "Star Channel Finland"
-    },
-    {
-      "name": "Telecolor Sicilia"
+      "name": "Sportivnyy (1080p)"
     }
   ],
-  "durationSec": 757
+  "durationSec": 607
 }
