@@ -1,154 +1,198 @@
 {
-  "updatedAt": "2026-11-26T15:28:11.101Z",
-  "checked": 394,
-  "quickAlive": 389,
-  "playingFast": 384,
+  "updatedAt": "2026-11-27T15:17:51.491Z",
+  "checked": 399,
+  "quickAlive": 394,
+  "playingFast": 387,
   "playingSlow": 0,
-  "broken": 5,
+  "broken": 7,
   "replaced": 2,
-  "added": 13,
-  "removed": 3,
+  "added": 17,
+  "removed": 5,
   "removedList": [
     {
-      "name": "El Pingüino TV",
-      "url": "https://redirector.dps.live/hls/pinguinotv/playlist.m3u8",
+      "name": "S1 (1080p)",
+      "url": "https://sitv.ru/hls/stv.m3u8",
       "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
     },
     {
-      "name": "Pervyy Respublikanskiy (576p)",
-      "url": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
+      "name": "Sever",
+      "url": "https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8",
       "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
     },
     {
-      "name": "Sportivnyy (1080p)",
-      "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
+      "name": "Rybalka i okhota (576p)",
+      "url": "https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2",
+      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
+    },
+    {
+      "name": "Вести ФМ",
+      "url": "https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417",
+      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
+    },
+    {
+      "name": "Соловьёв Live",
+      "url": "https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37",
       "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
     }
   ],
   "replacedList": [
     {
       "name": "RT Documentary Russian (1080p)",
-      "newUrl": "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8",
-      "replacedUrl": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+      "newUrl": "https://streaming.thestream.cyou/live/554.m3u8",
+      "replacedUrl": "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
       "source": "iptv-org",
-      "ms": 1120
+      "ms": 2804
     },
     {
-      "name": "Smotrim 100% Detskoe (1080p)",
-      "newUrl": "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8",
-      "replacedUrl": "https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8",
+      "name": "RT Español Ⓖ",
+      "newUrl": "https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8",
+      "replacedUrl": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
       "source": "iptv-org",
-      "ms": 1735
+      "ms": 192
     },
     {
-      "name": "City Eden KinoDrama",
-      "newUrl": "https://cityeden.catcast.tv/content/45269/index.m3u8",
+      "name": "Dom kino (1080p)",
+      "newUrl": "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1558
+      "ms": 1220
     },
     {
-      "name": "City Eden KinoFantastika",
-      "newUrl": "https://cityeden.catcast.tv/content/45268/index.m3u8",
+      "name": "Nashe Novoe Kino (1080p)",
+      "newUrl": "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 2736
+      "ms": 1224
     },
     {
-      "name": "City Eden KinoKlassika",
-      "newUrl": "https://cityeden.catcast.tv/content/34185/index.m3u8",
+      "name": "Priklyucheniya (576p)",
+      "newUrl": "https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 2121
+      "ms": 1491
     },
     {
-      "name": "City Eden KinoKomediya",
-      "newUrl": "https://cityeden.catcast.tv/content/41331/index.m3u8",
+      "name": "RT Documentary Russian (1080p)",
+      "newUrl": "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 2348
+      "ms": 3195
     },
     {
-      "name": "City Eden KinoMistika",
-      "newUrl": "https://cityeden.catcast.tv/content/40783/index.m3u8",
+      "name": "Rybalka i okhota (576p)",
+      "newUrl": "https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 3169
+      "ms": 1761
     },
     {
-      "name": "Pervyy Respublikanskiy (576p)",
-      "newUrl": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
+      "name": "S1 (1080p)",
+      "newUrl": "https://sitv.ru/hls/stv.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 736
+      "ms": 549
     },
     {
-      "name": "Shopping Live (720p)",
-      "newUrl": "https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8",
+      "name": "Sever (1080p)",
+      "newUrl": "https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 705
+      "ms": 47
     },
     {
-      "name": "Smotrim 100% Detskoe (1080p)",
-      "newUrl": "https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8",
+      "name": "Star Family (1080p)",
+      "newUrl": "https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 21
+      "ms": 655
     },
     {
-      "name": "Trace Sport Stars Russia (720p)",
-      "newUrl": "https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8",
+      "name": "Telplus (360p)",
+      "newUrl": "https://streaming.astrakhan.ru/telplushd/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1541
+      "ms": 2101
     },
     {
-      "name": "TV Centr International (576p)",
-      "newUrl": "https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8",
+      "name": "Vesti FM (720p)",
+      "newUrl": "https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1700
+      "ms": 5427
     },
     {
-      "name": "TV Rain (1080p)",
-      "newUrl": "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8",
+      "name": "viju Nature (1080p)",
+      "newUrl": "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 327
+      "ms": 1243
     },
     {
-      "name": "Ugra-TV (1080p)",
-      "newUrl": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8",
+      "name": "viju+ Sport (1080p)",
+      "newUrl": "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 884
+      "ms": 455
     },
     {
-      "name": "Univer TV (1080p)",
-      "newUrl": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
+      "name": "Vitrina TV (720p)",
+      "newUrl": "https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1643
+      "ms": 1263
+    },
+    {
+      "name": "VIVA Russia (1080p)",
+      "newUrl": "https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8",
+      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
+      "source": "Р РѕСЃСЃРёСЏ",
+      "ms": 87
+    },
+    {
+      "name": "Vmeste-RF (1080p)",
+      "newUrl": "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8",
+      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
+      "source": "Р РѕСЃСЃРёСЏ",
+      "ms": 525
+    },
+    {
+      "name": "Volleyball (1080p)",
+      "newUrl": "https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8",
+      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
+      "source": "Р РѕСЃСЃРёСЏ",
+      "ms": 833
+    },
+    {
+      "name": "Zdorovoe TV (576p)",
+      "newUrl": "https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8",
+      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
+      "source": "Р РѕСЃСЃРёСЏ",
+      "ms": 3908
     }
   ],
   "slowList": [],
   "brokenList": [
     {
-      "name": "El Pingüino TV"
+      "name": "S1 (1080p)"
     },
     {
-      "name": "Pervyy Respublikanskiy (576p)"
+      "name": "Sever"
     },
     {
       "name": "RT Documentary Russian (1080p)"
     },
     {
-      "name": "Smotrim 100% Detskoe (1080p)"
+      "name": "Rybalka i okhota (576p)"
     },
     {
-      "name": "Sportivnyy (1080p)"
+      "name": "Вести ФМ"
+    },
+    {
+      "name": "Соловьёв Live"
+    },
+    {
+      "name": "RT Español Ⓖ"
     }
   ],
-  "durationSec": 607
+  "durationSec": 713
 }

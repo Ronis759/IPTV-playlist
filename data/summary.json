@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-11-26T15:28:11.101Z",
-  "total": 399,
+  "updatedAt": "2026-11-27T15:17:51.491Z",
+  "total": 406,
   "withArchive": 0,
   "categories": [
     {
       "id": "basic",
       "title": "Базовые",
-      "count": 50
+      "count": 52
     },
     {
       "id": "by",
       "title": "Беларусь",
-      "count": 3
+      "count": 2
     },
     {
       "id": "entertainment",
       "title": "Развлекательные",
-      "count": 9
+      "count": 10
     },
     {
       "id": "education",
       "title": "Познавательные",
-      "count": 17
+      "count": 19
     },
     {
       "id": "movies",
       "title": "Кино",
-      "count": 16
+      "count": 21
     },
     {
       "id": "music",
       "title": "Музыка",
-      "count": 50
+      "count": 51
     },
     {
       "id": "kids",
@@ -41,12 +41,12 @@
     {
       "id": "sport",
       "title": "Спорт",
-      "count": 7
+      "count": 9
     },
     {
       "id": "other",
       "title": "Разное",
-      "count": 243
+      "count": 238
     }
   ]
 }

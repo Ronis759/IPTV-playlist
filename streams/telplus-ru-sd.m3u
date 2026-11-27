@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telplus.ru@SD" tvg-logo="https://i.imgur.com/1zbcZ3p.png" group-title="Базовые" tvg-name="Telplus (360p)",Telplus (360p)
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
-# Музыка В· 2026-11-26 В· РєР°РЅР°Р»РѕРІ: 50
+# Музыка В· 2026-11-27 В· РєР°РЅР°Р»РѕРІ: 51
 #EXTINF:-1 tvg-id="botflix-radioo" tvg-logo="https://i.imgur.com/JBEM8lP.png" group-title="Музыка" tvg-name="Botflix Radioo",Botflix Radioo
 https://hls.botflix.tv/radioo/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenClassicMusic.ru@HD" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Музыка" tvg-name="City Eden Classic Music",City Eden Classic Music
@@ -52,8 +52,6 @@ https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-kiss-kiss-napoli-tv" tvg-logo="https://hostux.pics/images/2026/09/11/12_radio_kiss_kiss_napoli_tv9bfaa8b980862ccb.png" group-title="Музыка" tvg-name="Radio Kiss Kiss Napoli TV",Radio Kiss Kiss Napoli TV
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="radio-libert" tvg-logo="https://i.imgur.com/HRvPlf5.png" group-title="Музыка" tvg-name="Radio Libertà",Radio Libertà
-https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="RadioMir.by@SD" tvg-logo="https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg" group-title="Музыка" tvg-name="Radio Mir (720p)",Radio Mir (720p)
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-monte-kronio-tv-r-m-k" tvg-logo="https://i.imgur.com/t0I2Shi.jpg" group-title="Музыка" tvg-name="Radio Monte Kronio Tv (R.M.K.)",Radio Monte Kronio Tv (R.M.K.)
@@ -98,5 +96,9 @@ https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc2626
 https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 #EXTINF:-1 tvg-id="trsp-tele-radio-san-pietro" tvg-logo="https://hostux.pics/images/2026/09/11/31_trsp_tele_radio_san_pietroe201f062394d1eaa.png" group-title="Музыка" tvg-name="TRSP Tele Radio San Pietro",TRSP Tele Radio San Pietro
 https://5a1178b42cc03.streamlock.net/trsptv/trsptv/playlist.m3u8
+#EXTINF:-1 tvg-id="VestiFM.ru@HD" tvg-logo="https://i.imgur.com/ZBHqSZj.png" group-title="Музыка" tvg-name="Vesti FM (720p)",Vesti FM (720p)
+https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="vintage-radio-tv" tvg-logo="https://i.imgur.com/n3LtBNT.jpg" group-title="Музыка" tvg-name="Vintage Radio Tv",Vintage Radio Tv
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru@SD" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="Музыка" tvg-name="VIVA Russia (1080p)",VIVA Russia (1080p)
+https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8

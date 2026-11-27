@@ -1,5 +1,5 @@
 #EXTM3U
-# Кино В· 2026-11-26 В· РєР°РЅР°Р»РѕРІ: 16
+# Кино В· 2026-11-27 В· РєР°РЅР°Р»РѕРІ: 21
 #EXTINF:-1 tvg-id="smotrim-chestnyy-detektiv" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/444/241/8.png" group-title="Кино" tvg-name="Смотрим: Честный Детектив",Смотрим: Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="action-hollywood-movies" tvg-logo="" group-title="Кино" tvg-name="Action Hollywood Movies",Action Hollywood Movies
@@ -26,9 +26,19 @@ https://cityeden.catcast.tv/content/34185/index.m3u8
 https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoMistika.ru@HD" tvg-logo="https://i.imgur.com/s1Pid0K.png" group-title="Кино" tvg-name="City Eden KinoMistika",City Eden KinoMistika
 https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Кино" tvg-name="Dom kino (1080p)",Dom kino (1080p)
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dorama.ru@SD" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="Кино" tvg-name="Dorama (576p)",Dorama (576p)
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HorosheeKino.ru@SD" tvg-logo="https://i.imgur.com/ZbOqfy4.png" group-title="Кино" tvg-name="Horoshee Kino (720p)",Horoshee Kino (720p)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 tvg-id="Kinoseriya.ru@SD" tvg-logo="https://i.imgur.com/iao7zLZ.png" group-title="Кино" tvg-name="Kinoseriya (576p)",Kinoseriya (576p)
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" group-title="Кино" tvg-name="Nashe Novoe Kino (1080p)",Nashe Novoe Kino (1080p)
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Priklyucheniya.ru@SD" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" group-title="Кино" tvg-name="Priklyucheniya (576p)",Priklyucheniya (576p)
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="StarFamily.ru@SD" tvg-logo="https://i.imgur.com/eGuGHnZ.png" group-title="Кино" tvg-name="Star Family (1080p)",Star Family (1080p)
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuNature.ru@SD" tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="Кино" tvg-name="viju Nature (1080p)",viju Nature (1080p)
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8

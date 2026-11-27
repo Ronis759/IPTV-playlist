@@ -1,5 +1,5 @@
 #EXTM3U
-# Развлекательные В· 2026-11-26 В· РєР°РЅР°Р»РѕРІ: 9
+# Развлекательные В· 2026-11-27 В· РєР°РЅР°Р»РѕРІ: 10
 #EXTINF:-1 tvg-id="DryBarComedy.us" tvg-logo="https://i.imgur.com/EldlmTp.png" group-title="Развлекательные" tvg-name="Drybar Comedy",Drybar Comedy
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Muzhskoy.ru@HD" tvg-logo="https://i.imgur.com/xyztpBf.png" group-title="Развлекательные" tvg-name="Muzhskoy HD (1080p)",Muzhskoy HD (1080p)
@@ -18,3 +18,5 @@ https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8
 https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Talkshow.ru@SD" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/431/82.jpg" group-title="Развлекательные" tvg-name="Smotrim 100% Talk-show (1080p)",Smotrim 100% Talk-show (1080p)
 https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
+#EXTINF:-1 tvg-id="VitrinaTV.ru@SD" tvg-logo="https://i.imgur.com/lzQsVfn.png" group-title="Развлекательные" tvg-name="Vitrina TV (720p)",Vitrina TV (720p)
+https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8

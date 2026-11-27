@@ -1,5 +1,5 @@
 #EXTM3U
-# Базовые В· 2026-11-26 В· РєР°РЅР°Р»РѕРІ: 50
+# Базовые В· 2026-11-27 В· РєР°РЅР°Р»РѕРІ: 52
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Базовые" tvg-name="360° (1080p)",360° (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Базовые" tvg-name="360° (1080p)",360° (1080p)
@@ -78,12 +78,14 @@ https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="Базовые" tvg-name="Sankt-Peterburg HD (720p)",Sankt-Peterburg HD (720p)
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
-#EXTINF:-1 tvg-id="Sever.ru@SD" tvg-logo="https://i.imgur.com/sTOQLYl.png" group-title="Базовые" tvg-name="Sever",Sever
+#EXTINF:-1 tvg-id="Sever.ru@SD" tvg-logo="https://i.imgur.com/sTOQLYl.png" group-title="Базовые" tvg-name="Sever (1080p)",Sever (1080p)
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Surgut24.ru@SD" tvg-logo="https://i.imgur.com/OxvqXMt.png" group-title="Базовые" tvg-name="Surgut 24",Surgut 24
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 tvg-id="TelekanalKrasnodar.ru@HD" tvg-logo="https://i.imgur.com/YVtutzp.png" group-title="Базовые" tvg-name="Telekanal Krasnodar (1080p)",Telekanal Krasnodar (1080p)
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Telplus.ru@SD" tvg-logo="https://i.imgur.com/1zbcZ3p.png" group-title="Базовые" tvg-name="Telplus (360p)",Telplus (360p)
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 #EXTINF:-1 tvg-id="tsn-tele-sondrio-news" tvg-logo="https://i.imgur.com/24Anl5o.png" group-title="Базовые" tvg-name="TSN Tele Sondrio News",TSN Tele Sondrio News
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/tracks-v1a1/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="TVCentrInternational.ru@SD" tvg-logo="https://i.imgur.com/tsCOnBW.png" group-title="Базовые" tvg-name="TV Centr International (576p)",TV Centr International (576p)
@@ -96,6 +98,8 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VidusdaugavasTelevizija.lv" tvg-logo="https://i.imgur.com/L5U3PQR.png" group-title="Базовые" tvg-name="Vidusdaugavas Televīzija",Vidusdaugavas Televīzija
 https://straume.vdtv.lv/vdtv2/index.m3u8
+#EXTINF:-1 tvg-id="VmesteRF.ru@SD" tvg-logo="https://i.imgur.com/KI1qZNc.png" group-title="Базовые" tvg-name="Vmeste-RF (1080p)",Vmeste-RF (1080p)
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="zerouno-tv-news" tvg-logo="https://i.imgur.com/vxRzyjE.png" group-title="Базовые" tvg-name="Zerouno Tv News",Zerouno Tv News
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 #EXTINF:-1 tvg-id="rch_47" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Базовые" tvg-name="日テレNEWS",日テレNEWS

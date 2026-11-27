@@ -1,7 +1,7 @@
 #EXTM3U
-# IPTV-playlist В· 2026-11-26 В· РєР°РЅР°Р»РѕРІ: 399 В· РїСЂРѕРІРµСЂРµРЅРѕ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё
+# IPTV-playlist В· 2026-11-27 В· РєР°РЅР°Р»РѕРІ: 406 В· РїСЂРѕРІРµСЂРµРЅРѕ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё
 
-# ===== Базовые (50) =====
+# ===== Базовые (52) =====
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Базовые" tvg-name="360° (1080p)",360° (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Базовые" tvg-name="360° (1080p)",360° (1080p)
@@ -80,12 +80,14 @@ https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="Базовые" tvg-name="Sankt-Peterburg HD (720p)",Sankt-Peterburg HD (720p)
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
-#EXTINF:-1 tvg-id="Sever.ru@SD" tvg-logo="https://i.imgur.com/sTOQLYl.png" group-title="Базовые" tvg-name="Sever",Sever
+#EXTINF:-1 tvg-id="Sever.ru@SD" tvg-logo="https://i.imgur.com/sTOQLYl.png" group-title="Базовые" tvg-name="Sever (1080p)",Sever (1080p)
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Surgut24.ru@SD" tvg-logo="https://i.imgur.com/OxvqXMt.png" group-title="Базовые" tvg-name="Surgut 24",Surgut 24
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 tvg-id="TelekanalKrasnodar.ru@HD" tvg-logo="https://i.imgur.com/YVtutzp.png" group-title="Базовые" tvg-name="Telekanal Krasnodar (1080p)",Telekanal Krasnodar (1080p)
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Telplus.ru@SD" tvg-logo="https://i.imgur.com/1zbcZ3p.png" group-title="Базовые" tvg-name="Telplus (360p)",Telplus (360p)
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 #EXTINF:-1 tvg-id="tsn-tele-sondrio-news" tvg-logo="https://i.imgur.com/24Anl5o.png" group-title="Базовые" tvg-name="TSN Tele Sondrio News",TSN Tele Sondrio News
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/tracks-v1a1/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="TVCentrInternational.ru@SD" tvg-logo="https://i.imgur.com/tsCOnBW.png" group-title="Базовые" tvg-name="TV Centr International (576p)",TV Centr International (576p)
@@ -98,20 +100,20 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VidusdaugavasTelevizija.lv" tvg-logo="https://i.imgur.com/L5U3PQR.png" group-title="Базовые" tvg-name="Vidusdaugavas Televīzija",Vidusdaugavas Televīzija
 https://straume.vdtv.lv/vdtv2/index.m3u8
+#EXTINF:-1 tvg-id="VmesteRF.ru@SD" tvg-logo="https://i.imgur.com/KI1qZNc.png" group-title="Базовые" tvg-name="Vmeste-RF (1080p)",Vmeste-RF (1080p)
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="zerouno-tv-news" tvg-logo="https://i.imgur.com/vxRzyjE.png" group-title="Базовые" tvg-name="Zerouno Tv News",Zerouno Tv News
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 #EXTINF:-1 tvg-id="rch_47" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Базовые" tvg-name="日テレNEWS",日テレNEWS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 
-# ===== Беларусь (3) =====
-#EXTINF:-1 tvg-id="Belarus1.by" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Belarus_1_logo.svg/960px-Belarus_1_logo.svg.png" group-title="Беларусь" tvg-name="Беларусь 1",Беларусь 1
-https://edge55.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+# ===== Беларусь (2) =====
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Belarus_24_logo.svg/960px-Belarus_24_logo.svg.png" group-title="Беларусь" tvg-name="Беларусь 24",Беларусь 24
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus4Vitebsk.by" tvg-logo="https://i.imgur.com/TW6Ap71.png" group-title="Беларусь" tvg-name="Belarus 4 Vitebsk Ⓢ",Belarus 4 Vitebsk Ⓢ
 https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
 
-# ===== Развлекательные (9) =====
+# ===== Развлекательные (10) =====
 #EXTINF:-1 tvg-id="DryBarComedy.us" tvg-logo="https://i.imgur.com/EldlmTp.png" group-title="Развлекательные" tvg-name="Drybar Comedy",Drybar Comedy
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Muzhskoy.ru@HD" tvg-logo="https://i.imgur.com/xyztpBf.png" group-title="Развлекательные" tvg-name="Muzhskoy HD (1080p)",Muzhskoy HD (1080p)
@@ -130,8 +132,10 @@ https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8
 https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Talkshow.ru@SD" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/431/82.jpg" group-title="Развлекательные" tvg-name="Smotrim 100% Talk-show (1080p)",Smotrim 100% Talk-show (1080p)
 https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
+#EXTINF:-1 tvg-id="VitrinaTV.ru@SD" tvg-logo="https://i.imgur.com/lzQsVfn.png" group-title="Развлекательные" tvg-name="Vitrina TV (720p)",Vitrina TV (720p)
+https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
 
-# ===== Познавательные (17) =====
+# ===== Познавательные (19) =====
 #EXTINF:-1 tvg-id="Dikij.ru@SD" tvg-logo="https://i.imgur.com/VDXDiPC.png" group-title="Познавательные" tvg-name="Dikij (576p)",Dikij (576p)
 https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-logo="https://i.imgur.com/5IxIFJ0.png" group-title="Познавательные" tvg-name="Discovery Channel",Discovery Channel
@@ -151,9 +155,11 @@ https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="ProBusiness.ru@SD" tvg-logo="https://i.imgur.com/1u8KvTD.png" group-title="Познавательные" tvg-name="Pro Business (720p)",Pro Business (720p)
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Познавательные" tvg-name="RT Documentary Russian (1080p)",RT Documentary Russian (1080p)
-https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
-#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Познавательные" tvg-name="RT Documentary Russian (1080p)",RT Documentary Russian (1080p)
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Познавательные" tvg-name="RT Documentary Russian (1080p)",RT Documentary Russian (1080p)
+https://streaming.thestream.cyou/live/554.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Познавательные" tvg-name="RT Documentary Russian (1080p)",RT Documentary Russian (1080p)
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="Rybalkaiokhota.ru@SD" tvg-logo="https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png" group-title="Познавательные" tvg-name="Rybalka i okhota (576p)",Rybalka i okhota (576p)
 https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="TheExplorers.ru@SD" tvg-logo="https://www.oreol.tv/img/news/Logo_The_Explorers_Bleu.png" group-title="Познавательные" tvg-name="The Explorers (1080p)",The Explorers (1080p)
@@ -166,8 +172,10 @@ https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1 tvg-id="UniverTV.ru@SD" tvg-logo="https://i.imgur.com/r3u0mxr.png" group-title="Познавательные" tvg-name="Univer TV (1080p)",Univer TV (1080p)
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZdorovoeTV.ru@SD" tvg-logo="https://i.imgur.com/jedtE5l.png" group-title="Познавательные" tvg-name="Zdorovoe TV (576p)",Zdorovoe TV (576p)
+https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 
-# ===== Кино (16) =====
+# ===== Кино (21) =====
 #EXTINF:-1 tvg-id="smotrim-chestnyy-detektiv" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/444/241/8.png" group-title="Кино" tvg-name="Смотрим: Честный Детектив",Смотрим: Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="action-hollywood-movies" tvg-logo="" group-title="Кино" tvg-name="Action Hollywood Movies",Action Hollywood Movies
@@ -194,14 +202,24 @@ https://cityeden.catcast.tv/content/34185/index.m3u8
 https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoMistika.ru@HD" tvg-logo="https://i.imgur.com/s1Pid0K.png" group-title="Кино" tvg-name="City Eden KinoMistika",City Eden KinoMistika
 https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Кино" tvg-name="Dom kino (1080p)",Dom kino (1080p)
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dorama.ru@SD" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="Кино" tvg-name="Dorama (576p)",Dorama (576p)
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HorosheeKino.ru@SD" tvg-logo="https://i.imgur.com/ZbOqfy4.png" group-title="Кино" tvg-name="Horoshee Kino (720p)",Horoshee Kino (720p)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 tvg-id="Kinoseriya.ru@SD" tvg-logo="https://i.imgur.com/iao7zLZ.png" group-title="Кино" tvg-name="Kinoseriya (576p)",Kinoseriya (576p)
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" group-title="Кино" tvg-name="Nashe Novoe Kino (1080p)",Nashe Novoe Kino (1080p)
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Priklyucheniya.ru@SD" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" group-title="Кино" tvg-name="Priklyucheniya (576p)",Priklyucheniya (576p)
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="StarFamily.ru@SD" tvg-logo="https://i.imgur.com/eGuGHnZ.png" group-title="Кино" tvg-name="Star Family (1080p)",Star Family (1080p)
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuNature.ru@SD" tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="Кино" tvg-name="viju Nature (1080p)",viju Nature (1080p)
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 
-# ===== Музыка (50) =====
+# ===== Музыка (51) =====
 #EXTINF:-1 tvg-id="botflix-radioo" tvg-logo="https://i.imgur.com/JBEM8lP.png" group-title="Музыка" tvg-name="Botflix Radioo",Botflix Radioo
 https://hls.botflix.tv/radioo/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenClassicMusic.ru@HD" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Музыка" tvg-name="City Eden Classic Music",City Eden Classic Music
@@ -254,8 +272,6 @@ https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-kiss-kiss-napoli-tv" tvg-logo="https://hostux.pics/images/2026/09/11/12_radio_kiss_kiss_napoli_tv9bfaa8b980862ccb.png" group-title="Музыка" tvg-name="Radio Kiss Kiss Napoli TV",Radio Kiss Kiss Napoli TV
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="radio-libert" tvg-logo="https://i.imgur.com/HRvPlf5.png" group-title="Музыка" tvg-name="Radio Libertà",Radio Libertà
-https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="RadioMir.by@SD" tvg-logo="https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg" group-title="Музыка" tvg-name="Radio Mir (720p)",Radio Mir (720p)
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-monte-kronio-tv-r-m-k" tvg-logo="https://i.imgur.com/t0I2Shi.jpg" group-title="Музыка" tvg-name="Radio Monte Kronio Tv (R.M.K.)",Radio Monte Kronio Tv (R.M.K.)
@@ -300,8 +316,12 @@ https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc2626
 https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 #EXTINF:-1 tvg-id="trsp-tele-radio-san-pietro" tvg-logo="https://hostux.pics/images/2026/09/11/31_trsp_tele_radio_san_pietroe201f062394d1eaa.png" group-title="Музыка" tvg-name="TRSP Tele Radio San Pietro",TRSP Tele Radio San Pietro
 https://5a1178b42cc03.streamlock.net/trsptv/trsptv/playlist.m3u8
+#EXTINF:-1 tvg-id="VestiFM.ru@HD" tvg-logo="https://i.imgur.com/ZBHqSZj.png" group-title="Музыка" tvg-name="Vesti FM (720p)",Vesti FM (720p)
+https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="vintage-radio-tv" tvg-logo="https://i.imgur.com/n3LtBNT.jpg" group-title="Музыка" tvg-name="Vintage Radio Tv",Vintage Radio Tv
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru@SD" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="Музыка" tvg-name="VIVA Russia (1080p)",VIVA Russia (1080p)
+https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8
 
 # ===== Детские (4) =====
 #EXTINF:-1 tvg-id="BeJoyKids.it" tvg-logo="https://i.imgur.com/zuR9Go5.png" group-title="Детские" tvg-name="BeJoy.Kids",BeJoy.Kids
@@ -313,7 +333,7 @@ https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Detskoe.ru@SD" tvg-logo="https://i.imgur.com/1hsNeTa.png" group-title="Детские" tvg-name="Smotrim 100% Detskoe (1080p)",Smotrim 100% Detskoe (1080p)
 https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8
 
-# ===== Спорт (7) =====
+# ===== Спорт (9) =====
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="Спорт" tvg-name="Astrahan.Ru Sport (720p)",Astrahan.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Russia" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Спорт" tvg-name="Eurosport 1 Russia (1080p)",Eurosport 1 Russia (1080p)
@@ -328,8 +348,12 @@ https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr@Russia" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Спорт" tvg-name="Trace Sport Stars Russia (720p)",Trace Sport Stars Russia (720p)
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Спорт" tvg-name="viju+ Sport (1080p)",viju+ Sport (1080p)
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Volleyball.ru@SD" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/media/59/20/592021ab74bddb93907e2b18997215a9.png" group-title="Спорт" tvg-name="Volleyball (1080p)",Volleyball (1080p)
+https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 
-# ===== Разное (243) =====
+# ===== Разное (238) =====
 #EXTINF:-1 tvg-id="MasPerfil.ar" tvg-logo="https://i.imgur.com/3wZdPwN.png" group-title="Разное" tvg-name="+Perfil",+Perfil
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="111-tv" tvg-logo="https://i.imgur.com/4jY8yAI.png" group-title="Разное" tvg-name="111 Tv",111 Tv
@@ -342,12 +366,8 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 #EXTINF:-1 tvg-id="Arkhyz24.ru" tvg-logo="https://i.imgur.com/mve0sSS.png" group-title="Разное" tvg-name="Архыз 24",Архыз 24
 https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="vesti-fm" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/371/033/8.png" group-title="Разное" tvg-name="Вести ФМ",Вести ФМ
-https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417
 #EXTINF:-1 tvg-id="vistel" tvg-logo="https://i.imgur.com/MbM0E6L.png" group-title="Разное" tvg-name="Вистел",Вистел
 https://live.vtv.mk/live/vtv/chunks.m3u8
-#EXTINF:-1 tvg-id="SolovyovLive.ru" tvg-logo="https://i.imgur.com/v0OYe1d.png" group-title="Разное" tvg-name="Соловьёв Live",Соловьёв Live
-https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37
 #EXTINF:-1 tvg-id="[ABP Ananda](https://bengali.abplive.com/)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/500px-ABP_Ananda_logo.svg.png" group-title="Разное" tvg-name="ABP Ananda",ABP Ananda
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
 #EXTINF:-1 tvg-id="acheloostv.gr" tvg-logo="https://i.imgur.com/5SVMxcu.png" group-title="Разное" tvg-name="Acheloos",Acheloos
@@ -468,8 +488,6 @@ https://live.streams.ovh:8081/gnomitv/index.m3u8
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
 #EXTINF:-1 tvg-id="GyongyosiTV.hu" tvg-logo="https://i.imgur.com/RHgaPCk.png" group-title="Разное" tvg-name="Gyöngyös TV",Gyöngyös TV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HandicapTV.fr" tvg-logo="" group-title="Разное" tvg-name="Handicap TV",Handicap TV
-https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 tvg-id="h-viz-tv" tvg-logo="" group-title="Разное" tvg-name="Héviz TV",Héviz TV
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="hightv.gr" tvg-logo="https://i.imgur.com/wHzCGry.png" group-title="Разное" tvg-name="High TV",High TV
@@ -637,7 +655,7 @@ https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="RNE.es" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Разное" tvg-name="RNE para todos",RNE para todos
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png" group-title="Разное" tvg-name="RT Español Ⓖ",RT Español Ⓖ
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
 #EXTINF:-1 tvg-id="rtc-quarta-rete" tvg-logo="https://i.imgur.com/rFGA6qL.png" group-title="Разное" tvg-name="RTC Quarta Rete",RTC Quarta Rete
 https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL.102.5.HD.it" tvg-logo="https://i.imgur.com/KdissvS.png" group-title="Разное" tvg-name="RTL 102.5",RTL 102.5
@@ -720,8 +738,6 @@ https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
 https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="tele-ritmo" tvg-logo="https://hostux.pics/images/2026/09/11/27_tele_ritmo751eb955cbd7dec7.png" group-title="Разное" tvg-name="Tele Ritmo",Tele Ritmo
 https://ed04.top-ix.org/avtvlive/teleritmo/streaming/playlist.m3u8
-#EXTINF:-1 tvg-id="tele-stabia-gigli-tv" tvg-logo="https://hostux.pics/images/2026/09/11/28_tele_stabia_gigli_tv41f3f911222a7901.png" group-title="Разное" tvg-name="Tele Stabia / Gigli TV",Tele Stabia / Gigli TV
-https://stream3.aswifi.it/giglitv/live/index.m3u8
 #EXTINF:-1 tvg-id="TeleTchad.td" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png" group-title="Разное" tvg-name="Télé Tchad Ⓢ",Télé Tchad Ⓢ
 https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="tele-tricolore" tvg-logo="https://i.imgur.com/A2XouAd.png" group-title="Разное" tvg-name="Tele Tricolore",Tele Tricolore
@@ -748,8 +764,6 @@ https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="televallo-trapani" tvg-logo="https://i.imgur.com/P6zuiRH.png" group-title="Разное" tvg-name="Televallo Trapani",Televallo Trapani
 https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCanaria.es" tvg-logo="https://i.imgur.com/68LNS8e.png" group-title="Разное" tvg-name="Televisión Canaria Ⓨ",Televisión Canaria Ⓨ
-https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TGCom.it" tvg-logo="https://i.imgur.com/xautVD8.png" group-title="Разное" tvg-name="TGCOM 24",TGCOM 24
 https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 #EXTINF:-1 tvg-id="tgs-telegiornale-di-sicilia" tvg-logo="https://hostux.pics/images/2026/09/11/29_tgs_telegiornale_di_sicilia6c915db0091ed7a6.png" group-title="Разное" tvg-name="TGS Telegiornale di Sicilia",TGS Telegiornale di Sicilia
