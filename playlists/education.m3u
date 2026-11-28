@@ -1,5 +1,5 @@
 #EXTM3U
-# Познавательные В· 2026-11-27 В· РєР°РЅР°Р»РѕРІ: 19
+# Познавательные В· 2026-11-28 В· РєР°РЅР°Р»РѕРІ: 20
 #EXTINF:-1 tvg-id="Dikij.ru@SD" tvg-logo="https://i.imgur.com/VDXDiPC.png" group-title="Познавательные" tvg-name="Dikij (576p)",Dikij (576p)
 https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-logo="https://i.imgur.com/5IxIFJ0.png" group-title="Познавательные" tvg-name="Discovery Channel",Discovery Channel
@@ -38,3 +38,5 @@ https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZdorovoeTV.ru@SD" tvg-logo="https://i.imgur.com/jedtE5l.png" group-title="Познавательные" tvg-name="Zdorovoe TV (576p)",Zdorovoe TV (576p)
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZhivayaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/onNv1tM.png" group-title="Познавательные" tvg-name="Zhivaya Planeta (576p)",Zhivaya Planeta (576p)
+https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8

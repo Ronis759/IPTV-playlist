@@ -1,9 +1,7 @@
 #EXTM3U
-# Музыка В· 2026-11-27 В· РєР°РЅР°Р»РѕРІ: 51
+# Музыка В· 2026-11-28 В· РєР°РЅР°Р»РѕРІ: 49
 #EXTINF:-1 tvg-id="botflix-radioo" tvg-logo="https://i.imgur.com/JBEM8lP.png" group-title="Музыка" tvg-name="Botflix Radioo",Botflix Radioo
 https://hls.botflix.tv/radioo/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenClassicMusic.ru@HD" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Музыка" tvg-name="City Eden Classic Music",City Eden Classic Music
-https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1 tvg-id="DeluxeMusicDanceByKontor.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/500px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png" group-title="Музыка" tvg-name="DELUXE MUSIC DANCE BY KONTOR",DELUXE MUSIC DANCE BY KONTOR
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="DeLuxeMusicRap.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/500px-Deluxe_Rap_Logo_2023.svg.png" group-title="Музыка" tvg-name="DELUXE MUSIC RAP",DELUXE MUSIC RAP
@@ -60,8 +58,6 @@ https://648026e87a75e.streamlock.net/rmktv/rmktv/playlist.m3u8
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-padova-tv" tvg-logo="https://hostux.pics/images/2026/09/11/15_radio_padova_tv46f0206ee59dba68.png" group-title="Музыка" tvg-name="Radio Padova TV",Radio Padova TV
 https://58d921499d3d3.streamlock.net/RadioPadova/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="radio-piter-pan-tv" tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radiopiterpan.png" group-title="Музыка" tvg-name="Radio Piter Pan Tv",Radio Piter Pan Tv
-https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.m3u8
 #EXTINF:-1 tvg-id="radio-punto-zero-tv" tvg-logo="https://hostux.pics/images/2026/09/11/16_radio_punto_zero_tvb293db9d29587093.png" group-title="Музыка" tvg-name="Radio Punto Zero TV",Radio Punto Zero TV
 https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-ritmo-80-tv" tvg-logo="https://hostux.pics/images/2026/09/11/17_radio_ritmo_80_tv695eff878745049b.png" group-title="Музыка" tvg-name="Radio Ritmo 80 TV",Radio Ritmo 80 TV

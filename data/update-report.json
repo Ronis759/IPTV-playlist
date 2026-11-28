@@ -1,198 +1,107 @@
 {
-  "updatedAt": "2026-11-27T15:17:51.491Z",
-  "checked": 399,
-  "quickAlive": 394,
-  "playingFast": 387,
+  "updatedAt": "2026-11-28T14:30:12.405Z",
+  "checked": 406,
+  "quickAlive": 389,
+  "playingFast": 385,
   "playingSlow": 0,
-  "broken": 7,
-  "replaced": 2,
-  "added": 17,
-  "removed": 5,
+  "broken": 4,
+  "replaced": 0,
+  "added": 8,
+  "removed": 4,
   "removedList": [
     {
-      "name": "S1 (1080p)",
-      "url": "https://sitv.ru/hls/stv.m3u8",
+      "name": "OTV-Prim (720p)",
+      "url": "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8",
       "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
     },
     {
-      "name": "Sever",
-      "url": "https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8",
+      "name": "Dikij (576p)",
+      "url": "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8",
       "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
     },
     {
-      "name": "Rybalka i okhota (576p)",
-      "url": "https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2",
+      "name": "SONGTV Russia",
+      "url": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
       "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
     },
     {
-      "name": "Вести ФМ",
-      "url": "https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417",
-      "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
-    },
-    {
-      "name": "Соловьёв Live",
-      "url": "https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37",
+      "name": "T13 en vivo",
+      "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
       "why": "РЅРµС‚ СЂР°Р±РѕС‡РµРіРѕ РїРѕС‚РѕРєР°"
     }
   ],
   "replacedList": [
     {
-      "name": "RT Documentary Russian (1080p)",
-      "newUrl": "https://streaming.thestream.cyou/live/554.m3u8",
-      "replacedUrl": "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
-      "source": "iptv-org",
-      "ms": 2804
-    },
-    {
-      "name": "RT Español Ⓖ",
-      "newUrl": "https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8",
-      "replacedUrl": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
-      "source": "iptv-org",
-      "ms": 192
-    },
-    {
-      "name": "Dom kino (1080p)",
-      "newUrl": "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
+      "name": "Dikij (576p)",
+      "newUrl": "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1220
+      "ms": 2398
     },
     {
-      "name": "Nashe Novoe Kino (1080p)",
-      "newUrl": "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8",
+      "name": "KN Music TV (1080p)",
+      "newUrl": "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1224
+      "ms": 1176
     },
     {
-      "name": "Priklyucheniya (576p)",
-      "newUrl": "https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8",
+      "name": "OTV-Prim (720p)",
+      "newUrl": "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1491
+      "ms": 251
     },
     {
-      "name": "RT Documentary Russian (1080p)",
-      "newUrl": "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+      "name": "SONGTV Russia",
+      "newUrl": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 3195
+      "ms": 4534
     },
     {
-      "name": "Rybalka i okhota (576p)",
-      "newUrl": "https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2",
+      "name": "Sportivnyy (1080p)",
+      "newUrl": "https://live-3.otcnet.ru/sportivny/index.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1761
+      "ms": 1566
     },
     {
-      "name": "S1 (1080p)",
-      "newUrl": "https://sitv.ru/hls/stv.m3u8",
+      "name": "viju TV1000 action (1080p)",
+      "newUrl": "https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 549
+      "ms": 1572
     },
     {
-      "name": "Sever (1080p)",
-      "newUrl": "https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8",
+      "name": "viju TV1000 russkoe (1080p)",
+      "newUrl": "https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 47
+      "ms": 597
     },
     {
-      "name": "Star Family (1080p)",
-      "newUrl": "https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8",
+      "name": "Zhivaya Planeta (576p)",
+      "newUrl": "https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8",
       "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
       "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 655
-    },
-    {
-      "name": "Telplus (360p)",
-      "newUrl": "https://streaming.astrakhan.ru/telplushd/playlist.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 2101
-    },
-    {
-      "name": "Vesti FM (720p)",
-      "newUrl": "https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 5427
-    },
-    {
-      "name": "viju Nature (1080p)",
-      "newUrl": "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1243
-    },
-    {
-      "name": "viju+ Sport (1080p)",
-      "newUrl": "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 455
-    },
-    {
-      "name": "Vitrina TV (720p)",
-      "newUrl": "https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 1263
-    },
-    {
-      "name": "VIVA Russia (1080p)",
-      "newUrl": "https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 87
-    },
-    {
-      "name": "Vmeste-RF (1080p)",
-      "newUrl": "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 525
-    },
-    {
-      "name": "Volleyball (1080p)",
-      "newUrl": "https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 833
-    },
-    {
-      "name": "Zdorovoe TV (576p)",
-      "newUrl": "https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8",
-      "replacedUrl": "РґРѕР±РѕСЂ РґР»СЏ Р±Р°Р»Р°РЅСЃР° РєР°С‚РµРіРѕСЂРёР№",
-      "source": "Р РѕСЃСЃРёСЏ",
-      "ms": 3908
+      "ms": 1574
     }
   ],
   "slowList": [],
   "brokenList": [
     {
-      "name": "S1 (1080p)"
+      "name": "OTV-Prim (720p)"
     },
     {
-      "name": "Sever"
+      "name": "Dikij (576p)"
     },
     {
-      "name": "RT Documentary Russian (1080p)"
+      "name": "SONGTV Russia"
     },
     {
-      "name": "Rybalka i okhota (576p)"
-    },
-    {
-      "name": "Вести ФМ"
-    },
-    {
-      "name": "Соловьёв Live"
-    },
-    {
-      "name": "RT Español Ⓖ"
+      "name": "T13 en vivo"
     }
   ],
-  "durationSec": 713
+  "durationSec": 1008
 }

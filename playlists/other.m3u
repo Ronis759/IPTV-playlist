@@ -1,5 +1,5 @@
 #EXTM3U
-# Разное В· 2026-11-27 В· РєР°РЅР°Р»РѕРІ: 238
+# Разное В· 2026-11-28 В· РєР°РЅР°Р»РѕРІ: 233
 #EXTINF:-1 tvg-id="MasPerfil.ar" tvg-logo="https://i.imgur.com/3wZdPwN.png" group-title="Разное" tvg-name="+Perfil",+Perfil
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="111-tv" tvg-logo="https://i.imgur.com/4jY8yAI.png" group-title="Разное" tvg-name="111 Tv",111 Tv
@@ -42,8 +42,6 @@ https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8
 #EXTINF:-1 tvg-id="bantan" tvg-logo="" group-title="Разное" tvg-name="Bantan",Bantan
 https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
-#EXTINF:-1 tvg-id="bella-e-monella-tv" tvg-logo="https://i.imgur.com/yZONx5f.png" group-title="Разное" tvg-name="Bella e Monella TV",Bella e Monella TV
-https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="bergamo-tv" tvg-logo="https://i.imgur.com/1doR6Vl.png" group-title="Разное" tvg-name="Bergamo Tv",Bergamo Tv
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="besttv.gr" tvg-logo="https://i.imgur.com/VA13E3w.png" group-title="Разное" tvg-name="Best TV",Best TV
@@ -118,8 +116,6 @@ https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
 https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 #EXTINF:-1 tvg-id="fascino-tv" tvg-logo="https://i.imgur.com/4XYYY5B.png" group-title="Разное" tvg-name="Fascino Tv",Fascino Tv
 https://64b16f23efbee.streamlock.net/canale157/canale157/playlist.m3u8
-#EXTINF:-1 tvg-id="feh-rv-rtv" tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" group-title="Разное" tvg-name="FehérvárTV",FehérvárTV
-https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Food.Network.it" tvg-logo="https://i.imgur.com/i60OYr9.png" group-title="Разное" tvg-name="Food Network",Food Network
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="GamberoRosso.it" tvg-logo="https://i.imgur.com/RApMW5x.png" group-title="Разное" tvg-name="Gambero Rosso",Gambero Rosso
@@ -232,8 +228,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="nti-canale-271" tvg-logo="https://i.imgur.com/zlmcUe0.jpg" group-title="Разное" tvg-name="NTI Canale 271",NTI Canale 271
 https://www.ntimedia.it/video/S0B/S0B_master.m3u8
-#EXTINF:-1 tvg-id="nuova-tv-1" tvg-logo="https://i.imgur.com/1yqTZhR.png" group-title="Разное" tvg-name="Nuova Tv 1",Nuova Tv 1
-https://nuovatv.net:8443/tv/stream.m3u8
 #EXTINF:-1 tvg-id="OckoExpres.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-expres-cz.png" group-title="Разное" tvg-name="Óčko Expres Ⓢ",Óčko Expres Ⓢ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 tvg-id="Ocko.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-cz.png" group-title="Разное" tvg-name="Óčko Ⓢ",Óčko Ⓢ
@@ -330,8 +324,6 @@ https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 https://stream-23.mazana.tv/slagrmuzika.m3u8s
 #EXTINF:-1 tvg-id="SlagrOriginal.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-original-cz.png" group-title="Разное" tvg-name="Šlágr Originál Ⓢ",Šlágr Originál Ⓢ
 https://stream-13.mazana.tv/slagroriginal.m3u8s
-#EXTINF:-1 tvg-id="sophia-tv" tvg-logo="https://i.imgur.com/fiLNK3b.jpg" group-title="Разное" tvg-name="Sophia Tv",Sophia Tv
-https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="stiletv" tvg-logo="https://i.imgur.com/ZP3cJi7.png" group-title="Разное" tvg-name="Stiletv",Stiletv
 https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
 #EXTINF:-1 tvg-id="studio-100" tvg-logo="https://i.imgur.com/z84qFXd.png" group-title="Разное" tvg-name="Studio 100",Studio 100
@@ -340,8 +332,6 @@ https://cdn16.streamshow.it/cloud-studio100/studio100/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Super!.it" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Super%21_logo_2015.svg/330px-Super%21_logo_2015.svg.png" group-title="Разное" tvg-name="Super!",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.imgur.com/3CEijac.png" group-title="Разное" tvg-name="T13 en vivo",T13 en vivo
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tcf-tv" tvg-logo="https://i.imgur.com/fiylFs2.jpg" group-title="Разное" tvg-name="Tcf Tv",Tcf Tv
 https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tele-bari" tvg-logo="https://i.imgur.com/HYSz4rx.png" group-title="Разное" tvg-name="Tele Bari",Tele Bari
